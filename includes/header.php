@@ -7,11 +7,11 @@
              <div class="left-box d-flex flex-wrap">
                  <ul class="info">
                      <li>
-                         <span class="icon flaticon-placeholder"></span><a href="contact.html">Destinations</a>
+                         <span class="icon flaticon-placeholder"></span><a href="contact.html">Direcció<nav></nav></a>
                      </li>
-                     <li>
+                     <!-- <li>
                          <span class="icon flaticon-hotel"></span><a href="room-1.html">Hotels</a>
-                     </li>
+                     </li> -->
                  </ul>
                  <!-- Social Box -->
                  <ul class="social-box">
@@ -19,13 +19,7 @@
                          <a href="https://www.facebook.com/" class="fa fa-facebook-f"></a>
                      </li>
                      <li>
-                         <a href="https://www.twitter.com/" class="fa fa-twitter"></a>
-                     </li>
-                     <li>
-                         <a href="https://dribbble.com/" class="fa fa-dribbble"></a>
-                     </li>
-                     <li>
-                         <a href="https://www.linkedin.com/" class="fa fa-linkedin"></a>
+                         <a href="https://www.twitter.com/" class="fa fa-instagram"></a>
                      </li>
                  </ul>
              </div>
@@ -69,7 +63,7 @@
              <div class="inner-container d-flex justify-content-between align-items-center flex-wrap">
                  <div class="logo-box">
                      <div class="logo">
-                         <a href="index.html"><img src="images/logo.png" alt="" title="" /></a>
+                         <a href="index.html"><img style="width: 13rem;" src="images/jobeal.png" alt="" title="" /></a>
                      </div>
                  </div>
 
@@ -180,7 +174,7 @@
          <div class="auto-container d-flex justify-content-between align-items-center flex-wrap">
              <!-- Logo -->
              <div class="logo">
-                 <a href="index.html" title=""><img src="images/sticky-logo.png" alt="" title="" /></a>
+                 <a href="/" title=""><img style="width: 13rem;" src="images/logo2.png" alt="" title="" /></a>
              </div>
 
              <!-- Main Menu -->
@@ -206,7 +200,7 @@
 
          <nav class="menu-box">
              <div class="nav-logo">
-                 <a href="index.html"><img src="images/logo-sidebar.png" alt="" title="" /></a>
+                 <a href="/"><img src="images/logo.png" alt="" title="" /></a>
              </div>
              <div class="menu-outer">
                  <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->

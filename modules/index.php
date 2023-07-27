@@ -56,7 +56,7 @@
 
 <section class="video-index" style="margin-bottom: 4rem;">
     <div class="video-container">
-        <iframe
+        <iframe id="video"
             src="https://www.youtube.com/embed/Q7cizdthb0g?controls=0&autoplay=1&mute=1&playsinline=1&loop=1&playlist=Q7cizdthb0g"></iframe>
     </div>
 
@@ -204,16 +204,16 @@
             <div class="image-column col-lg-6 col-md-12 col-sm-12">
                 <div class="inner-column">
                     <div class="image titlt" data-tilt data-tilt-max="3">
-                        <img src="images/resource/hotel-1.jpg" alt="" />
+                        <img src="images/resource/hotel-1.jpg?=1" alt="" />
                     </div>
                     <div class="image-two">
-                        <img src="images/resource/hotel-2.jpg" alt="" />
+                        <img src="images/resource/hotel-2.jpg?=1" alt="" />
                         <div class="overlay-box">
-                            <div class="title">Present for over</div>
+                            <div class="title">Con más de </div>
                             <div class="counter">
-                                <span class="odometer" data-count="20"></span>
+                                <span class="odometer" data-count="10"></span>
                             </div>
-                            <div class="years">Years.</div>
+                            <div class="years">años.</div>
                         </div>
                     </div>
                 </div>
@@ -234,7 +234,7 @@
                     <!-- Video Box -->
                     <div class="video-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <figure class="video-image">
-                            <img src="images/resource/video-image.jpg" alt="" />
+                            <img src="images/resource/video-image.jpg?=1" alt="" />
                         </figure>
                         <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image overlay-box"><span
                                 class="flaticon-play-arrow"><i class="ripple"></i></span></a>
@@ -270,7 +270,7 @@
                                 <li>Alquiler para bodas y fiestas</li>
                             </ul>
                             <div class="image wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                <img src="images/resource/hotel-3.jpg" alt="" />
+                                <img src="images/resource/hotel-3.jpg?=1" alt="" />
                             </div>
                         </div>
                         <!-- Column -->
@@ -282,7 +282,7 @@
                                 <li>Mayordomo, bartender, camarero y más</li>
                             </ul>
                             <div class="image wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                <img src="images/resource/hotel-4.jpg" alt="" />
+                                <img src="images/resource/hotel-4.jpg?=1" alt="" />
                             </div>
                         </div>
                     </div>
@@ -668,121 +668,206 @@
                 <div class="tabs-content">
                     <!-- Tab / Active Tab -->
                     <div class="tab active-tab" id="prod-spa">
-                        <div class="content-box" style="background-image: url(images/resource/hotel-5.jpg)">
-                            <!-- Content -->
-                            <div class="content">
-                                <div class="number">01</div>
-                                <h4>
-                                    <a href="#">Chef Privado</a>
-                                    <p style="color: #fff; font-size: .8rem;">
-                                        Siempre me esfuerzo por crear una experiencia gastronómica individualizada que
-                                        sea refinada e inesperada a la vez para que mis clientes la disfruten con sus
-                                        invitados. En constante evolución y cambio, mi cocina está inspirada en mis
-                                        continuos viajes, así como por mis raíces mexicanas nativas y la formación
-                                        tradicional italiana, asiática y francesa. Mi cocina destaca lo mejor de los
-                                        productos locales de temporada de Los Cabos, con gran énfasis en las técnicas
-                                        adecuadas, sabores audaces y delicadeza.
-                                    </p>
-                                    <a class="more" href="#">Accommodation</a>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="content-box">
+                                    <!-- Content -->
+                                    <div class="content">
+                                        <div class="number">01</div>
+                                        <h4>
+                                            <a href="#">Chef Privado</a>
+                                            <p style="color: #fff; font-size: .8rem;">
+                                                Siempre me esfuerzo por crear una experiencia gastronómica
+                                                individualizada que
+                                                sea refinada e inesperada a la vez para que mis clientes la disfruten
+                                                con sus
+                                                invitados. En constante evolución y cambio, mi cocina está inspirada en
+                                                mis
+                                                continuos viajes, así como por mis raíces mexicanas nativas y la
+                                                formación
+                                                tradicional italiana, asiática y francesa. Mi cocina destaca lo mejor de
+                                                los
+                                                productos locales de temporada de Los Cabos, con gran énfasis en las
+                                                técnicas
+                                                adecuadas, sabores audaces y delicadeza.
+                                            </p>
+                                            <a class="more" href="#">Accommodation</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="fotorama" data-width="700" data-height="500">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <!-- Tab -->
                     <div class="tab" id="prod-rooms">
-                        <div class="content-box" style="background-image: url(images/resource/hotel-5.jpg)">
-                            <!-- Content -->
-                            <div class="content">
-                                <div class="number">02</div>
-                                <h4>
-                                    <a href="#">Compras de Comestibles</a>
-                                </h4>
-                                <p style="color: #fff; font-size: .8rem;">
-                                    Sería agradable llegar a su villa en Cabo después de viajar y encontrar la cocina ya
-                                    abastecida con su elección de comestibles. <br>
+                        <div class="row">
+                            <div class="col-6">
+                                <div class="content-box">
+                                    <!-- Content -->
+                                    <div class="content">
+                                        <div class="number">02</div>
+                                        <h4>
+                                            <a href="#">Compras de Comestibles</a>
+                                        </h4>
+                                        <p style="color: #fff; font-size: .8rem;">
+                                            Sería agradable llegar a su villa en Cabo después de viajar y encontrar la
+                                            cocina ya
+                                            abastecida con su elección de comestibles. <br>
 
-                                    Obtenga sus comestibles entregados por los profesionales y no pierda ni un minuto de
-                                    su
-                                    tiempo de vacaciones. Usted está en buenas manos con el servicio de entrega de
-                                    Jobeal
-                                    Catering.
-                                </p>
+                                            Obtenga sus comestibles entregados por los profesionales y no pierda ni un
+                                            minuto de
+                                            su
+                                            tiempo de vacaciones. Usted está en buenas manos con el servicio de entrega
+                                            de
+                                            Jobeal
+                                            Catering.
+                                        </p>
 
-                                <a class="more" href="#">Accommodation</a>
+                                        <a class="more" href="#">Accommodation</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="fotorama" data-width="700" data-height="500">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <!-- Tab -->
                     <div class="tab" id="prod-cuisine">
-                        <div class="content-box" style="background-image: url(images/resource/hotel-5.jpg)">
-                            <!-- Content -->
-                            <div class="content">
-                                <div class="number">03</div>
-                                <h4>
-                                    <a href="#">Alquiler para bodas y fiestas</a>
-                                </h4>
-                                <p style="color: #fff; font-size: .8rem;">
-                                    Creando bodas y eventos inolvidables a través de inspiraciones y no sólo inventario.
-                                    Con
-                                    una amplia colección de alquileres y diseños florales para completar la experiencia
-                                    de
-                                    su evento.
-                                </p>
-                                <a class="more" href="#">Accommodation</a>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="content-box">
+                                    <!-- Content -->
+                                    <div class="content">
+                                        <div class="number">03</div>
+                                        <h4>
+                                            <a href="#">Alquiler para bodas y fiestas</a>
+                                        </h4>
+                                        <p style="color: #fff; font-size: .8rem;">
+                                            Creando bodas y eventos inolvidables a través de inspiraciones y no sólo
+                                            inventario.
+                                            Con
+                                            una amplia colección de alquileres y diseños florales para completar la
+                                            experiencia
+                                            de
+                                            su evento.
+                                        </p>
+                                        <a class="more" href="#">Accommodation</a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-6">
+                                <div class="fotorama" data-width="700" data-height="500">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <!-- Tab -->
                     <div class="tab" id="prod-meeting">
-                        <div class="content-box" style="background-image: url(images/resource/hotel-5.jpg)">
-                            <!-- Content -->
-                            <div class="content">
-                                <div class="number">04</div>
-                                <h4>
-                                    <a href="#">Pasteles de boda y cumpleaños</a>
-                                </h4>
-                                <p style="color: #fff; font-size: .8rem;">
-                                    Siempre me esfuerzo por crear una experiencia gastronómica individualizada que sea
-                                    refinada e inesperada a la vez para que mis clientes la disfruten con sus invitados.
-                                    En constante evolución y cambio, mi cocina está inspirada en mis continuos viajes,
-                                    así como por mis raíces mexicanas nativas y la formación tradicional italiana,
-                                    asiática y francesa. <br>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="content-box">
+                                    <!-- Content -->
+                                    <div class="content">
+                                        <div class="number">04</div>
+                                        <h4>
+                                            <a href="#">Pasteles de boda y cumpleaños</a>
+                                        </h4>
+                                        <p style="color: #fff; font-size: .8rem;">
+                                            Siempre me esfuerzo por crear una experiencia gastronómica individualizada
+                                            que sea
+                                            refinada e inesperada a la vez para que mis clientes la disfruten con sus
+                                            invitados.
+                                            En constante evolución y cambio, mi cocina está inspirada en mis continuos
+                                            viajes,
+                                            así como por mis raíces mexicanas nativas y la formación tradicional
+                                            italiana,
+                                            asiática y francesa. <br>
 
-                                    Mi cocina destaca lo mejor de los productos locales de temporada de Los Cabos, con
-                                    gran énfasis en las técnicas adecuadas, sabores audaces y delicadeza.
-                                </p>
-                                <a class="more" href="#">Accommodation</a>
+                                            Mi cocina destaca lo mejor de los productos locales de temporada de Los
+                                            Cabos, con
+                                            gran énfasis en las técnicas adecuadas, sabores audaces y delicadeza.
+                                        </p>
+                                        <a class="more" href="#">Accommodation</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="fotorama" data-width="700" data-height="500">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+
+                                </div>
                             </div>
                         </div>
                     </div>
 
                     <!-- Tab -->
                     <div class="tab" id="prod-destination">
-                        <div class="content-box" style="background-image: url(images/resource/hotel-5.jpg)">
-                            <!-- Content -->
-                            <div class="content">
-                                <div class="number">05</div>
-                                <h4>
-                                    <a href="#">Alquiler de Yates</a>
-                                </h4>
-                                <p style="color: #fff; font-size: .8rem;">
-                                    Nuestros servicios Premium están dirigidos a todos aquellos que aman el estilo de
-                                    vida de los yates y desean deleitarse en las extraordinarias aguas de Los Cabos.
-                                    Ofrecemos una excelente calidad de productos y atención al cliente para nuestros
-                                    clientes exclusivos; ya sea para un crucero casual, bodas, fiestas o eventos
-                                    corporativos.
-                                    <br>
-                                    Oferta de Verano:
-                                    8 Invitados <br>
-                                    3 horas de paseo <br>
-                                    1 Chef Cocinando a bordo <br>
-                                    Todo lo que puedas beber <br>
-                                    $900 US <br>
-                                    <b> Los impuestos no están incluidos</b>
-                                </p>
-                                <a class="more" href="#">Accommodation</a>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="content-box">
+                                    <!-- Content -->
+                                    <div class="content">
+                                        <div class="number">05</div>
+                                        <h4>
+                                            <a href="#">Alquiler de Yates</a>
+                                        </h4>
+                                        <p style="color: #fff; font-size: .8rem;">
+                                            Nuestros servicios Premium están dirigidos a todos aquellos que aman el
+                                            estilo de
+                                            vida de los yates y desean deleitarse en las extraordinarias aguas de Los
+                                            Cabos.
+                                            Ofrecemos una excelente calidad de productos y atención al cliente para
+                                            nuestros
+                                            clientes exclusivos; ya sea para un crucero casual, bodas, fiestas o eventos
+                                            corporativos.
+                                            <br>
+                                            Oferta de Verano:
+                                            8 Invitados <br>
+                                            3 horas de paseo <br>
+                                            1 Chef Cocinando a bordo <br>
+                                            Todo lo que puedas beber <br>
+                                            $900 US <br>
+                                            <b> Los impuestos no están incluidos</b>
+                                        </p>
+                                        <a class="more" href="#">Accommodation</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="fotorama" data-width="700" data-height="500">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -790,20 +875,36 @@
 
                     <!-- Tab -->
                     <div class="tab" id="more">
-                        <div class="content-box" style="background-image: url(images/resource/hotel-5.jpg)">
-                            <!-- Content -->
-                            <div class="content">
-                                <div class="number">06</div>
-                                <h4>
-                                    <a href="#"> Mayordomo, bartender y Más... </a>
-                                </h4>
-                                <p style="color: #fff; font-size: .8rem;">
-                                    Descubre la excelencia en cada detalle con nuestro exclusivo servicio de eventos.
-                                    Mayordomos, meseros, bartenders y más, dedicados a hacer tu ocasión inolvidable.
-                                    Profesionalismo y pasión en cada momento. Confía en nosotros para crear recuerdos
-                                    memorables.
-                                </p>
-                                <a class="more" href="#">Accommodation</a>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="content-box">
+                                    <!-- Content -->
+                                    <div class="content">
+                                        <div class="number">06</div>
+                                        <h4>
+                                            <a href="#"> Mayordomo, bartender y Más... </a>
+                                        </h4>
+                                        <p style="color: #fff; font-size: .8rem;">
+                                            Descubre la excelencia en cada detalle con nuestro exclusivo servicio de
+                                            eventos.
+                                            Mayordomos, meseros, bartenders y más, dedicados a hacer tu ocasión
+                                            inolvidable.
+                                            Profesionalismo y pasión en cada momento. Confía en nosotros para crear
+                                            recuerdos
+                                            memorables.
+                                        </p>
+                                        <a class="more" href="#">Accommodation</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="fotorama" data-width="700" data-height="500">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -953,86 +1054,455 @@
 </section>
 <!-- End Facility Section -->
 
-<!-- Pricing Section -->
-<section class="pricing-section">
+
+<!-- Offers Section Two -->
+<section class="offer-section-two">
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
-            <div class="title">our room prices</div>
-            <h2>the best prices</h2>
+            <div class="title">La mejor experiencia</div>
+            <h2>Experiencia gastronómica exclusiva <br> <strong>en Los Cabos</strong></h2>
+            <div class="text">
+                Todos los paquetes de bienvenida son por <b>$30 cada persona</b>, también todos los paquetes de
+                bienvenida
+                vienen con margaritas.
+            </div>
         </div>
-        <div class="row clearfix">
-            <!-- Price Block -->
-            <div class="price-block col-lg-6 col-md-12 col-sm-12">
+        <div class="offer-carousel owl-carousel owl-theme">
+
+            <!-- Offer Block Two -->
+            <div class="offer-block-two">
                 <div class="inner-box">
-                    <div class="d-flex align-items-center">
-                        <!-- Content Column -->
-                        <div class="content-column">
-                            <div class="inner-column">
-                                <div class="price">$45 <span>/ night</span></div>
-                                <h3><a href="reservation.html">Single Room</a></h3>
-                                <ul class="options-list">
-                                    <li>Pick and Drop Service</li>
-                                    <li>Swimming Pool</li>
-                                    <li>City Tour Guide</li>
-                                    <li>Fibre Internet</li>
-                                </ul>
-                                <!-- Button Box -->
-                                <div class="button-box">
-                                    <a href="reservation.html" class="theme-btn btn-style-two"><span class="txt">Book
-                                            Now</span></a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Image Column -->
-                        <div class="image-column">
-                            <div class="inner-column">
-                                <div class="image">
-                                    <a href="reservation.html"><img src="images/resource/price-1.jpg" alt="" /></a>
-                                </div>
-                            </div>
+                    <div class="image">
+                        <a href="room-detail.html"><img src="images/resource/offer-1.jpg" alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <!-- <div class="price">$135 <span>/ night</span></div> -->
+                        <h3><a href="room-detail.html">Paquete Mariscos #1</a></h3>
+                        <div class="text">
+                            * Ceviche de pescado con mango <br>
+                            * Cocktel de camarón <br>
+                            * Quesadillas de pescado <br>
+                            * Aguachile de camarón <br>
+                            * Salsa tatemada <br>
+                            * Totopos
                         </div>
                     </div>
                 </div>
             </div>
 
-            <!-- Price Block -->
-            <div class="price-block col-lg-6 col-md-12 col-sm-12">
+            <!-- Offer Block Two -->
+            <div class="offer-block-two">
                 <div class="inner-box">
-                    <div class="d-flex align-items-center">
-                        <!-- Content Column -->
-                        <div class="content-column">
-                            <div class="inner-column">
-                                <div class="price">$65 <span>/ night</span></div>
-                                <h3><a href="reservation.html">small suit</a></h3>
-                                <ul class="options-list">
-                                    <li>Pick and Drop Service</li>
-                                    <li>Swimming Pool</li>
-                                    <li>City Tour Guide</li>
-                                    <li>Fibre Internet</li>
-                                </ul>
-                                <!-- Button Box -->
-                                <div class="button-box">
-                                    <a href="reservation.html" class="theme-btn btn-style-two"><span class="txt">Book
-                                            Now</span></a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- Image Column -->
-                        <div class="image-column">
-                            <div class="inner-column">
-                                <div class="image">
-                                    <a href="reservation.html"><img src="images/resource/price-2.jpg" alt="" /></a>
-                                </div>
-                            </div>
+                    <div class="image">
+                        <a href="room-detail.html"><img src="images/resource/offer-2.jpg" alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <!-- <div class="price">$135 <span>/ night</span></div> -->
+                        <h3><a href="room-detail.html">Paquete Italiano #2</a></h3>
+                        <div class="text">
+                            * Bruschetta <br>
+                            * Tabla de Quesos <br>
+                            * Pan <br>
+                            * Galletas <br>
+                            * Bruschetta Capresse <br>
+                            * Macaroni & queso
                         </div>
                     </div>
                 </div>
             </div>
+
+            <!-- Offer Block Two -->
+            <div class="offer-block-two">
+                <div class="inner-box">
+                    <div class="image">
+                        <a href="room-detail.html"><img src="images/resource/offer-3.jpg" alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <!-- <div class="price">$135 <span>/ night</span></div> -->
+                        <h3><a href="room-detail.html">Paquete Mexicano #3</a></h3>
+                        <div class="text">
+                            * Tostadas de tinga de pollo <br>
+                            * Sope de chorizo <br>
+                            * Tacos de pollo <br>
+                            * Guacamole <br>
+                            * Pico de gallo y totopos
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Offer Block Two -->
+            <div class="offer-block-two">
+                <div class="inner-box">
+                    <div class="image">
+                        <a href="room-detail.html"><img src="images/resource/offer-1.jpg" alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <!-- <div class="price">$135 <span>/ night</span></div> -->
+                        <h3><a href="room-detail.html">Paquete Mexicano #4</a></h3>
+                        <div class="text">
+                            * Empanadas Carne o queso <br>
+                            * Nachos de carne o pollo con frijoles, pico de gallo, guacamole crema y jalapeños <br>
+                            * Alitas de pollo de tamarindo, mango habanero o jamaica <br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Offer Block Two -->
+            <div class="offer-block-two">
+                <div class="inner-box">
+                    <div class="image">
+                        <a href="room-detail.html"><img src="images/resource/offer-1.jpg" alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <!-- <div class="price">$135 <span>/ night</span></div> -->
+                        <h3><a href="room-detail.html">Paquete Asiático #5</a></h3>
+                        <div class="text">
+                            * Sashimi Serranito <br>
+                            * Gyozas de carne <br>
+                            * Nigiris de atún y salmón <br>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
         </div>
     </div>
 </section>
-<!-- End Pricing Section -->
+<!-- End Offers Section Two -->
+
+
+
+<!-- Reservation Section -->
+<section class="reservation-section" style="background-color: var(--color-five);">
+    <div class="auto-container">
+        <!-- Sec Title -->
+        <div class="sec-title centered">
+            <div class="title">Una experiencia única </div>
+            <h2>Conoce nuestro menú</h2>
+            <!-- <div class="text">
+                Todos los paquetes de bienvenida son por <b>$30 cada persona</b>, también todos los paquetes de
+                bienvenida
+                vienen con margaritas.
+            </div> -->
+        </div>
+        <!-- Product Info Tabs -->
+        <div class="reservation-info-tabs">
+            <!-- Reservation Tabs -->
+            <div class="reservation-tabs tabs-box">
+
+                <!-- Tab Btns -->
+                <ul class="tab-btns tab-buttons clearfix">
+                    <li data-tab="#prod-room" class="tab-btn active-btn">Desayunos</li>
+                    <li data-tab="#prod-dining" class="tab-btn">Comida</li>
+                    <li data-tab="#prod-treatment" class="tab-btn">Cena</li>
+                    <li data-tab="#premium" class="tab-btn">Cena Premium</li>
+                </ul>
+
+                <!-- Tabs Container -->
+                <div class="tabs-content">
+                    <!-- Tab / Active Tab -->
+                    <div class="tab active-tab" id="prod-room">
+                        <div class="content">
+                            <div class="row clearfix justify-content-center">
+                                <!-- Form Column -->
+                                <div class="form-column col-lg-8 col-md-12 col-sm-12">
+                                    <div class="inner-column">
+                                        <img src="images/resource/01.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab -->
+                    <div class="tab" id="prod-dining">
+                        <div class="content">
+                            <div class="row clearfix justify-content-center">
+                                <!-- Form Column -->
+                                <div class="form-column col-lg-8 col-md-12 col-sm-12">
+                                    <div class="inner-column">
+                                        <img src="images/resource/01.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab -->
+                    <div class="tab" id="prod-treatment">
+                        <div class="content">
+                            <div class="row clearfix justify-content-center">
+                                <!-- Form Column -->
+                                <div class="form-column col-lg-8 col-md-12 col-sm-12">
+                                    <div class="inner-column">
+                                        <img src="images/resource/01.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Tab -->
+                    <div class="tab" id="premium">
+                        <div class="content">
+                            <div class="row clearfix justify-content-center">
+                                <!-- Form Column -->
+                                <div class="form-column col-lg-8 col-md-12 col-sm-12">
+                                    <div class="inner-column">
+                                        <img src="images/resource/01.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+<!-- End Reservation Section -->
+
+
+
+
+<!-- Offer Section -->
+<section hidden class="offer-section" style="margin-top: 5rem;">
+    <div class="auto-container">
+        <!-- Sec Title -->
+        <div class="sec-title">
+            <div class="title">Deleitate con lo mejor</div>
+            <h2>Nuestros Paquetes</h2>
+        </div>
+        <div class="rate"> Sabores de Lujo</div>
+
+        <div class="row clearfix">
+            <!-- Left Column -->
+            <div class="left-column col-lg-6 col-md-12 col-sm-12">
+                <!-- Offer Block -->
+                <div class="offer-block">
+                    <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="content">
+                            <div class="image">
+                                <img src="images/resource/hotel-6.jpg" alt="" />
+                            </div>
+                            <h3><a href="room-detail.html">Paquete Mariscos</a></h3>
+                            <!-- <h3><a href="room-detail.html">Seafood Package #1<span>$50 /day</span></a></h3> -->
+                            <div class="text">business and private passengers to pick and drop from airport, hote.</div>
+                            <div class="sub-title">INCLUDED</div>
+                            <ul class="options">
+                                <li>Ceviche de pescado con mango</li>
+                                <li>Rental / Rent a Car with Driver</li>
+                                <li>Pick & Drop Other Location</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column -->
+            <div class="right-column col-lg-6 col-md-12 col-sm-12">
+                <!-- Offer Block -->
+                <div class="offer-block">
+                    <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="content">
+                            <div class="image">
+                                <img src="images/resource/hotel-7.jpg" alt="" />
+                            </div>
+                            <h3><a href="room-detail.html">Paquete Italiano</a></h3>
+                            <div class="text">The Spa Wellness - Today begins the journey to a new you.</div>
+                            <div class="sub-title">INCLUDED</div>
+                            <ul class="options">
+                                <li>Pure Bliss Massages</li>
+                                <li>The Steam Room Massage</li>
+                                <li>Fiona's Facials</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Offer Block -->
+                <div class="offer-block">
+                    <div class="inner-box wow fadeInRight" data-wow-delay="150ms" data-wow-duration="1500ms">
+                        <div class="content">
+                            <div class="image">
+                                <img src="images/resource/hotel-8.jpg" alt="" />
+                            </div>
+                            <h3><a href="room-detail.html">Paquete Mexicano </a></h3>
+                            <div class="text">Enjoy 15% off our Room Rate when you stay four or more nights.</div>
+                            <div class="sub-title">INCLUDED</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="auto-container">
+        <!-- Sec Title -->
+        <div class="sec-title">
+            <div class="title">Stay in our luxury</div>
+            <h2>Featured Offer</h2>
+        </div>
+        <div class="rate">Best Rate Guaranteed</div>
+        <div class="row clearfix">
+
+            <!-- Left Column -->
+            <div class="left-column col-lg-6 col-md-12 col-sm-12">
+                <!-- Offer Block -->
+                <div class="offer-block">
+                    <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="content">
+                            <div class="image">
+                                <img src="images/resource/hotel-6.jpg" alt="" />
+                            </div>
+                            <h3><a href="room-detail.html">Paquete Mexicano</a></h3>
+                            <div class="text">business and private passengers to pick and drop from airport, hote.</div>
+                            <div class="sub-title">INCLUDED</div>
+                            <ul class="options">
+                                <li>Travel & Tours</li>
+                                <li>Rental / Rent a Car with Driver</li>
+                                <li>Pick & Drop Other Location</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column -->
+            <div class="right-column col-lg-6 col-md-12 col-sm-12">
+                <!-- Offer Block -->
+                <div class="offer-block">
+                    <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="content">
+                            <div class="image">
+                                <img src="images/resource/hotel-7.jpg" alt="" />
+                            </div>
+                            <h3><a href="room-detail.html">Paquete Asiático</a></h3>
+                            <div class="text">The Spa Wellness - Today begins the journey to a new you.</div>
+                            <div class="sub-title">INCLUDED</div>
+                            <ul class="options">
+                                <li>Pure Bliss Massages</li>
+                                <li>The Steam Room Massage</li>
+                                <li>Fiona's Facials</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+    </div>
+</section>
+<!-- End Offer Section -->
+
+
+
+<!-- Reservation Section -->
+
+<!-- Sec Title -->
+<div class="sec-title centered mt-5">
+    <div class="title">¿Buscas un toque gourmet en tu próxima celebración? </div>
+    <h2>Reserva Ahora</h2>
+
+</div>
+<section class="reservation-section" style="margin-bottom: 4rem;">
+    <div class="auto-container">
+        <!-- Product Info Tabs -->
+        <div class="reservation-info-tabs">
+            <div class="content">
+
+                <div class="row clearfix">
+                    <!-- Form Column -->
+                    <div class="form-column col-lg-8 col-md-8 col-sm-12">
+                        <div class="inner-column">
+                            <!-- Reservation Form -->
+                            <div class="reservation-form">
+                                <form method="post" action="https://themerange.net/html/oluro/blog.html">
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                            <label>Nombre</label>
+                                            <div class="form-group">
+                                                <input type="text" name="username" placeholder="Nombre" required="">
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                            <label>Apellido</label>
+                                            <div class="form-group">
+                                                <input type="text" name="username" placeholder="Apellido" required="">
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                            <label>Correo</label>
+                                            <div class="form-group">
+                                                <input type="text" name="username" placeholder="Correo" required="">
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                            <label>Teléfono</label>
+                                            <div class="form-group">
+                                                <input type="text" name="username" placeholder="Teléfono" required="">
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                            <label>Servicio a cotizar</label>
+                                            <div class="form-group">
+                                                <select name="currency" class="custom-select-box">
+                                                    <option>Chef Privado</option>
+                                                    <option>Mayordomo</option>
+                                                    <option>Compras</option>
+                                                    <option>Renta de Yates</option>
+                                                </select>
+                                            </div>
+                                        </div>
+
+                                        <div class="col-lg-6 col-md-6 col-sm-12 form-group">
+                                            <label>Fecha del evento</label>
+                                            <span class="icon flaticon-calendar"></span>
+                                            <input class="datepicker" type="text" name="departure"
+                                                placeholder="Seleccione fecha" required="">
+                                        </div>
+
+                                    </div>
+
+
+                                </form>
+                            </div>
+                            <!-- End Reservation Form -->
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2913.02604196982!2d-109.70768667169497!3d23.090398434102354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1690501028579!5m2!1ses-419!2smx"
+                            width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+
+                    <!-- Image Column -->
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+<!-- End Reservation Section -->
 
 <!-- Testimonial Section -->
 <section class="testimonial-section" style="background-image: url(images/background/1.jpg)">
@@ -1131,207 +1601,3 @@
     </div>
 </section>
 <!-- End Testimonial Section -->
-
-<!-- News Section -->
-<section class="news-section">
-    <div class="auto-container">
-        <!-- Sec Title -->
-        <div class="sec-title centered">
-            <div class="title">stay in the loop</div>
-            <h2>news & update</h2>
-        </div>
-
-        <!-- News Block -->
-        <div class="news-block">
-            <div class="inner-box">
-                <div class="d-flex align-items-center">
-                    <div class="image">
-                        <a href="blog-detail.html"><img src="images/resource/news-1.jpg" alt="" /></a>
-                    </div>
-                    <div class="content-box">
-                        <div class="post-date">
-                            11
-                            <span>dec <br />
-                                2022</span>
-                        </div>
-                        <h4>
-                            <a href="blog-detail.html">Benefits of Swimming <br />
-                                for Your Health</a>
-                        </h4>
-                        <div class="text">
-                            Nisl quam nestibulum ac quam necodio elemen the aucan ligula
-                            Nisl quam nestibulum ac quam.
-                        </div>
-                        <a class="read-more" href="blog-detail.html">Read More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="row clearfix">
-            <!-- News Block Two -->
-            <div class="news-block-two col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    <div class="post-date">
-                        11
-                        <span>dec <br />
-                            2022</span>
-                    </div>
-                    <h4>
-                        <a href="blog-detail.html">A hotel experience for Valentine's Day 2022!</a>
-                    </h4>
-                    <div class="text">
-                        Nisl quam nestibulum ac quam necodio elemen the aucan ligula
-                        Nisl quam nestibulum ac quam.
-                    </div>
-                    <a class="read-more" href="blog-detail.html">Read More</a>
-                </div>
-            </div>
-
-            <!-- News Block Two -->
-            <div class="news-block-two col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    <div class="post-date">
-                        11
-                        <span>dec <br />
-                            2022</span>
-                    </div>
-                    <h4>
-                        <a href="blog-detail.html">The Regency House Hotel is situated</a>
-                    </h4>
-                    <div class="text">
-                        Nisl quam nestibulum ac quam necodio elemen the aucan ligula
-                        Nisl quam nestibulum ac quam.
-                    </div>
-                    <a class="read-more" href="blog-detail.html">Read More</a>
-                </div>
-            </div>
-
-            <!-- News Block Two -->
-            <div class="news-block-two col-lg-4 col-md-6 col-sm-12">
-                <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                    <div class="post-date">
-                        11
-                        <span>dec <br />
-                            2022</span>
-                    </div>
-                    <h4>
-                        <a href="blog-detail.html">24 hour cancellation on flexible bookings</a>
-                    </h4>
-                    <div class="text">
-                        Nisl quam nestibulum ac quam necodio elemen the aucan ligula
-                        Nisl quam nestibulum ac quam.
-                    </div>
-                    <a class="read-more" href="blog-detail.html">Read More</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End News Section -->
-
-<!-- Gallery Section -->
-<section class="gallery-section">
-    <div class="auto-container">
-        <!-- Inner Container -->
-        <div class="inner-container d-flex align-items-center">
-            <div class="title-box">
-                <!-- Sec Title -->
-                <div class="sec-title centered">
-                    <h2>Follow @Winsfolio.com</h2>
-                    <div class="title">
-                        Join our community to inspire your desires
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <!-- Outer Container -->
-        <div class="outer-container">
-            <!-- Gallery Block -->
-            <div class="gallery-block">
-                <div class="inner-box">
-                    <div class="image">
-                        <img src="images/gallery/1.jpg" alt="" />
-                        <div class="overlay-box">
-                            <a href="images/gallery/1.jpg" class="lightbox-image plus flaticon-plus"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Gallery Block -->
-            <div class="gallery-block">
-                <div class="inner-box">
-                    <div class="image">
-                        <img src="images/gallery/2.jpg" alt="" />
-                        <div class="overlay-box">
-                            <a href="images/gallery/2.jpg" class="lightbox-image plus flaticon-plus"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Gallery Block -->
-            <div class="gallery-block">
-                <div class="inner-box">
-                    <div class="image">
-                        <img src="images/gallery/3.jpg" alt="" />
-                        <div class="overlay-box">
-                            <a href="images/gallery/3.jpg" class="lightbox-image plus flaticon-plus"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Gallery Block -->
-            <div class="gallery-block">
-                <div class="inner-box">
-                    <div class="image">
-                        <img src="images/gallery/4.jpg" alt="" />
-                        <div class="overlay-box">
-                            <a href="images/gallery/4.jpg" class="lightbox-image plus flaticon-plus"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Gallery Block -->
-            <div class="gallery-block">
-                <div class="inner-box">
-                    <div class="image">
-                        <img src="images/gallery/5.jpg" alt="" />
-                        <div class="overlay-box">
-                            <a href="images/gallery/5.jpg" class="lightbox-image plus flaticon-plus"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Gallery Block -->
-            <div class="gallery-block">
-                <div class="inner-box">
-                    <div class="image">
-                        <img src="images/gallery/6.jpg" alt="" />
-                        <div class="overlay-box">
-                            <a href="images/gallery/6.jpg" class="lightbox-image plus flaticon-plus"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Gallery Block -->
-            <div class="gallery-block">
-                <div class="inner-box">
-                    <div class="image">
-                        <img src="images/gallery/7.jpg" alt="" />
-                        <div class="overlay-box">
-                            <a href="images/gallery/7.jpg" class="lightbox-image plus flaticon-plus"></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- End Gallery Section -->

@@ -16,3 +16,4 @@
  <script src="js/nav-tool.js"></script>
  <script src="js/jquery-ui.js"></script>
  <script src="js/script.js"></script>
+ <script src="js/validate.js"></script>
