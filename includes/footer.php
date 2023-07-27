@@ -85,7 +85,7 @@
                 </div>
 
                 <!-- Footer Column -->
-                <div class="footer-column col-lg-4 col-md-12 col-sm-12">
+                <div hidden class="footer-column col-lg-4 col-md-12 col-sm-12">
                     <div class="footer-widget newsletter-widget">
                         <h5>Newsletter</h5>
                         <div class="text">
@@ -120,8 +120,8 @@
                 <!-- Column -->
                 <div class="column col-lg-6 col-md-12 col-sm-12">
                     <div class="copyright">
-                        &copy; 2022 All Rights Reserved. Design By
-                        <a href="https://themeforest.net/user/codeliono">codeliono</a>
+                        &copy; 2023 Chef In Cabo. Todos los derecehos reservados. Diseñado por 
+                        <a href="https://bananagroup.mx">Banana Group Marketing</a>
                     </div>
                 </div>
                 <!-- Column -->

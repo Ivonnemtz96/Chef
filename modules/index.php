@@ -172,7 +172,8 @@
                         <div class="title">Chef in Cabo By Jobeal Catering</div>
                         <h2>Chef Benito Rosas</h2>
                         <div class="text" style="text-align: justify;">
-                            Como <strong>Chef en Los Cabos</strong> siempre me esfuerzo por crear una experiencia culinaria
+                            Como <strong>Chef en Los Cabos</strong> siempre me esfuerzo por crear una experiencia
+                            culinaria
                             individualizada que sea a la vez refinada e inesperada para que mis clientes disfruten con
                             sus invitados. <br>
                             Somos conocidos en el mercado de Los Cabos por utilizar siempre productos orgánicos y
@@ -278,7 +279,7 @@
                             <ul class="check-list">
                                 <li>Pasteles de bodas y cumpleaños</li>
                                 <li>Alquiler de yates</li>
-                                <li>Mayordomo, camarero, camarero y más</li>
+                                <li>Mayordomo, bartender, camarero y más</li>
                             </ul>
                             <div class="image wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                                 <img src="images/resource/hotel-4.jpg" alt="" />
@@ -293,7 +294,7 @@
 <!-- End Hospitality Section -->
 
 <!-- Accomodation Section -->
-<section class="accomodation-section">
+<section hidden class="accomodation-section">
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
@@ -618,18 +619,20 @@
         <div class="sec-title">
             <div class="d-flex justify-content-between align-items-center flex-wrap">
                 <div>
-                    <div class="title alternate">Explore the Highlights</div>
+                    <div class="title alternate">Disfruta de una Experiencia Única </div>
                     <h2>
-                        hotel and natural <br />
-                        resources
+                        Chef In Cabo <br />
                     </h2>
+                    <h6>Nuestros Servicios</h6>
                 </div>
                 <!-- Phone Box -->
                 <div class="phone-box">
                     <div class="box-inner">
                         <span class="icon flaticon-telephone"></span>
-                        Help Line: <br />
-                        <a href="tel:+44-1298-123-987">+44 1298 123 987</a>
+                        Contáctanos: <br />
+                        <a target="_blank"
+                            href="https://api.whatsapp.com/send/?phone=5216241131604&text&type=phone_number&app_absent=0">+52
+                            624 113 1604</a>
                     </div>
                 </div>
             </div>
@@ -642,19 +645,22 @@
                 <!-- Tab Btns -->
                 <ul class="tab-btns tab-buttons clearfix">
                     <li data-tab="#prod-spa" class="tab-btn active-btn">
-                        <span>01</span> Health Spa
+                        <span>01</span> Chef Privado
                     </li>
                     <li data-tab="#prod-rooms" class="tab-btn">
-                        <span>02</span> Modern Rooms
+                        <span>02</span> Compras
                     </li>
                     <li data-tab="#prod-cuisine" class="tab-btn">
-                        <span>03</span> Cuisine
+                        <span>03</span> Alquiler para Bodas y Fiestas
                     </li>
                     <li data-tab="#prod-meeting" class="tab-btn">
-                        <span>04</span> Meetings & Incentives
+                        <span>04</span> Pasteles
                     </li>
                     <li data-tab="#prod-destination" class="tab-btn">
-                        <span>05</span> Destination
+                        <span>05</span> Alquiler de Yates
+                    </li>
+                    <li data-tab="#more" class="tab-btn">
+                        <span>06</span> Mayordomo, bartender y Más...
                     </li>
                 </ul>
 
@@ -667,20 +673,17 @@
                             <div class="content">
                                 <div class="number">01</div>
                                 <h4>
-                                    <a href="#">Exceptionally elegant meeting rooms</a>
-                                </h4>
-                                <ul class="list">
-                                    <li>
-                                        7 meeting rooms in total, including <br />
-                                        a boardroom
-                                    </li>
-                                    <li>
-                                        An experienced meetings and <br />
-                                        events team
-                                    </li>
-                                    <li>Flexible meeting space options</li>
-                                </ul>
-                                <a class="more" href="#">Accommodation</a>
+                                    <a href="#">Chef Privado</a>
+                                    <p style="color: #fff; font-size: .8rem;">
+                                        Siempre me esfuerzo por crear una experiencia gastronómica individualizada que
+                                        sea refinada e inesperada a la vez para que mis clientes la disfruten con sus
+                                        invitados. En constante evolución y cambio, mi cocina está inspirada en mis
+                                        continuos viajes, así como por mis raíces mexicanas nativas y la formación
+                                        tradicional italiana, asiática y francesa. Mi cocina destaca lo mejor de los
+                                        productos locales de temporada de Los Cabos, con gran énfasis en las técnicas
+                                        adecuadas, sabores audaces y delicadeza.
+                                    </p>
+                                    <a class="more" href="#">Accommodation</a>
                             </div>
                         </div>
                     </div>
@@ -692,19 +695,19 @@
                             <div class="content">
                                 <div class="number">02</div>
                                 <h4>
-                                    <a href="#">Exceptionally elegant meeting rooms</a>
+                                    <a href="#">Compras de Comestibles</a>
                                 </h4>
-                                <ul class="list">
-                                    <li>
-                                        7 meeting rooms in total, including <br />
-                                        a boardroom
-                                    </li>
-                                    <li>
-                                        An experienced meetings and <br />
-                                        events team
-                                    </li>
-                                    <li>Flexible meeting space options</li>
-                                </ul>
+                                <p style="color: #fff; font-size: .8rem;">
+                                    Sería agradable llegar a su villa en Cabo después de viajar y encontrar la cocina ya
+                                    abastecida con su elección de comestibles. <br>
+
+                                    Obtenga sus comestibles entregados por los profesionales y no pierda ni un minuto de
+                                    su
+                                    tiempo de vacaciones. Usted está en buenas manos con el servicio de entrega de
+                                    Jobeal
+                                    Catering.
+                                </p>
+
                                 <a class="more" href="#">Accommodation</a>
                             </div>
                         </div>
@@ -717,19 +720,15 @@
                             <div class="content">
                                 <div class="number">03</div>
                                 <h4>
-                                    <a href="#">Exceptionally elegant meeting rooms</a>
+                                    <a href="#">Alquiler para bodas y fiestas</a>
                                 </h4>
-                                <ul class="list">
-                                    <li>
-                                        7 meeting rooms in total, including <br />
-                                        a boardroom
-                                    </li>
-                                    <li>
-                                        An experienced meetings and <br />
-                                        events team
-                                    </li>
-                                    <li>Flexible meeting space options</li>
-                                </ul>
+                                <p style="color: #fff; font-size: .8rem;">
+                                    Creando bodas y eventos inolvidables a través de inspiraciones y no sólo inventario.
+                                    Con
+                                    una amplia colección de alquileres y diseños florales para completar la experiencia
+                                    de
+                                    su evento.
+                                </p>
                                 <a class="more" href="#">Accommodation</a>
                             </div>
                         </div>
@@ -742,19 +741,18 @@
                             <div class="content">
                                 <div class="number">04</div>
                                 <h4>
-                                    <a href="#">Exceptionally elegant meeting rooms</a>
+                                    <a href="#">Pasteles de boda y cumpleaños</a>
                                 </h4>
-                                <ul class="list">
-                                    <li>
-                                        7 meeting rooms in total, including <br />
-                                        a boardroom
-                                    </li>
-                                    <li>
-                                        An experienced meetings and <br />
-                                        events team
-                                    </li>
-                                    <li>Flexible meeting space options</li>
-                                </ul>
+                                <p style="color: #fff; font-size: .8rem;">
+                                    Siempre me esfuerzo por crear una experiencia gastronómica individualizada que sea
+                                    refinada e inesperada a la vez para que mis clientes la disfruten con sus invitados.
+                                    En constante evolución y cambio, mi cocina está inspirada en mis continuos viajes,
+                                    así como por mis raíces mexicanas nativas y la formación tradicional italiana,
+                                    asiática y francesa. <br>
+
+                                    Mi cocina destaca lo mejor de los productos locales de temporada de Los Cabos, con
+                                    gran énfasis en las técnicas adecuadas, sabores audaces y delicadeza.
+                                </p>
                                 <a class="more" href="#">Accommodation</a>
                             </div>
                         </div>
@@ -767,23 +765,50 @@
                             <div class="content">
                                 <div class="number">05</div>
                                 <h4>
-                                    <a href="#">Exceptionally elegant meeting rooms</a>
+                                    <a href="#">Alquiler de Yates</a>
                                 </h4>
-                                <ul class="list">
-                                    <li>
-                                        7 meeting rooms in total, including <br />
-                                        a boardroom
-                                    </li>
-                                    <li>
-                                        An experienced meetings and <br />
-                                        events team
-                                    </li>
-                                    <li>Flexible meeting space options</li>
-                                </ul>
+                                <p style="color: #fff; font-size: .8rem;">
+                                    Nuestros servicios Premium están dirigidos a todos aquellos que aman el estilo de
+                                    vida de los yates y desean deleitarse en las extraordinarias aguas de Los Cabos.
+                                    Ofrecemos una excelente calidad de productos y atención al cliente para nuestros
+                                    clientes exclusivos; ya sea para un crucero casual, bodas, fiestas o eventos
+                                    corporativos.
+                                    <br>
+                                    Oferta de Verano:
+                                    8 Invitados <br>
+                                    3 horas de paseo <br>
+                                    1 Chef Cocinando a bordo <br>
+                                    Todo lo que puedas beber <br>
+                                    $900 US <br>
+                                    <b> Los impuestos no están incluidos</b>
+                                </p>
                                 <a class="more" href="#">Accommodation</a>
                             </div>
                         </div>
                     </div>
+
+
+                    <!-- Tab -->
+                    <div class="tab" id="more">
+                        <div class="content-box" style="background-image: url(images/resource/hotel-5.jpg)">
+                            <!-- Content -->
+                            <div class="content">
+                                <div class="number">06</div>
+                                <h4>
+                                    <a href="#"> Mayordomo, bartender y Más... </a>
+                                </h4>
+                                <p style="color: #fff; font-size: .8rem;">
+                                    Descubre la excelencia en cada detalle con nuestro exclusivo servicio de eventos.
+                                    Mayordomos, meseros, bartenders y más, dedicados a hacer tu ocasión inolvidable.
+                                    Profesionalismo y pasión en cada momento. Confía en nosotros para crear recuerdos
+                                    memorables.
+                                </p>
+                                <a class="more" href="#">Accommodation</a>
+                            </div>
+                        </div>
+                    </div>
+
+
                 </div>
             </div>
         </div>
@@ -792,7 +817,7 @@
 <!-- End Resource Section -->
 
 <!-- Facility Section -->
-<section class="facility-section">
+<section hidden class="facility-section">
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
@@ -876,6 +901,51 @@
                             ligula.
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+        <div class="row clearfix">
+            <!-- Column -->
+            <div class="column col-lg-4 col-md-6 col-sm-12">
+                <!-- Hotel Block -->
+                <div class="hotel-block">
+                    <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <!-- Icon Box -->
+                        <div class="icon-box">
+                            <div class="icon flaticon-airplane"></div>
+                        </div>
+                        <h4><a href="room-detail.html">Airport Pickup</a></h4>
+                        <div class="text">
+                            Nisl quam nestibulum ac quam necodio elemen the aucan
+                            ligula.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Column -->
+            <div class="column col-lg-4 col-md-6 col-sm-12">
+                <!-- Hotel Block -->
+                <div class="hotel-block">
+                    <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <!-- Icon Box -->
+                        <div class="icon-box">
+                            <div class="icon flaticon-wifi-signal"></div>
+                        </div>
+                        <h4><a href="room-detail.html">Fibre Internet</a></h4>
+                        <div class="text">
+                            Nisl quam nestibulum ac quam necodio elemen the aucan
+                            ligula.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Column -->
+            <div class="column col-lg-4 col-md-6 col-sm-12">
+                <!-- Image -->
+                <div class="image wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <img src="images/resource/tea.jpg" alt="" />
                 </div>
             </div>
         </div>
@@ -973,10 +1043,10 @@
                 <div class="inner-column">
                     <!-- Sec Title / Light -->
                     <div class="sec-title light">
-                        <div class="title">testimonial</div>
+                        <div class="title">Opiniones</div>
                         <h2>
-                            Client’s <br />
-                            Reviews!
+                            ¿Qué Dicen <br />
+                            Nuestros Clientes?
                         </h2>
                     </div>
                     <div class="icon">
@@ -1000,12 +1070,12 @@
                                     <span class="fa fa-star"></span>
                                 </div>
                                 <div class="text">
-                                    Exercitation photo booth stumptown tote bag Banksy, elit
-                                    small batch freegan sed. Craft beer elit seitan
-                                    exercitation, photo booth
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere explicabo nesciunt
+                                    sunt voluptates libero nulla dolor repellendus, temporibus animi minima commodi
+                                    corporis pariatur maiores esse ut amet soluta porro alias.
                                 </div>
                                 <div class="author">
-                                    Jessica Willimes
+                                    Cliente 1
                                     <span>Guest Review</span>
                                 </div>
                             </div>
@@ -1022,12 +1092,12 @@
                                     <span class="fa fa-star"></span>
                                 </div>
                                 <div class="text">
-                                    Exercitation photo booth stumptown tote bag Banksy, elit
-                                    small batch freegan sed. Craft beer elit seitan
-                                    exercitation, photo booth
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere explicabo nesciunt
+                                    sunt voluptates libero nulla dolor repellendus, temporibus animi minima commodi
+                                    corporis pariatur maiores esse ut amet soluta porro alias.
                                 </div>
                                 <div class="author">
-                                    Jessica Willimes
+                                    cliente 2
                                     <span>Guest Review</span>
                                 </div>
                             </div>
@@ -1044,12 +1114,12 @@
                                     <span class="fa fa-star"></span>
                                 </div>
                                 <div class="text">
-                                    Exercitation photo booth stumptown tote bag Banksy, elit
-                                    small batch freegan sed. Craft beer elit seitan
-                                    exercitation, photo booth
+                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere explicabo nesciunt
+                                    sunt voluptates libero nulla dolor repellendus, temporibus animi minima commodi
+                                    corporis pariatur maiores esse ut amet soluta porro alias.
                                 </div>
                                 <div class="author">
-                                    Jessica Willimes
+                                    Cliente 3
                                     <span>Guest Review</span>
                                 </div>
                             </div>
