@@ -7,7 +7,7 @@
                 <!-- Logo Column -->
                 <div class="logo-column col-xl-5 col-lg-4 col-md-12 col-sm-12">
                     <div class="logo">
-                        <a href="index.html"><img src="images/jobeal.png" alt="" title="" /></a>
+                        <a href="index.html"><img src="/images/jobeal.png" alt="" title="" /></a>
                     </div>
                 </div>
                 <!-- Info Column -->
@@ -125,9 +125,9 @@
                 <!-- Column -->
                 <div class="column col-lg-6 col-md-12 col-sm-12">
                     <ul class="social-nav">
-                        <li><a href="#">Facebook</a></li>
-                        <li><a href="#">Instagram</a></li>
-                        <li><a href="#">Tiktok</a></li>
+                        <li><a target="_blank" href="https://www.facebook.com/jobealcatering?mibextid=2JQ9oc">Facebook</a></li>
+                        <li><a target="_blank" href="https://instagram.com/chefincabomx?igshid=MmU2YjMzNjRlOQ==">Instagram</a></li>
+                        <li><a target="_blank" href="https://vm.tiktok.com/ZM2s5aELE/">Tiktok</a></li>
                     </ul>
                 </div>
             </div>

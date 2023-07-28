@@ -690,7 +690,7 @@
 	width: 0%;
 	height: 100%;
 	z-index: 1;
-	background: rgba(0,0,0,0.90);
+	background: rgba(0,0,0,0.57);
 	-webkit-transform: translateX(101%);
 	-ms-transform: translateX(101%);
 	transform: translateX(101%);

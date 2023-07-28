@@ -7,7 +7,8 @@
              <div class="left-box d-flex flex-wrap">
                  <ul class="info">
                      <li>
-                         <span class="icon flaticon-placeholder"></span><a href="contact.html">Direcció<nav></nav></a>
+                         <span class="icon flaticon-placeholder"></span><a target="_blank"
+                             href="https://goo.gl/maps/TNb74X5BdG3WTEbP7">Ver mapa<nav></nav></a>
                      </li>
                      <!-- <li>
                          <span class="icon flaticon-hotel"></span><a href="room-1.html">Hotels</a>
@@ -16,10 +17,10 @@
                  <!-- Social Box -->
                  <ul class="social-box">
                      <li>
-                         <a href="https://www.facebook.com/" class="fa fa-facebook-f"></a>
+                         <a target="_blank" href="https://www.facebook.com/jobealcatering?mibextid=2JQ9oc" class="fa fa-facebook-f"></a>
                      </li>
                      <li>
-                         <a href="https://www.twitter.com/" class="fa fa-instagram"></a>
+                         <a target="_blank" href="https://instagram.com/chefincabomx?igshid=MmU2YjMzNjRlOQ==" class="fa fa-instagram"></a>
                      </li>
                  </ul>
              </div>
@@ -28,14 +29,8 @@
              <div class="right-box d-flex flex-wrap">
                  <ul class="info">
                      <li>
-                         <span class="icon flaticon-gift-box"></span><a href="gift.html">Gift Vouchers</a>
-                     </li>
-                     <li>
-                         <span class="icon flaticon-calendar"></span><a href="reservation.html">My Reservations</a>
-                     </li>
-                     <li>
-                         <span class="icon flaticon-email-2"></span>Email:
-                         <a href="mailto:user@domain.com">user@domain.com</a>
+                         <span class="icon flaticon-email-2"></span>Correo:
+                         <a target="_blank" href="mailto:info@chefincabo.com">info@chefincabo.com</a>
                      </li>
                  </ul>
 
@@ -43,14 +38,17 @@
                  <div class="language-dropdown">
                      <button class="dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown"
                          aria-expanded="false">
-                         <i><img src="images/icons/usa-flag.png" alt="" /></i>Eng
+                         <i><img src="/images/icons/usa-flag.png" alt="" /></i>Eng
                          &nbsp;<span class="fa fa-angle-down"></span>
                      </button>
                      <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
-                         <li><a class="dropdown-item" href="#">French</a></li>
-                         <li><a class="dropdown-item" href="#">Arbic</a></li>
-                         <li><a class="dropdown-item" href="#">Urdu</a></li>
-                         <li><a class="dropdown-item" href="#">Hindi</a></li>
+                         <li>
+                             <a class="dropdown-item" href="#">
+                                 <i>
+                                     <img style="width: 1.6rem; margin-right: 10px;" src="/images/icons/mxn.svg" alt="" /></i>Esp
+                                 &nbsp;
+                             </a>
+                         </li>
                      </ul>
                  </div>
              </div>
@@ -63,7 +61,7 @@
              <div class="inner-container d-flex justify-content-between align-items-center flex-wrap">
                  <div class="logo-box">
                      <div class="logo">
-                         <a href="index.html"><img style="width: 13rem;" src="images/jobeal.png" alt="" title="" /></a>
+                         <a href="index.html"><img style="width: 13rem;" src="/images/jobeal.png" alt="" title="" /></a>
                      </div>
                  </div>
 
@@ -82,65 +80,16 @@
 
                          <div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
                              <ul class="navigation clearfix">
-                                 <li class="dropdown">
-                                     <a href="#">Home</a>
-                                     <ul>
-                                         <li><a href="index.html">Homepage One</a></li>
-                                         <li><a href="index-2.html">Homepage Two</a></li>
-                                         <li><a href="index-3.html">Homepage Three</a></li>
-                                         <li class="dropdown">
-                                             <a href="#">Header Styles</a>
-                                             <ul>
-                                                 <li><a href="index.html">Header Style One</a></li>
-                                                 <li>
-                                                     <a href="index-2.html">Header Style Two</a>
-                                                 </li>
-                                                 <li>
-                                                     <a href="index-3.html">Header Style Three</a>
-                                                 </li>
-                                             </ul>
-                                         </li>
-                                     </ul>
+                                 <li>
+                                     <a href="/">Inicio</a>
                                  </li>
-                                 <li class="dropdown">
-                                     <a href="#">About</a>
-                                     <ul>
-                                         <li><a href="about.html">About Us</a></li>
-                                         <li><a href="faq.html">Faq's</a></li>
-                                         <li><a href="event.html">Event</a></li>
-                                         <li><a href="team.html">Our Team</a></li>
-                                         <li><a href="gift.html">Gift Vouchers</a></li>
-                                     </ul>
+                                 <li >
+                                     <a href="/#about">Sobre mi</a>
                                  </li>
-                                 <li class="dropdown">
-                                     <a href="#">Rooms & Suites</a>
-                                     <ul>
-                                         <li><a href="room-1.html">Room 01</a></li>
-                                         <li><a href="room-2.html">Room 02</a></li>
-                                         <li><a href="room-3.html">Room 03</a></li>
-                                         <li><a href="packages.html">Packages</a></li>
-                                         <li><a href="room-detail.html">room Detail</a></li>
-                                         <li>
-                                             <a href="reservation.html">room Reservation</a>
-                                         </li>
-                                         <li>
-                                             <a href="restaurant.html">Restaurant & Bar</a>
-                                         </li>
-                                         <li><a href="meeting.html">Meeting & Events</a></li>
-                                     </ul>
-                                 </li>
-                                 <li><a href="gallery.html">Gallery</a></li>
-                                 <li class="dropdown">
-                                     <a href="#">Blog</a>
-                                     <ul>
-                                         <li><a href="blog.html">Our Blog</a></li>
-                                         <li><a href="blog-list.html">Blog List</a></li>
-                                         <li><a href="blog-classic.html">Blog Classic</a></li>
-                                         <li><a href="blog-detail.html">Blog Single</a></li>
-                                         <li><a href="not-found.html">Not Found</a></li>
-                                     </ul>
-                                 </li>
-                                 <li><a href="contact.html">Contact us</a></li>
+                                 <li><a href="/#services">Servicios</a></li>
+                                 <li><a href="/#paquetes">Paquetes</a></li>
+                                 <li><a href="/#menu">Menú</a></li>
+                                 <li><a href="/#contact">Contactar</a></li>
                              </ul>
                          </div>
                      </nav>
@@ -150,13 +99,13 @@
                  <!-- Outer Box -->
                  <div class="outer-box d-flex align-items-center flex-wrap">
                      <!-- Nav Toggler -->
-                     <div class="nav-toggle-btn a-nav-toggle navSidebar-button flaticon-hamburger"></div>
+                     <!-- <div class="nav-toggle-btn a-nav-toggle navSidebar-button flaticon-hamburger"></div> -->
 
                      <!-- Button Box -->
-                     <div class="button-box">
+                     <!-- <div class="button-box">
                          <a href="reservation.html" class="theme-btn btn-style-one"><span class="txt"><i
                                      class="flaticon-calendar-2"></i> Book Now</span></a>
-                     </div>
+                     </div> -->
 
                      <!-- Mobile Navigation Toggler -->
                      <div class="mobile-nav-toggler">
@@ -174,7 +123,7 @@
          <div class="auto-container d-flex justify-content-between align-items-center flex-wrap">
              <!-- Logo -->
              <div class="logo">
-                 <a href="/" title=""><img style="width: 13rem;" src="images/logo2.png" alt="" title="" /></a>
+                 <a href="/" title=""><img style="width: 13rem;" src="/images/logo2.png" alt="" title="" /></a>
              </div>
 
              <!-- Main Menu -->
@@ -200,7 +149,7 @@
 
          <nav class="menu-box">
              <div class="nav-logo">
-                 <a href="/"><img src="images/logo.png" alt="" title="" /></a>
+                 <a href="/"><img src="/images/logo2.png" alt="" title="" /></a>
              </div>
              <div class="menu-outer">
                  <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
