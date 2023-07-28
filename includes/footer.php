@@ -1,13 +1,13 @@
 <!-- Main Footer -->
 <footer class="main-footer">
-    <div class="auto-container">
+    <div hidden class="auto-container">
         <!-- Upper Box -->
         <div class="upper-box">
             <div class="row clearfix">
                 <!-- Logo Column -->
                 <div class="logo-column col-xl-5 col-lg-4 col-md-12 col-sm-12">
                     <div class="logo">
-                        <a href="index.html"><img src="images/logo.png" alt="" title="" /></a>
+                        <a href="index.html"><img src="images/jobeal.png" alt="" title="" /></a>
                     </div>
                 </div>
                 <!-- Info Column -->
@@ -17,20 +17,18 @@
                         <div class="info-box col-lg-6 col-md-6 col-sm-12">
                             <div class="box-inner">
                                 <span class="icon flaticon-telephone"></span>
-                                Reservation :
-                                <a href="tel:+44-1298-123-987">+44 1298 123 987</a>
-                                Booking :
-                                <a href="tel:+44-1298-123-987">+44 1298 123 987</a>
+                                Reservaciones :
+                                <a href="tel:+526241131604">+52 624 113 1604</a>
+
                             </div>
                         </div>
                         <!-- Info Box -->
                         <div class="info-box col-lg-6 col-md-6 col-sm-12">
                             <div class="box-inner">
                                 <span class="icon flaticon-email"></span>
-                                General:
-                                <a href="mailto:user@domain.com">user@domain.com</a>
-                                Reception :
-                                <a href="mailto:Office@domain.com">Office@domain.com</a>
+                                Correo:
+                                <a href="mailto:info@chefincabo.com">info@chefincabo.com</a>
+
                             </div>
                         </div>
                     </div>
@@ -45,15 +43,15 @@
                 <!-- Footer Column -->
                 <div class="footer-column col-lg-4 col-md-6 col-sm-12">
                     <div class="footer-widget location-widget">
-                        <h5>Location</h5>
+                        <h5>dirección</h5>
                         <div class="text">
-                            Harbour House, 60 Purewell, Town 23 /x Christchurch, England
+                            Álvaro Obregón, Ampliación Juárez, 23469 Cabo San Lucas, B.C.S.
                         </div>
                         <!-- Button Box -->
                         <div class="button-box">
-                            <a href="reservation.html" class="theme-btn btn-style-three"><span class="txt"><i
-                                        class="flaticon-directions-1"></i> get
-                                    direction</span></a>
+                            <a target="_blank" href="https://goo.gl/maps/v3Pq9TgDtfGmDuJg7" class="theme-btn btn-style-three"><span class="txt"><i
+                                        class="flaticon-directions-1"></i> 
+                                    Ver mapa</span></a>
                         </div>
                     </div>
                 </div>
@@ -120,7 +118,7 @@
                 <!-- Column -->
                 <div class="column col-lg-6 col-md-12 col-sm-12">
                     <div class="copyright">
-                        &copy; 2023 Chef In Cabo. Todos los derecehos reservados. Diseñado por 
+                        &copy; 2023 Chef In Cabo. Todos los derecehos reservados. Diseñado por
                         <a href="https://bananagroup.mx">Banana Group Marketing</a>
                     </div>
                 </div>
@@ -128,9 +126,8 @@
                 <div class="column col-lg-6 col-md-12 col-sm-12">
                     <ul class="social-nav">
                         <li><a href="#">Facebook</a></li>
-                        <li><a href="#">Twitter</a></li>
                         <li><a href="#">Instagram</a></li>
-                        <li><a href="#">Youtube</a></li>
+                        <li><a href="#">Tiktok</a></li>
                     </ul>
                 </div>
             </div>
