@@ -1,3 +1,58 @@
+<!-- Sidebar Cart Item -->
+<div class="xs-sidebar-group info-group">
+    <div class="xs-overlay xs-bg-black"></div>
+    <div class="xs-sidebar-widget">
+        <div class="sidebar-widget-container">
+            <div class="widget-heading">
+                <a href="#" class="close-side-widget"> X </a>
+            </div>
+            <div class="sidebar-textwidget">
+                <!-- Sidebar Info Content -->
+                <div class="sidebar-info-contents">
+                    <div class="content-inner">
+                        <div class="logo">
+                            <a href="index.html"><img src="images/logo-sidebar.png" alt="" title="" /></a>
+                        </div>
+                        <div class="content-box">
+                            <h6>Services</h6>
+                            <ul class="sidebar-services-list">
+                                <li><a href="#">Who we are</a></li>
+                                <li><a href="#">Why book with us?</a></li>
+                                <li><a href="#">Best-price guarantee</a></li>
+                                <li><a href="#">Our reviewers</a></li>
+                                <li><a href="#">Fined Hotel</a></li>
+                                <li><a href="#">Contact us</a></li>
+                            </ul>
+
+                            <h6>Contact info</h6>
+                            <!-- List Style One -->
+                            <ul class="list-style-one">
+                                <li>
+                                    <span class="icon flaticon-maps-and-flags"></span>
+                                    <strong>Our office</strong>
+                                    A-1, Envanto Headquarters, <br />
+                                    Melbourne, Australia.
+                                </li>
+                                <li>
+                                    <span class="icon flaticon-call-1"></span>
+                                    <strong>Phone</strong>
+                                    <a href="tel:+00-999-999-9999">+(00) 999 999 9999</a><br />
+                                    <a href="tel:+000-000-0000">000 000 0000</a>
+                                </li>
+                                <li>
+                                    <span class="icon flaticon-mail"></span>
+                                    <strong>Email</strong>
+                                    <a href="mailto:contact@oluro.com">contact@oluro.com</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END sidebar widget item -->
 
 <section class="video-index" style="margin-bottom: 4rem;">
     <div class="video-container">
@@ -6,16 +61,15 @@
     </div>
 
     <div id="text" class="text-center">
-        <img src="/images/jobeal.png" alt="">
-        <h2 style="font-size: 1.2rem;">Descubra un nuevo nivel de sabor en Cabo.</h2>
+        <img src="images/jobeal.png" alt="">
+        <h2 style="font-size: 1.2rem;">Discover a new level of vacation in Cabo.</h2>
     </div>
 
 </section>
 
 
-
 <!-- Hotel Section -->
-<section class="hotel-section" id="about">
+<section class="hotel-section">
     <div class="auto-container">
         <div class="row clearfix">
             <!-- Content Column -->
@@ -46,7 +100,7 @@
                     <div hidden class="author-box">
                         <div class="box-inner">
                             <span class="author-image">
-                                <img src="/images/resource/author-1.jpg" alt="" />
+                                <img src="images/resource/author-1.jpg" alt="" />
                             </span>
                             Jessica Puente
                             <span class="designation">Director and Chief Operations Officer</span>
@@ -58,10 +112,10 @@
             <div class="image-column col-lg-6 col-md-12 col-sm-12">
                 <div class="inner-column">
                     <div class="image titlt" data-tilt data-tilt-max="3">
-                        <img src="/images/resource/hotel-1.jpg?=1" alt="" />
+                        <img src="images/resource/hotel-1.jpg?=1" alt="" />
                     </div>
                     <div class="image-two">
-                        <img src="/images/resource/hotel-2.jpg?=1" alt="" />
+                        <img src="images/resource/hotel-2.jpg?=1" alt="" />
                         <div class="overlay-box">
                             <div class="title">Con más de </div>
                             <div class="counter">
@@ -88,16 +142,17 @@
                     <!-- Video Box -->
                     <div class="video-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <figure class="video-image">
-                            <img src="/images/resource/video-image.jpg?=1" alt="" />
+                            <img src="images/resource/video-image.jpg?=1" alt="" />
                         </figure>
-                        <a href="https://www.youtube.com/watch?v=KImv2BYwL2M&t=1s" class="lightbox-image overlay-box"><span
+                        <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="lightbox-image overlay-box"><span
                                 class="flaticon-play-arrow"><i class="ripple"></i></span></a>
                     </div>
                     <!-- Quote Box -->
                     <div class="quote-box">
-                        <span class="quote"><img src="/images/icons/quote.png" alt="" /></span>
+                        <span class="quote"><img src="images/icons/quote.png" alt="" /></span>
                         <div class="text">
-                            Expertos en el arte de la cocina para que disfrutes de los mejores recuerdos en Los Cabos.
+                            Great hospitality is the key to Pride of Britain’s
+                            longstanding reputation for excellence.
                         </div>
                     </div>
                 </div>
@@ -123,7 +178,7 @@
                                 <li>Alquiler para bodas y fiestas</li>
                             </ul>
                             <div class="image wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                <img src="/images/resource/hotel-3.jpg?=1" alt="" />
+                                <img src="images/resource/hotel-3.jpg?=1" alt="" />
                             </div>
                         </div>
                         <!-- Column -->
@@ -135,7 +190,7 @@
                                 <li>Mayordomo, bartender, camarero y más</li>
                             </ul>
                             <div class="image wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-                                <img src="/images/resource/hotel-4.jpg?=1" alt="" />
+                                <img src="images/resource/hotel-4.jpg?=1" alt="" />
                             </div>
                         </div>
                     </div>
@@ -146,9 +201,327 @@
 </section>
 <!-- End Hospitality Section -->
 
+<!-- Accomodation Section -->
+<section hidden class="accomodation-section">
+    <div class="auto-container">
+        <!-- Sec Title -->
+        <div class="sec-title centered">
+            <div class="title">ACCOMODATION & COMFORT</div>
+            <h2>Rooms & Suites</h2>
+        </div>
+        <div class="three-item-carousel owl-carousel owl-theme">
+            <!-- Room Block -->
+            <div class="room-block">
+                <div class="inner-box">
+                    <div class="image">
+                        <img src="images/resource/room-1.jpg" alt="" />
+                        <div class="overlay-box">
+                            <!-- Upper Box -->
+                            <div class="upper-box">
+                                <h3><a href="room-detail.html">Deluxe Room</a></h3>
+                                <div class="price">
+                                    Stay from <span class="theme_color">$50.00</span> Night
+                                </div>
+                            </div>
+                            <!-- Lower Box -->
+                            <div class="lower-box">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <!-- Options List -->
+                                    <ul class="options-list">
+                                        <li class="flaticon-wifi"></li>
+                                        <li class="flaticon-heating"></li>
+                                        <li class="flaticon-cutlery"></li>
+                                    </ul>
+                                    <!-- Review -->
+                                    <div class="review">
+                                        <span class="fa fa-star"></span> 5.0
+                                    </div>
+                                </div>
+                                <a class="more" href="room-detail.html">More Details</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Room Block -->
+            <div class="room-block">
+                <div class="inner-box">
+                    <div class="image">
+                        <img src="images/resource/room-2.jpg" alt="" />
+                        <div class="overlay-box">
+                            <!-- Upper Box -->
+                            <div class="upper-box">
+                                <h3><a href="room-detail.html">Superior Room</a></h3>
+                                <div class="price">
+                                    Stay from <span class="theme_color">$50.00</span> Night
+                                </div>
+                            </div>
+                            <!-- Lower Box -->
+                            <div class="lower-box">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <!-- Options List -->
+                                    <ul class="options-list">
+                                        <li class="flaticon-wifi"></li>
+                                        <li class="flaticon-heating"></li>
+                                        <li class="flaticon-cutlery"></li>
+                                    </ul>
+                                    <!-- Review -->
+                                    <div class="review">
+                                        <span class="fa fa-star"></span> 5.0
+                                    </div>
+                                </div>
+                                <a class="more" href="room-detail.html">More Details</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Room Block -->
+            <div class="room-block">
+                <div class="inner-box">
+                    <div class="image">
+                        <img src="images/resource/room-3.jpg" alt="" />
+                        <div class="overlay-box">
+                            <!-- Upper Box -->
+                            <div class="upper-box">
+                                <h3><a href="room-detail.html">Family Room</a></h3>
+                                <div class="price">
+                                    Stay from <span class="theme_color">$50.00</span> Night
+                                </div>
+                            </div>
+                            <!-- Lower Box -->
+                            <div class="lower-box">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <!-- Options List -->
+                                    <ul class="options-list">
+                                        <li class="flaticon-wifi"></li>
+                                        <li class="flaticon-heating"></li>
+                                        <li class="flaticon-cutlery"></li>
+                                    </ul>
+                                    <!-- Review -->
+                                    <div class="review">
+                                        <span class="fa fa-star"></span> 5.0
+                                    </div>
+                                </div>
+                                <a class="more" href="room-detail.html">More Details</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Room Block -->
+            <div class="room-block">
+                <div class="inner-box">
+                    <div class="image">
+                        <img src="images/resource/room-1.jpg" alt="" />
+                        <div class="overlay-box">
+                            <!-- Upper Box -->
+                            <div class="upper-box">
+                                <h3><a href="room-detail.html">Deluxe Room</a></h3>
+                                <div class="price">
+                                    Stay from <span class="theme_color">$50.00</span> Night
+                                </div>
+                            </div>
+                            <!-- Lower Box -->
+                            <div class="lower-box">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <!-- Options List -->
+                                    <ul class="options-list">
+                                        <li class="flaticon-wifi"></li>
+                                        <li class="flaticon-heating"></li>
+                                        <li class="flaticon-cutlery"></li>
+                                    </ul>
+                                    <!-- Review -->
+                                    <div class="review">
+                                        <span class="fa fa-star"></span> 5.0
+                                    </div>
+                                </div>
+                                <a class="more" href="room-detail.html">More Details</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Room Block -->
+            <div class="room-block">
+                <div class="inner-box">
+                    <div class="image">
+                        <img src="images/resource/room-2.jpg" alt="" />
+                        <div class="overlay-box">
+                            <!-- Upper Box -->
+                            <div class="upper-box">
+                                <h3><a href="room-detail.html">Superior Room</a></h3>
+                                <div class="price">
+                                    Stay from <span class="theme_color">$50.00</span> Night
+                                </div>
+                            </div>
+                            <!-- Lower Box -->
+                            <div class="lower-box">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <!-- Options List -->
+                                    <ul class="options-list">
+                                        <li class="flaticon-wifi"></li>
+                                        <li class="flaticon-heating"></li>
+                                        <li class="flaticon-cutlery"></li>
+                                    </ul>
+                                    <!-- Review -->
+                                    <div class="review">
+                                        <span class="fa fa-star"></span> 5.0
+                                    </div>
+                                </div>
+                                <a class="more" href="room-detail.html">More Details</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Room Block -->
+            <div class="room-block">
+                <div class="inner-box">
+                    <div class="image">
+                        <img src="images/resource/room-3.jpg" alt="" />
+                        <div class="overlay-box">
+                            <!-- Upper Box -->
+                            <div class="upper-box">
+                                <h3><a href="room-detail.html">Family Room</a></h3>
+                                <div class="price">
+                                    Stay from <span class="theme_color">$50.00</span> Night
+                                </div>
+                            </div>
+                            <!-- Lower Box -->
+                            <div class="lower-box">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <!-- Options List -->
+                                    <ul class="options-list">
+                                        <li class="flaticon-wifi"></li>
+                                        <li class="flaticon-heating"></li>
+                                        <li class="flaticon-cutlery"></li>
+                                    </ul>
+                                    <!-- Review -->
+                                    <div class="review">
+                                        <span class="fa fa-star"></span> 5.0
+                                    </div>
+                                </div>
+                                <a class="more" href="room-detail.html">More Details</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Room Block -->
+            <div class="room-block">
+                <div class="inner-box">
+                    <div class="image">
+                        <img src="images/resource/room-1.jpg" alt="" />
+                        <div class="overlay-box">
+                            <!-- Upper Box -->
+                            <div class="upper-box">
+                                <h3><a href="room-detail.html">Deluxe Room</a></h3>
+                                <div class="price">
+                                    Stay from <span class="theme_color">$50.00</span> Night
+                                </div>
+                            </div>
+                            <!-- Lower Box -->
+                            <div class="lower-box">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <!-- Options List -->
+                                    <ul class="options-list">
+                                        <li class="flaticon-wifi"></li>
+                                        <li class="flaticon-heating"></li>
+                                        <li class="flaticon-cutlery"></li>
+                                    </ul>
+                                    <!-- Review -->
+                                    <div class="review">
+                                        <span class="fa fa-star"></span> 5.0
+                                    </div>
+                                </div>
+                                <a class="more" href="room-detail.html">More Details</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Room Block -->
+            <div class="room-block">
+                <div class="inner-box">
+                    <div class="image">
+                        <img src="images/resource/room-2.jpg" alt="" />
+                        <div class="overlay-box">
+                            <!-- Upper Box -->
+                            <div class="upper-box">
+                                <h3><a href="room-detail.html">Superior Room</a></h3>
+                                <div class="price">
+                                    Stay from <span class="theme_color">$50.00</span> Night
+                                </div>
+                            </div>
+                            <!-- Lower Box -->
+                            <div class="lower-box">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <!-- Options List -->
+                                    <ul class="options-list">
+                                        <li class="flaticon-wifi"></li>
+                                        <li class="flaticon-heating"></li>
+                                        <li class="flaticon-cutlery"></li>
+                                    </ul>
+                                    <!-- Review -->
+                                    <div class="review">
+                                        <span class="fa fa-star"></span> 5.0
+                                    </div>
+                                </div>
+                                <a class="more" href="room-detail.html">More Details</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Room Block -->
+            <div class="room-block">
+                <div class="inner-box">
+                    <div class="image">
+                        <img src="images/resource/room-3.jpg" alt="" />
+                        <div class="overlay-box">
+                            <!-- Upper Box -->
+                            <div class="upper-box">
+                                <h3><a href="room-detail.html">Family Room</a></h3>
+                                <div class="price">
+                                    Stay from <span class="theme_color">$50.00</span> Night
+                                </div>
+                            </div>
+                            <!-- Lower Box -->
+                            <div class="lower-box">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <!-- Options List -->
+                                    <ul class="options-list">
+                                        <li class="flaticon-wifi"></li>
+                                        <li class="flaticon-heating"></li>
+                                        <li class="flaticon-cutlery"></li>
+                                    </ul>
+                                    <!-- Review -->
+                                    <div class="review">
+                                        <span class="fa fa-star"></span> 5.0
+                                    </div>
+                                </div>
+                                <a class="more" href="room-detail.html">More Details</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Accomodation Section -->
 
 <!-- Resource Section -->
-<section class="resource-section" id="services">
+<section class="resource-section">
     <div class="auto-container">
         <!-- Sec Title Two -->
         <div class="sec-title">
@@ -226,16 +599,16 @@
                                                 técnicas
                                                 adecuadas, sabores audaces y delicadeza.
                                             </p>
-                                            <a class="more" href="#contact">Contactar</a>
+                                            <a class="more" href="#">Accommodation</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="fotorama" data-width="700" data-height="500">
-                                    <img src="/images/resource/1.jpg" alt="">
-                                    <img src="/images/resource/2.jpg" alt="">
-                                    <img src="/images/resource/3.jpg" alt="">
-                                    <img src="/images/resource/4.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
 
                                 </div>
                             </div>
@@ -267,13 +640,16 @@
                                             Catering.
                                         </p>
 
-                                        <a class="more" href="#contact">Contactar</a>
+                                        <a class="more" href="#">Accommodation</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="fotorama" data-width="700" data-height="500">
-                                    <img class="img-fluid" src="/images/resource/5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
 
                                 </div>
                             </div>
@@ -300,14 +676,17 @@
                                             de
                                             su evento.
                                         </p>
-                                        <a class="more" href="#contact">Contactar</a>
+                                        <a class="more" href="#">Accommodation</a>
                                     </div>
                                 </div>
                             </div>
 
                             <div class="col-6">
                                 <div class="fotorama" data-width="700" data-height="500">
-                                    <img src="/images/resource/6.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
 
                                 </div>
                             </div>
@@ -340,13 +719,16 @@
                                             Cabos, con
                                             gran énfasis en las técnicas adecuadas, sabores audaces y delicadeza.
                                         </p>
-                                        <a class="more" href="#contact">Contactar</a>
+                                        <a class="more" href="#">Accommodation</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="fotorama" data-width="700" data-height="500">
-                                    <img src="/images/resource/7.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
 
                                 </div>
                             </div>
@@ -382,17 +764,16 @@
                                             $900 US <br>
                                             <b> Los impuestos no están incluidos</b>
                                         </p>
-                                        <a class="more" href="#contact">Contactar</a>
+                                        <a class="more" href="#">Accommodation</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="fotorama" data-width="700" data-height="500">
-                                    <img src="/images/resource/9.jpg" alt="">
-                                    <img src="/images/resource/8.jpg" alt="">
-                                    <img src="/images/resource/10.jpg" alt="">
-                                    <img src="/images/resource/11.jpg" alt="">
-                                    <img src="/images/resource/12.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
 
                                 </div>
                             </div>
@@ -420,13 +801,17 @@
                                             recuerdos
                                             memorables.
                                         </p>
-                                        <a class="more" href="#contact">Contactar</a>
+                                        <a class="more" href="#">Accommodation</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="fotorama" data-width="700" data-height="500">
-                                    <img src="/images/resource/13.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+                                    <img src="images/resource/hotel-5.jpg" alt="">
+
                                 </div>
                             </div>
                         </div>
@@ -440,9 +825,146 @@
 </section>
 <!-- End Resource Section -->
 
+<!-- Facility Section -->
+<section hidden class="facility-section">
+    <div class="auto-container">
+        <!-- Sec Title -->
+        <div class="sec-title centered">
+            <div class="title">Stay in our luxury</div>
+            <h2>hotel Facilities</h2>
+        </div>
+        <div class="row clearfix">
+            <!-- Column -->
+            <div class="column col-lg-4 col-md-6 col-sm-12">
+                <!-- Hotel Block -->
+                <div class="hotel-block">
+                    <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <!-- Icon Box -->
+                        <div class="icon-box">
+                            <div class="icon flaticon-airplane"></div>
+                        </div>
+                        <h4><a href="room-detail.html">Airport Pickup</a></h4>
+                        <div class="text">
+                            Nisl quam nestibulum ac quam necodio elemen the aucan
+                            ligula.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Image -->
+                <div class="image wow fadeInLeft" data-wow-delay="150ms" data-wow-duration="1500ms">
+                    <img src="images/resource/pool.jpg" alt="" />
+                </div>
+            </div>
+
+            <!-- Column -->
+            <div class="column col-lg-4 col-md-6 col-sm-12">
+                <!-- Hotel Block -->
+                <div class="hotel-block">
+                    <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <!-- Icon Box -->
+                        <div class="icon-box">
+                            <div class="icon flaticon-wifi-signal"></div>
+                        </div>
+                        <h4><a href="room-detail.html">Fibre Internet</a></h4>
+                        <div class="text">
+                            Nisl quam nestibulum ac quam necodio elemen the aucan
+                            ligula.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hotel Block -->
+                <div class="hotel-block">
+                    <div class="inner-box wow fadeInUp" data-wow-delay="150ms" data-wow-duration="1500ms">
+                        <!-- Icon Box -->
+                        <div class="icon-box">
+                            <div class="icon flaticon-swimming"></div>
+                        </div>
+                        <h4><a href="room-detail.html">Swimming Pool</a></h4>
+                        <div class="text">
+                            Nisl quam nestibulum ac quam necodio elemen the aucan
+                            ligula.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Column -->
+            <div class="column col-lg-4 col-md-6 col-sm-12">
+                <!-- Image -->
+                <div class="image wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <img src="images/resource/tea.jpg" alt="" />
+                </div>
+
+                <!-- Hotel Block -->
+                <div class="hotel-block">
+                    <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <!-- Icon Box -->
+                        <div class="icon-box">
+                            <div class="icon flaticon-tour-guide"></div>
+                        </div>
+                        <h4><a href="room-detail.html">City Tour Guide</a></h4>
+                        <div class="text">
+                            Nisl quam nestibulum ac quam necodio elemen the aucan
+                            ligula.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row clearfix">
+            <!-- Column -->
+            <div class="column col-lg-4 col-md-6 col-sm-12">
+                <!-- Hotel Block -->
+                <div class="hotel-block">
+                    <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <!-- Icon Box -->
+                        <div class="icon-box">
+                            <div class="icon flaticon-airplane"></div>
+                        </div>
+                        <h4><a href="room-detail.html">Airport Pickup</a></h4>
+                        <div class="text">
+                            Nisl quam nestibulum ac quam necodio elemen the aucan
+                            ligula.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Column -->
+            <div class="column col-lg-4 col-md-6 col-sm-12">
+                <!-- Hotel Block -->
+                <div class="hotel-block">
+                    <div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <!-- Icon Box -->
+                        <div class="icon-box">
+                            <div class="icon flaticon-wifi-signal"></div>
+                        </div>
+                        <h4><a href="room-detail.html">Fibre Internet</a></h4>
+                        <div class="text">
+                            Nisl quam nestibulum ac quam necodio elemen the aucan
+                            ligula.
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Column -->
+            <div class="column col-lg-4 col-md-6 col-sm-12">
+                <!-- Image -->
+                <div class="image wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <img src="images/resource/tea.jpg" alt="" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Facility Section -->
+
 
 <!-- Offers Section Two -->
-<section class="offer-section-two" id="paquetes">
+<section class="offer-section-two">
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
@@ -460,11 +982,11 @@
             <div class="offer-block-two">
                 <div class="inner-box">
                     <div class="image">
-                        <a href=""><img src="/images/resource/16.jpg" alt="" /></a>
+                        <a href="room-detail.html"><img src="images/resource/offer-1.jpg" alt="" /></a>
                     </div>
                     <div class="lower-content">
                         <!-- <div class="price">$135 <span>/ night</span></div> -->
-                        <h3><a href="">Paquete Mariscos #1</a></h3>
+                        <h3><a href="room-detail.html">Paquete Mariscos #1</a></h3>
                         <div class="text">
                             * Ceviche de pescado con mango <br>
                             * Cocktel de camarón <br>
@@ -481,11 +1003,11 @@
             <div class="offer-block-two">
                 <div class="inner-box">
                     <div class="image">
-                        <a href="#"><img src="/images/resource/14.jpg" alt="" /></a>
+                        <a href="room-detail.html"><img src="images/resource/offer-2.jpg" alt="" /></a>
                     </div>
                     <div class="lower-content">
                         <!-- <div class="price">$135 <span>/ night</span></div> -->
-                        <h3><a href="#">Paquete Italiano #2</a></h3>
+                        <h3><a href="room-detail.html">Paquete Italiano #2</a></h3>
                         <div class="text">
                             * Bruschetta <br>
                             * Tabla de Quesos <br>
@@ -502,11 +1024,11 @@
             <div class="offer-block-two">
                 <div class="inner-box">
                     <div class="image">
-                        <a href="#"><img src="/images/resource/15.jpg" alt="" /></a>
+                        <a href="room-detail.html"><img src="images/resource/offer-3.jpg" alt="" /></a>
                     </div>
                     <div class="lower-content">
                         <!-- <div class="price">$135 <span>/ night</span></div> -->
-                        <h3><a href="#">Paquete Mexicano #3</a></h3>
+                        <h3><a href="room-detail.html">Paquete Mexicano #3</a></h3>
                         <div class="text">
                             * Tostadas de tinga de pollo <br>
                             * Sope de chorizo <br>
@@ -522,11 +1044,11 @@
             <div class="offer-block-two">
                 <div class="inner-box">
                     <div class="image">
-                        <a href="#"><img src="/images/resource/17.jpg" alt="" /></a>
+                        <a href="room-detail.html"><img src="images/resource/offer-1.jpg" alt="" /></a>
                     </div>
                     <div class="lower-content">
                         <!-- <div class="price">$135 <span>/ night</span></div> -->
-                        <h3><a href="#">Paquete Mexicano #4</a></h3>
+                        <h3><a href="room-detail.html">Paquete Mexicano #4</a></h3>
                         <div class="text">
                             * Empanadas Carne o queso <br>
                             * Nachos de carne o pollo con frijoles, pico de gallo, guacamole crema y jalapeños <br>
@@ -541,11 +1063,11 @@
             <div class="offer-block-two">
                 <div class="inner-box">
                     <div class="image">
-                        <a href="#"><img src="/images/resource/18.jpg" alt="" /></a>
+                        <a href="room-detail.html"><img src="images/resource/offer-1.jpg" alt="" /></a>
                     </div>
                     <div class="lower-content">
                         <!-- <div class="price">$135 <span>/ night</span></div> -->
-                        <h3><a href="#">Paquete Asiático #5</a></h3>
+                        <h3><a href="room-detail.html">Paquete Asiático #5</a></h3>
                         <div class="text">
                             * Sashimi Serranito <br>
                             * Gyozas de carne <br>
@@ -564,7 +1086,7 @@
 
 
 <!-- Reservation Section -->
-<section class="reservation-section" style="background-color: var(--color-five);" id="menu">
+<section class="reservation-section" style="background-color: var(--color-five);">
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
@@ -598,7 +1120,7 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column">
-                                        <img src="/images/resource/01.png" alt="">
+                                        <img src="images/resource/01.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -612,7 +1134,7 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column">
-                                        <img src="/images/resource/01.png" alt="">
+                                        <img src="images/resource/01.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -626,7 +1148,7 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column">
-                                        <img src="/images/resource/01.png" alt="">
+                                        <img src="images/resource/01.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -641,7 +1163,7 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column">
-                                        <img src="/images/resource/01.png" alt="">
+                                        <img src="images/resource/01.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -658,55 +1180,164 @@
 
 
 
-<!-- Contact Section -->
-<section class="contact-info-section" id="contact">
+
+<!-- Offer Section -->
+<section hidden class="offer-section" style="margin-top: 5rem;">
     <div class="auto-container">
         <!-- Sec Title -->
-        <div class="sec-title centered">
-            <div class="title">¿Buscas un toque gourmet en tu próxima celebración? </div>
-            <h2>Reserva Ahora</h2>
+        <div class="sec-title">
+            <div class="title">Deleitate con lo mejor</div>
+            <h2>Nuestros Paquetes</h2>
         </div>
-        <div class="inner-container">
-            <div class="row clearfix">
-                <!-- Info Column -->
-                <div class="info-column col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column">
+        <div class="rate"> Sabores de Lujo</div>
+
+        <div class="row clearfix">
+            <!-- Left Column -->
+            <div class="left-column col-lg-6 col-md-12 col-sm-12">
+                <!-- Offer Block -->
+                <div class="offer-block">
+                    <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                         <div class="content">
-                            <span class="icon flaticon-telephone"></span>
-                            Llamar : <a href="tel:+526241131604">+52 624 113 1604</a>
+                            <div class="image">
+                                <img src="images/resource/hotel-6.jpg" alt="" />
+                            </div>
+                            <h3><a href="room-detail.html">Paquete Mariscos</a></h3>
+                            <!-- <h3><a href="room-detail.html">Seafood Package #1<span>$50 /day</span></a></h3> -->
+                            <div class="text">business and private passengers to pick and drop from airport, hote.</div>
+                            <div class="sub-title">INCLUDED</div>
+                            <ul class="options">
+                                <li>Ceviche de pescado con mango</li>
+                                <li>Rental / Rent a Car with Driver</li>
+                                <li>Pick & Drop Other Location</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column -->
+            <div class="right-column col-lg-6 col-md-12 col-sm-12">
+                <!-- Offer Block -->
+                <div class="offer-block">
+                    <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="content">
+                            <div class="image">
+                                <img src="images/resource/hotel-7.jpg" alt="" />
+                            </div>
+                            <h3><a href="room-detail.html">Paquete Italiano</a></h3>
+                            <div class="text">The Spa Wellness - Today begins the journey to a new you.</div>
+                            <div class="sub-title">INCLUDED</div>
+                            <ul class="options">
+                                <li>Pure Bliss Massages</li>
+                                <li>The Steam Room Massage</li>
+                                <li>Fiona's Facials</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
 
-                <!-- Info Column -->
-                <div class="info-column col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column">
+                <!-- Offer Block -->
+                <div class="offer-block">
+                    <div class="inner-box wow fadeInRight" data-wow-delay="150ms" data-wow-duration="1500ms">
                         <div class="content">
-                            <span class="icon flaticon-envelope-1"></span>
-                            Correo: <a href="mailto:info@chefincabo.com">info@chefincabo.com</a><br>
+                            <div class="image">
+                                <img src="images/resource/hotel-8.jpg" alt="" />
+                            </div>
+                            <h3><a href="room-detail.html">Paquete Mexicano </a></h3>
+                            <div class="text">Enjoy 15% off our Room Rate when you stay four or more nights.</div>
+                            <div class="sub-title">INCLUDED</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="auto-container">
+        <!-- Sec Title -->
+        <div class="sec-title">
+            <div class="title">Stay in our luxury</div>
+            <h2>Featured Offer</h2>
+        </div>
+        <div class="rate">Best Rate Guaranteed</div>
+        <div class="row clearfix">
+
+            <!-- Left Column -->
+            <div class="left-column col-lg-6 col-md-12 col-sm-12">
+                <!-- Offer Block -->
+                <div class="offer-block">
+                    <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="content">
+                            <div class="image">
+                                <img src="images/resource/hotel-6.jpg" alt="" />
+                            </div>
+                            <h3><a href="room-detail.html">Paquete Mexicano</a></h3>
+                            <div class="text">business and private passengers to pick and drop from airport, hote.</div>
+                            <div class="sub-title">INCLUDED</div>
+                            <ul class="options">
+                                <li>Travel & Tours</li>
+                                <li>Rental / Rent a Car with Driver</li>
+                                <li>Pick & Drop Other Location</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column -->
+            <div class="right-column col-lg-6 col-md-12 col-sm-12">
+                <!-- Offer Block -->
+                <div class="offer-block">
+                    <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                        <div class="content">
+                            <div class="image">
+                                <img src="images/resource/hotel-7.jpg" alt="" />
+                            </div>
+                            <h3><a href="room-detail.html">Paquete Asiático</a></h3>
+                            <div class="text">The Spa Wellness - Today begins the journey to a new you.</div>
+                            <div class="sub-title">INCLUDED</div>
+                            <ul class="options">
+                                <li>Pure Bliss Massages</li>
+                                <li>The Steam Room Massage</li>
+                                <li>Fiona's Facials</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
 
             </div>
+
+
         </div>
     </div>
 </section>
-<!-- End Contact Section -->
+<!-- End Offer Section -->
 
-<section class="reservation-section" style="margin-bottom: 4rem; padding-top:0px;">
+
+
+<!-- Reservation Section -->
+
+<!-- Sec Title -->
+<div class="sec-title centered mt-5">
+    <div class="title">¿Buscas un toque gourmet en tu próxima celebración? </div>
+    <h2>Reserva Ahora</h2>
+
+</div>
+<section class="reservation-section" style="margin-bottom: 4rem;">
     <div class="auto-container">
         <!-- Product Info Tabs -->
         <div class="reservation-info-tabs">
             <div class="content">
+
                 <div class="row clearfix">
                     <!-- Form Column -->
-                    <div class="form-column col-lg-8 col-md-8 col-sm-12"
-                        style="background-color: var(--color-five); padding: 4rem;">
+                    <div class="form-column col-lg-8 col-md-8 col-sm-12">
                         <div class="inner-column">
                             <!-- Reservation Form -->
                             <div class="reservation-form">
-                                <form method="post" action="">
+                                <form method="post" action="https://themerange.net/html/oluro/blog.html">
                                     <div class="row">
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Nombre</label>
@@ -754,7 +1385,10 @@
                                             <input class="datepicker" type="text" name="departure"
                                                 placeholder="Seleccione fecha" required="">
                                         </div>
+
                                     </div>
+
+
                                 </form>
                             </div>
                             <!-- End Reservation Form -->
@@ -763,7 +1397,7 @@
 
                     <div class="col-md-4">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.5272433655523!2d-109.9127956242006!3d22.893916021116247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4bcfc40cfde5%3A0xb8bdfd60d1c5a1e7!2sJobeal%20Catering!5e0!3m2!1ses-419!2smx!4v1690562151351!5m2!1ses-419!2smx"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2913.02604196982!2d-109.70768667169497!3d23.090398434102354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51532c7132c7%3A0xf09c9724da511bbd!2sBanana%20Marketing%20Group!5e0!3m2!1ses-419!2smx!4v1690501028579!5m2!1ses-419!2smx"
                             width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
@@ -779,7 +1413,7 @@
 <!-- End Reservation Section -->
 
 <!-- Testimonial Section -->
-<section class="testimonial-section" style="background-image: url(/images/background/1.jpg?=1)">
+<section class="testimonial-section" style="background-image: url(images/background/1.jpg)">
     <div class="auto-container">
         <div class="row clearfix">
             <!-- Title Column -->
@@ -794,9 +1428,7 @@
                         </h2>
                     </div>
                     <div class="icon">
-                        <a target="_blank" href="https://www.tripadvisor.com.mx/Attraction_Review-g152515-d23465516-Reviews-Jobeal_Catering-Cabo_San_Lucas_Los_Cabos_Baja_California.html">
-                            <img src="/images/icons/icon-1.png?=1" alt="" />
-                        </a>
+                        <img src="images/icons/icon-1.png" alt="" />
                     </div>
                 </div>
             </div>
