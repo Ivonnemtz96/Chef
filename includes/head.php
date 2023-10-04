@@ -26,5 +26,7 @@
     <!-- Fotorama from CDNJS, 19 KB -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+     <!-- captcha -->
+ <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 </head>

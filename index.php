@@ -3,7 +3,11 @@
 <?php
     include('includes/head.php');
 ?>
-
+<?
+if (isset($_GET)) {
+  include_once("php/msg.php");
+}
+?>
 <body class="hidden-bar-wrapper">
     <div class="page-wrapper">
         <?php

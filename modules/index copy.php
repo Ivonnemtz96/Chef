@@ -1237,7 +1237,7 @@
                                             <input class="datepicker" type="text" name="fecha" id="fecha"
                                                 placeholder="Seleccione fecha" required="">
                                         </div>
-                                        
+
 
                                     </div>
                                     <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
@@ -1248,12 +1248,12 @@
                                     </div>
 
                                     <div class="form-group">
-                                            <div class="buttons-box">
-                                                <button class="theme-btn btn-style-one">
-                                                    <span class="txt">Enviar</span>
-                                                </button>
-                                            </div>
+                                        <div class="buttons-box">
+                                            <button class="theme-btn btn-style-one">
+                                                <span class="txt">Enviar</span>
+                                            </button>
                                         </div>
+                                    </div>
                                 </form>
                             </div>
                             <!-- End Reservation Form -->
