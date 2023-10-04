@@ -2,6 +2,7 @@
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
+include('backend/config.php');
 
 extract($_REQUEST);
 
@@ -53,6 +54,7 @@ function mandarError($codigo_de_error)
        //header('location: index.html?err=' .$codigo_de_error);
      
     if($codigo_de_error == "0"){
+      
         header('location: /?msj='. $codigo_de_error);
         exit;   
     }
@@ -308,6 +310,20 @@ class Correo
     $this->construirEmail();
     $this->construirCabeceras();
     $enviado = mail($this->para, $this->titulo, $this->cuerpo, $this->cabeceras);
+
+    
     return $enviado;
   }
 }
+
+if ($codigo_de_error == 0) {
+ $sql = "INSERT INTO usuarios(correo, nombre, tel) VALUES ('$mail'. '$nombre', '$tel')";
+ // Ejecutar la consulta
+ if ($conn->query($sql) === true) {
+  echo "Archivo subido correctamente.";
+} else {
+  echo "Ha ocurrido un error al subir el archivo, por favor reintente nuevamente.";
+}
+}
+// Cerrar la conexión a la base de datos
+$conn->close();
