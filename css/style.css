@@ -426,12 +426,12 @@
 
 .hotel-section .image-two .overlay-box{
 	position:absolute;
-	left:45px;
-	top:45px;
-	right:45px;
-	bottom:45px;
+	left:5px;
+	top:205px;
+	right:185px;
+	bottom:10px;
 	text-align:center;
-	padding-top:var(--padding-top-35);
+	padding-top:10px;
 	background-color:#78CDD2B8;
 }
 
@@ -446,7 +446,7 @@
 	position:relative;
 	font-weight:400;
 	line-height:1em;
-	font-size:130px;
+	font-size:50px;
 	color:var(--white-color);
 	font-family:var(--font-family-Cinzel);
 }

@@ -63,7 +63,7 @@
                         <div class="overlay-box">
                             <div class="title">Con más de </div>
                             <div class="counter">
-                                <span class="odometer" data-count="10"></span>
+                                <span class="odometer" data-count="20" style="font-size: 3rem;"></span>
                             </div>
                             <div class="years">años.</div>
                         </div>
@@ -95,7 +95,8 @@
                     <div class="quote-box">
                         <span class="quote"><img src="images/icons/quote.png" alt="" /></span>
                         <div class="text">
-                            ¿Listo para una experiencia gastronómica de vanguardia en casa? Reserva a nuestro chef privado y sorprende a
+                            ¿Listo para una experiencia gastronómica de vanguardia en casa? Reserva a nuestro chef
+                            privado y sorprende a
                             tus invitados
                         </div>
                     </div>
@@ -120,6 +121,7 @@
                                 <li>Chef Privado</li>
                                 <li>Compras</li>
                                 <li>Renta de mobiliario para bodas, fiestas y eventos especiales.</li>
+                                <li>Transportación.</li>
                             </ul>
                             <div class="image wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                 <img src="images/resource/hotel-3.jpg?=1" alt="" />
@@ -147,7 +149,7 @@
 
 
 <!-- Resource Section -->
-<section class="resource-section" id="services">
+<section class="resource-section" id="services" style="padding: 100px 0px 205px;">
     <div class="auto-container">
         <!-- Sec Title Two -->
         <div class="sec-title">
@@ -193,8 +195,11 @@
                     <li data-tab="#prod-destination" class="tab-btn">
                         <span>05</span> Alquiler de Yates con chef abordo
                     </li>
+                    <li data-tab="#transportacion" class="tab-btn">
+                        <span>06</span> Transportación.
+                    </li>
                     <li data-tab="#more" class="tab-btn">
-                        <span>06</span> Mayordomo, bartender y Más...
+                        <span>07</span> Mayordomo, bartender y Más...
                     </li>
                 </ul>
 
@@ -226,7 +231,7 @@
                                                 técnicas
                                                 adecuadas, sabores audaces y delicadeza.
                                             </p>
-                                            <a class="more" href="#">Accommodation</a>
+                                            <a class="more" href="#contact">Contactar</a>
                                     </div>
                                 </div>
                             </div>
@@ -270,7 +275,7 @@
                                             Catering.
                                         </p>
 
-                                        <a class="more" href="#">Accommodation</a>
+                                        <a class="more" href="#contact">Contactar</a>
                                     </div>
                                 </div>
                             </div>
@@ -304,7 +309,7 @@
                                             de
                                             su evento.
                                         </p>
-                                        <a class="more" href="#">Accommodation</a>
+                                        <a class="more" href="#contact">Contactar</a>
                                     </div>
                                 </div>
                             </div>
@@ -343,7 +348,7 @@
                                             Cabos, con
                                             gran énfasis en las técnicas adecuadas, sabores audaces y delicadeza.
                                         </p>
-                                        <a class="more" href="#">Accommodation</a>
+                                        <a class="more" href="#contact">Contactar</a>
                                     </div>
                                 </div>
                             </div>
@@ -384,7 +389,7 @@
                                             $900 US <br>
                                             <b> Los impuestos no están incluidos</b>
                                         </p>
-                                        <a class="more" href="#">Accommodation</a>
+                                        <a class="more" href="#contact">Contactar</a>
                                     </div>
                                 </div>
                             </div>
@@ -402,13 +407,45 @@
 
 
                     <!-- Tab -->
+                    <div class="tab" id="transportacion">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="content-box">
+                                    <!-- Content -->
+                                    <div class="content">
+                                        <div class="number">07</div>
+                                        <h4>
+                                            <a href="#"> Transportación. </a>
+                                        </h4>
+                                        <p style="color: #fff; font-size: .8rem;">
+                                            Imagina un viaje sin preocupaciones, donde la comodidad y la privacidad son
+                                            primordiales. Nuestro servicio de transportación privada está diseñado para
+                                            brindarte exactamente eso y mucho más. Ya sea que estés viajando por
+                                            negocios o placer, nuestros conductores profesionales y vehículos de lujo te
+                                            esperan para llevarte a tu destino con elegancia y eficiencia.
+                                        </p>
+                                        <a class="more" href="#contact">Contactar</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="fotorama" data-width="700" data-height="500">
+                                    <img src="images/resource/19.jpg" alt="">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Tab -->
                     <div class="tab" id="more">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="content-box">
                                     <!-- Content -->
                                     <div class="content">
-                                        <div class="number">06</div>
+                                        <div class="number">07</div>
                                         <h4>
                                             <a href="#"> Mayordomo, bartender y Más... </a>
                                         </h4>
@@ -421,7 +458,7 @@
                                             recuerdos
                                             memorables.
                                         </p>
-                                        <a class="more" href="#">Accommodation</a>
+                                        <a class="more" href="#contact">Contactar</a>
                                     </div>
                                 </div>
                             </div>
@@ -766,7 +803,7 @@
                                                 <input type="text" name="direccion" placeholder="Dirección" required="">
                                             </div>
                                         </div>
-                                        
+
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Menú</label>
                                             <div class="form-group">
