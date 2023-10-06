@@ -26,28 +26,18 @@
                         <div class="text" style="text-align: justify;">
                             Como <strong>Chef en Los Cabos</strong> siempre me esfuerzo por crear una experiencia
                             culinaria
-                            individualizada que sea a la vez refinada e inesperada para que mis clientes disfruten con
+                            individualizada que sea a la vez de vanguardia e inesperada para que mis clientes disfruten con
                             sus invitados. <br>
                             Somos conocidos en el mercado de Los Cabos por utilizar siempre productos orgánicos y
                             frescos de temporada de Los Cabos en nuestra cocina, dichos productos son siempre a la
                             perfección, de esa manera nos aseguramos, que siempre podemos contar con los mejores y más
                             altos productos de calidad de Los Cabos. <br>
-                            Chef en cabo estamos en constante evolucion y cambio, mi cocina esta inspirada en mis
-                            continuos viajes asi como en mis raices nativas mexicanas y en la formacion tradicional
-                            italiana, asiatica y francesa. <br>
+                            Chef in cabo estamos en constante evolucion y cambio, mi cocina esta inspirada en mis
+                            continuos viajes así como en mis raíces nativas mexicanas y en la formación tradicional
+                            italiana, asiática y francesa. <br>
                             Mi cocina destaca lo mejor de los productos locales de temporada de Los Cabos, con gran
                             énfasis en las técnicas adecuadas, sabores audaces y delicadeza.
 
-                        </div>
-                    </div>
-                    <!-- Author Box -->
-                    <div hidden class="author-box">
-                        <div class="box-inner">
-                            <span class="author-image">
-                                <img src="images/resource/author-1.jpg" alt="" />
-                            </span>
-                            Jessica Puente
-                            <span class="designation">Director and Chief Operations Officer</span>
                         </div>
                     </div>
                 </div>
@@ -642,10 +632,13 @@
                         <div class="content">
                             <div class="row clearfix justify-content-center">
                                 <!-- Form Column -->
-                                <div class="form-column col-lg-8 col-md-12 col-sm-12">
+                                <div class="form-column col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery5">
-                                        <a href="images/menu/men01.jpg">
-                                            <img src="images/menu/men01.jpg" alt="">
+                                        <a href="images/menu/esp/01.jpg">
+                                            <img style="width: 40rem;" src="images/menu/esp/01.jpg" alt="">
+                                        </a>
+                                        <a href="images/menu/esp/13.jpg">
+                                            <img style="width: 25rem;" src="images/menu/esp/13.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -658,10 +651,13 @@
                         <div class="content">
                             <div class="row clearfix justify-content-center">
                                 <!-- Form Column -->
-                                <div class="form-column col-lg-8 col-md-12 col-sm-12">
+                                <div class="form-column col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery2">
-                                        <a href="images/menu/men02.jpg">
-                                            <img src="images/menu/men02.jpg" alt="">
+                                        <a href="images/menu/esp/02.jpg">
+                                            <img style="width: 35rem;" src="images/menu/esp/02.jpg" alt="">
+                                        </a>
+                                        <a href="images/menu/esp/03.jpg">
+                                            <img style="width: 35rem;" src="images/menu/esp/03.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -676,11 +672,11 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery3">
-                                        <a href="images/menu/men03.jpg">
-                                            <img src="images/menu/men03.jpg" alt="" style="width: 30rem;">
+                                        <a href="images/menu/esp/04.jpg">
+                                            <img src="images/menu/esp/04.jpg" alt="" style="width: 30rem;">
                                         </a>
-                                        <a href="images/menu/men04.jpg">
-                                            <img src="images/menu/men04.jpg" alt="" style="width: 30rem;">
+                                        <a href="images/menu/esp/05.jpg">
+                                            <img src="images/menu/esp/05.jpg" alt="" style="width: 30rem;">
                                         </a>
                                     </div>
                                 </div>
@@ -696,35 +692,36 @@
                                 <!-- Form Column -->
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="animated-thumbnails-gallery">
-                                        <a href="images/menu/men05.jpg">
-                                            <img src="images/menu/men05.jpg" alt="" class="menu-gallery"
+                                        <a href="images/menu/esp/06.jpg">
+                                            <img src="images/menu/esp/06.jpg" alt="" class="menu-gallery"
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/men06.jpg">
-                                            <img src="images/menu/men06.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/07.jpg">
+                                            <img src="images/menu/esp/07.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/men07.jpg">
-                                            <img src="images/menu/men07.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/08.jpg">
+                                            <img src="images/menu/esp/08.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/men08.jpg">
-                                            <img src="images/menu/men08.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/09.jpg">
+                                            <img src="images/menu/esp/09.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/men09.jpg">
-                                            <img src="images/menu/men09.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/10.jpg">
+                                            <img src="images/menu/esp/10.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/men10.jpg">
-                                            <img src="images/menu/men10.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/11.jpg">
+                                            <img src="images/menu/esp/11.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
+
                                     </div>
                                 </div>
                             </div>
@@ -738,8 +735,8 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery5">
-                                        <a href="images/menu/men11.jpg">
-                                            <img src="images/menu/men11.jpg" alt="">
+                                        <a href="images/menu/esp/12.jpg">
+                                            <img src="images/menu/esp/12.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>

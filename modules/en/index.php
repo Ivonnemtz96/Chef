@@ -24,30 +24,18 @@
                         <div class="title">Chef in Cabo By Jobeal Catering</div>
                         <h2>Chef Benito Rosas</h2>
                         <div class="text" style="text-align: justify;">
-                            Como <strong>Chef en Los Cabos</strong> siempre me esfuerzo por crear una experiencia
-                            culinaria
-                            individualizada que sea a la vez refinada e inesperada para que mis clientes disfruten con
-                            sus invitados. <br>
-                            Somos conocidos en el mercado de Los Cabos por utilizar siempre productos orgánicos y
-                            frescos de temporada de Los Cabos en nuestra cocina, dichos productos son siempre a la
-                            perfección, de esa manera nos aseguramos, que siempre podemos contar con los mejores y más
-                            altos productos de calidad de Los Cabos. <br>
-                            Chef en cabo estamos en constante evolucion y cambio, mi cocina esta inspirada en mis
-                            continuos viajes asi como en mis raices nativas mexicanas y en la formacion tradicional
-                            italiana, asiatica y francesa. <br>
-                            Mi cocina destaca lo mejor de los productos locales de temporada de Los Cabos, con gran
-                            énfasis en las técnicas adecuadas, sabores audaces y delicadeza.
-
-                        </div>
-                    </div>
-                    <!-- Author Box -->
-                    <div hidden class="author-box">
-                        <div class="box-inner">
-                            <span class="author-image">
-                                <img src="images/resource/author-1.jpg" alt="" />
-                            </span>
-                            Jessica Puente
-                            <span class="designation">Director and Chief Operations Officer</span>
+                            As <strong>Chef In Cabo</strong> I always strive to create an individualized culinary
+                            experience that is both
+                            cutting edge and unexpected for my clients to enjoy with their guests. <br>
+                            We are known in the Los Cabos
+                            market for always using organic and fresh seasonal products from Los Cabos in our kitchen,
+                            these products are always to perfection, that way we make sure, that we can always count on
+                            the best and highest quality products from Los Cabos. <br> Chef in Cabo we are constantly
+                            evolving and changing, my cuisine is inspired by my continuous travels as well as my native
+                            Mexican roots and traditional Italian, Asian and French training. <br> My cuisine highlights
+                            the
+                            best of Los Cabos' seasonal local produce, with great emphasis on proper techniques, bold
+                            flavors and finesse.
                         </div>
                     </div>
                 </div>
@@ -58,21 +46,21 @@
                     <div class="image titlt" data-tilt data-tilt-max="3">
                         <img src="images/resource/hotel-1.jpg?=1" alt="" />
                         <div class="overlay-box d-block d-md-none">
-                            <div class="title">Con más de </div>
+                            <div class="title">With more than </div>
                             <div class="counter">
                                 <span class="odometer" data-count="20" style="font-size: 3rem;"></span>
                             </div>
-                            <div class="years">años.</div>
+                            <div class="years">years.</div>
                         </div>
                     </div>
                     <div class="image-two d-none d-md-block">
-                        <img  src="images/resource/hotel-2.jpg?=2" alt="" />
+                        <img src="images/resource/hotel-2.jpg?=2" alt="" />
                         <div class="overlay-box">
-                            <div class="title">Con más de </div>
+                            <div class="title">With more than </div>
                             <div class="counter">
                                 <span class="odometer" data-count="20" style="font-size: 3rem;"></span>
                             </div>
-                            <div class="years">años.</div>
+                            <div class="years">years.</div>
                         </div>
                     </div>
                 </div>
@@ -102,9 +90,8 @@
                     <div class="quote-box">
                         <span class="quote"><img src="images/icons/quote.png" alt="" /></span>
                         <div class="text">
-                            ¿Listo para una experiencia gastronómica de vanguardia en casa? Reserva a nuestro chef
-                            privado y sorprende a
-                            tus invitados
+                            Ready for an avant-garde gastronomic experience at home? Book our private chef and surprise
+                            your guests.
                         </div>
                     </div>
                 </div>
@@ -115,9 +102,9 @@
                 <div class="inner-column">
                     <!-- Sec Title -->
                     <div class="sec-title">
-                        <div class="title">Exclusivamente para ti</div>
+                        <div class="title">Exclusively for you</div>
                         <h2>
-                            Disfruta de la mejor experiencia
+                            Enjoy the best experience
                         </h2>
                     </div>
                     <div class="row clearfix">
@@ -125,10 +112,10 @@
                         <div class="column col-lg-6 col-md-6 col-sm-12">
                             <!-- <h4>Restaurant</h4> -->
                             <ul class="check-list">
-                                <li>Chef Privado</li>
-                                <li>Compras</li>
-                                <li>Renta de mobiliario para bodas, fiestas y eventos especiales.</li>
-                                <li>Transportación.</li>
+                                <li>Private Chef</li>
+                                <li>Grocery Shopping</li>
+                                <li>Event rentals & Event Design</li>
+                                <li>Tranportation</li>
                             </ul>
                             <div class="image wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                 <img src="images/resource/hotel-3.jpg?=1" alt="" />
@@ -138,9 +125,9 @@
                         <div class="column col-lg-6 col-md-6 col-sm-12">
                             <!-- <h4>Spa & Wellness</h4> -->
                             <ul class="check-list">
-                                <li>Alta repostería y las últimas tendencias de moda.</li>
-                                <li>Alquiler de yates con chef abordo</li>
-                                <li>Mayordomo, bartender, camarero y más</li>
+                                <li>Haute patisserie and the latest fashion trends</li>
+                                <li>Yacht charter with chef on board</li>
+                                <li>Butler, bartender, waiter and more</li>
                             </ul>
                             <div class="image wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                                 <img src="images/resource/hotel-4.jpg?=1" alt="" />
@@ -162,17 +149,17 @@
         <div class="sec-title">
             <div class="d-flex justify-content-between align-items-center flex-wrap">
                 <div>
-                    <div class="title alternate">Disfruta de una Experiencia Única </div>
+                    <div class="title alternate">Enjoy a Unique Experience </div>
                     <h2>
                         Chef In Cabo <br />
                     </h2>
-                    <h6>Nuestros Servicios</h6>
+                    <h6>Our services</h6>
                 </div>
                 <!-- Phone Box -->
                 <div class="phone-box">
                     <div class="box-inner">
                         <span class="icon flaticon-telephone"></span>
-                        Contáctanos: <br />
+                        Contact Us: <br />
                         <a target="_blank"
                             href="https://api.whatsapp.com/send/?phone=5216241131604&text&type=phone_number&app_absent=0">+52
                             624 113 1604</a>
@@ -188,25 +175,25 @@
                 <!-- Tab Btns -->
                 <ul class="tab-btns tab-buttons clearfix">
                     <li data-tab="#prod-spa" class="tab-btn active-btn">
-                        <span>01</span> Chef Privado
+                        <span>01</span> Private chef
                     </li>
                     <li data-tab="#prod-rooms" class="tab-btn">
-                        <span>02</span> Compras
+                        <span>02</span> Grocery Shopping
                     </li>
                     <li data-tab="#prod-cuisine" class="tab-btn">
-                        <span>03</span>Renta de mobiliario para bodas, fiestas y eventos especiales.
+                        <span>03</span>Event Rental & Event Design
                     </li>
                     <li data-tab="#prod-meeting" class="tab-btn">
-                        <span>04</span> Alta repostería y las últimas tendencias de moda.
+                        <span>04</span> Haute patisserie and the latest fashion trends.
                     </li>
                     <li data-tab="#prod-destination" class="tab-btn">
-                        <span>05</span> Alquiler de Yates con chef abordo
+                        <span>05</span> Yacht charter with chef on board
                     </li>
                     <li data-tab="#transportacion" class="tab-btn">
-                        <span>06</span> Transportación.
+                        <span>06</span> Transportation
                     </li>
                     <li data-tab="#more" class="tab-btn">
-                        <span>07</span> Mayordomo, bartender y Más...
+                        <span>07</span> Butler, bartender, waiter and more
                     </li>
                 </ul>
 
@@ -221,7 +208,7 @@
                                     <div class="content">
                                         <div class="number">01</div>
                                         <h4>
-                                            <a href="#">Chef Privado</a>
+                                            <a href="#">Private Chef</a>
                                             <p style="color: #fff; font-size: .8rem;">
                                                 Siempre me esfuerzo por crear una experiencia gastronómica
                                                 individualizada que
@@ -644,8 +631,8 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery5">
-                                        <a href="images/menu/men01.jpg">
-                                            <img src="images/menu/men01.jpg" alt="">
+                                        <a href="images/menu/esp/01.jpg?=1">
+                                            <img src="images/menu/esp/01.jpg?=1" alt="">
                                         </a>
                                     </div>
                                 </div>

@@ -1,6 +1,8 @@
 <head>
     <meta charset="utf-8" />
     <title>Chef In Cabo</title>
+    <meta name="description" content="Chef Benito Rosas. I always strive to create an individualized culinary experience that is both cutting edge and unexpected for my clients to enjoy with their guests. ">
+    <meta name="keywords" content="Chef in Cabo, Catering Los Cabos, Wedding Cake, Jobeal Catering, Chef Benito Rosas, cateirng, private chef, dinner in cabo, private chef & butler, event rentals, event design">
     <!-- Stylesheets -->
     <link href="/css/bootstrap.css" rel="stylesheet" />
     <link href="/css/style.css" rel="stylesheet" />
