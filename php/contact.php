@@ -1,8 +1,10 @@
 <?php
+
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
-include('backend/config.php');
+
+
 
 extract($_REQUEST);
 
@@ -24,8 +26,9 @@ if (!$captcha_es_valido) {
   mandarError("3");
 }
 
-if (!validarVariable($nombre) || !validarVariable($apellido) || !validarVariable($mail) || !validarVariable($tel)  || !validarVariable($servicio) || !validarVariable($fecha)) {
+if (!validarVariable($nombre) || !validarVariable($apellido) || !validarVariable($mail) || !validarVariable($tel) || !validarVariable($dir) || !validarVariable($menu)|| !validarVariable($alergias) || !validarVariable($servicio) || !validarVariable($fecha)) {
   mandarError("1");
+
 }
 
 $correo_nuevo = new Correo("ivonne.mtz.manzo@gmail.com,ivonnemtz96@outlook.es", $nombre.' ha enviado un nuevo mensaje');
@@ -33,13 +36,19 @@ $correo_nuevo->agregarCampos("Nombre: ", $nombre);
 $correo_nuevo->agregarCampos("Apellido: ", $apellido);
 $correo_nuevo->agregarCampos("Email: ", $mail);
 $correo_nuevo->agregarCampos("Teléfono: ", $tel);
+$correo_nuevo->agregarCampos("Dirección: ", $dir);
+$correo_nuevo->agregarCampos("Menú: ", $menu);
+$correo_nuevo->agregarCampos("Alergias: ", $alergias);
 $correo_nuevo->agregarCampos("Servicio: ", $servicio);
 $correo_nuevo->agregarCampos("Fecha: ", $fecha);
 $enviado = $correo_nuevo->enviarEmail();
 
+
+
 if ($enviado) {
   mandarError("0");
 
+  
   //echo json_encode(array('success' => 1));
 } else {
   mandarError("2");
@@ -48,28 +57,25 @@ if ($enviado) {
 
 function mandarError($codigo_de_error)
 {
-    
   if ($GLOBALS["tipo_de_procesamiento"] == 0) {
-      
-       //header('location: index.html?err=' .$codigo_de_error);
-     
+
     if($codigo_de_error == "0"){
-      
-        header('location: /?msj='. $codigo_de_error);
-        exit;   
+      require_once($_SERVER["DOCUMENT_ROOT"]."/backend/guardar_datos.php");
+      exit;
+    
     }
         if($codigo_de_error == "1"){
-            header('location: /?msj='. $codigo_de_error);
+            header('location: /prueba?msj='. $codigo_de_error);
              exit;
     exit;   
     }if($codigo_de_error == "2"){
-        header('location: /?msj='. $codigo_de_error);
+        header('location: /prueba?msj='. $codigo_de_error);
         exit;
       
     exit;   
     }
      if($codigo_de_error == "3"){
-        header('location: /?msj=' . $codigo_de_error);
+        header('location: /prueba?msj=' . $codigo_de_error);
         exit;
       
     exit;   
@@ -316,14 +322,3 @@ class Correo
   }
 }
 
-if ($codigo_de_error == 0) {
- $sql = "INSERT INTO usuarios(correo, nombre, tel) VALUES ('$mail'. '$nombre', '$tel')";
- // Ejecutar la consulta
- if ($conn->query($sql) === true) {
-  echo "Archivo subido correctamente.";
-} else {
-  echo "Ha ocurrido un error al subir el archivo, por favor reintente nuevamente.";
-}
-}
-// Cerrar la conexión a la base de datos
-$conn->close();

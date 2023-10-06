@@ -625,12 +625,12 @@
                     <li data-tab="#prod-dining" class="tab-btn">Comida</li>
                     <li data-tab="#prod-treatment" class="tab-btn">Cena</li>
                     <li data-tab="#postres" class="tab-btn">Postres</li>
-                    <li data-tab="#premium" class="tab-btn">Appetizers</li>
+                    <li data-tab="#premium" class="tab-btn">Otras opciones</li>
                 </ul>
 
                 <!-- Tabs Container -->
                 <div class="tabs-content">
-                    <!-- Tab / Active Tab -->
+                    <!-- Desayunos -->
                     <div class="tab active-tab" id="prod-room">
                         <div class="content">
                             <div class="row clearfix justify-content-center">
@@ -646,7 +646,7 @@
                         </div>
                     </div>
 
-                    <!-- Tab -->
+                    <!-- Comida -->
                     <div class="tab" id="prod-dining">
                         <div class="content">
                             <div class="row clearfix justify-content-center">
@@ -662,7 +662,7 @@
                         </div>
                     </div>
 
-                    <!-- Tab -->
+                    <!-- Cena -->
                     <div class="tab" id="prod-treatment">
                         <div class="content">
                             <div class="row clearfix justify-content-center">
@@ -682,41 +682,35 @@
                     </div>
 
 
-                    <!-- Tab -->
+                    <!-- Otras opciones -->
                     <div class="tab" id="premium">
                         <div class="content">
                             <div class="row  justify-content-center">
                                 <!-- Form Column -->
-                                <div class="form-column col-lg-12 col-md-4 col-sm-12">
+                                <div class="col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="animated-thumbnails-gallery">
                                         <a href="images/menu/men05.jpg">
-
-                                            <img src="images/menu/men05.jpg" alt="" class="menu-gallery">
+                                            <img src="images/menu/men05.jpg" alt="" class="menu-gallery" style="width: 25rem;">
                                         </a>
 
                                         <a href="images/menu/men06.jpg">
-
-                                            <img src="images/menu/men06.jpg" class="menu-gallery" alt="">
+                                            <img src="images/menu/men06.jpg" class="menu-gallery" alt="" style="width: 25rem;">
                                         </a>
 
                                         <a href="images/menu/men07.jpg">
-
-                                            <img src="images/menu/men07.jpg" class="menu-gallery" alt="">
+                                            <img src="images/menu/men07.jpg" class="menu-gallery" alt="" style="width: 25rem;">
                                         </a>
 
                                         <a href="images/menu/men08.jpg">
-
-                                            <img src="images/menu/men08.jpg" class="menu-gallery" alt="">
+                                            <img src="images/menu/men08.jpg" class="menu-gallery" alt="" style="width: 25rem;">
                                         </a>
 
                                         <a href="images/menu/men09.jpg">
-
-                                            <img src="images/menu/men09.jpg" class="menu-gallery" alt="">
+                                            <img src="images/menu/men09.jpg" class="menu-gallery" alt="" style="width: 25rem;">
                                         </a>
 
                                         <a href="images/menu/men10.jpg">
-
-                                            <img src="images/menu/men10.jpg" class="menu-gallery" alt="">
+                                            <img src="images/menu/men10.jpg" class="menu-gallery" alt="" style="width: 25rem;">
                                         </a>
                                     </div>
                                 </div>
@@ -724,7 +718,7 @@
                         </div>
                     </div>
 
-                    <!-- Tab -->
+                    <!-- Postres -->
                     <div class="tab" id="postres">
                         <div class="content">
                             <div class="row clearfix justify-content-center">
@@ -889,11 +883,20 @@
                         </h2>
                     </div>
                     <div class="icon">
-                        <a target="_blank"
-                            href="https://www.tripadvisor.com/Attraction_Review-g152515-d23465516-Reviews-Jobeal_Catering-Cabo_San_Lucas_Los_Cabos_Baja_California.html">
-                            <img src="images/icons/icon-1.png" alt="" />
-                        </a>
-
+                        <div class="row justify-content-center  align-items-center">
+                            <div class="col-md-6 ">
+                                <a target="_blank"
+                                    href="https://www.tripadvisor.com/Attraction_Review-g152515-d23465516-Reviews-Jobeal_Catering-Cabo_San_Lucas_Los_Cabos_Baja_California.html">
+                                    <img src="images/icons/icon-1.png" alt="" />
+                                </a>
+                            </div>
+                            <div class="col-md-6">
+                                <a target="_blank"
+                                    href="https://www.yelp.com/biz/jobeal-catering-by-chef-benito-rosas-cabo-san-lucas?osq=jobeal+catering&override_cta=Request+a+Quote">
+                                    <img style="width: 8rem;" src="/images/yelp.png" alt="" />
+                                </a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
