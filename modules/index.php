@@ -370,7 +370,7 @@
                     <!-- Tab -->
                     <div class="tab" id="prod-destination">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-12 mt-3 mb-3" >
                                 <div class="content-box">
                                     <!-- Content -->
                                     <div class="content">
@@ -400,7 +400,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-12 mt-3 mb-3">
                                 <div class="fotorama" data-width="700" data-height="500">
                                     <img src="images/resource/10.jpg" alt="">
                                     <img src="images/resource/9.jpg" alt="">
@@ -771,7 +771,7 @@
 
                 <div class="row clearfix">
                     <!-- Form Column -->
-                    <div class="form-column col-lg-8 col-md-8 col-sm-12">
+                    <div class="form-column col-lg-8 col-md-8 col-sm-12 mb-3">
                         <div class="inner-column">
                             <!-- Reservation Form -->
                             <div class="reservation-form">
@@ -869,10 +869,10 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-md-4 mt-3">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.5273766786563!2d-109.9102207!3d22.893911100000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4bcfc40cfde5%3A0xb8bdfd60d1c5a1e7!2sJobeal%20Catering!5e0!3m2!1sen!2smx!4v1692989565231!5m2!1sen!2smx"
-                            width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+                            width="500" height="650" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
 
                     </div>
