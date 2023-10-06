@@ -435,6 +435,23 @@
 	background-color:#78CDD2B8;
 }
 
+.hotel-section .image .overlay-box{
+	position:absolute;
+	left:5px;
+	top:285px;
+	right:185px;
+	bottom:10px;
+	text-align:center;
+	padding-top:10px;
+	background-color:#78CDD2B8;
+}
+.hotel-section .image .title{
+	position:relative;
+	font-weight:700;
+	font-size:var(--font-16);
+	color:var(--white-color);
+}
+
 .hotel-section .image-two .title{
 	position:relative;
 	font-weight:700;
