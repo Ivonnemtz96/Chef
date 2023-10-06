@@ -877,8 +877,6 @@
 
                     </div>
 
-                    <!-- Image Column -->
-
                 </div>
             </div>
         </div>
