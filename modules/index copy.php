@@ -690,27 +690,33 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="animated-thumbnails-gallery">
                                         <a href="/images/menu/men05.jpg">
-                                            <img src="/images/menu/men05.jpg" alt="" class="menu-gallery" style="width: 25rem;">
+                                            <img src="/images/menu/men05.jpg" alt="" class="menu-gallery"
+                                                style="width: 25rem;">
                                         </a>
 
                                         <a href="/images/menu/men06.jpg">
-                                            <img src="/images/menu/men06.jpg" class="menu-gallery" alt="" style="width: 25rem;">
+                                            <img src="/images/menu/men06.jpg" class="menu-gallery" alt=""
+                                                style="width: 25rem;">
                                         </a>
 
                                         <a href="/images/menu/men07.jpg">
-                                            <img src="/images/menu/men07.jpg" class="menu-gallery" alt="" style="width: 25rem;">
+                                            <img src="/images/menu/men07.jpg" class="menu-gallery" alt=""
+                                                style="width: 25rem;">
                                         </a>
 
                                         <a href="/images/menu/men08.jpg">
-                                            <img src="/images/menu/men08.jpg" class="menu-gallery" alt="" style="width: 25rem;">
+                                            <img src="/images/menu/men08.jpg" class="menu-gallery" alt=""
+                                                style="width: 25rem;">
                                         </a>
 
                                         <a href="/images/menu/men09.jpg">
-                                            <img src="/images/menu/men09.jpg" class="menu-gallery" alt="" style="width: 25rem;">
+                                            <img src="/images/menu/men09.jpg" class="menu-gallery" alt=""
+                                                style="width: 25rem;">
                                         </a>
 
                                         <a href="/images/menu/men10.jpg">
-                                            <img src="/images/menu/men10.jpg" class="menu-gallery" alt="" style="width: 25rem;">
+                                            <img src="/images/menu/men10.jpg" class="menu-gallery" alt=""
+                                                style="width: 25rem;">
                                         </a>
                                     </div>
                                 </div>
@@ -833,11 +839,12 @@
                                         </div>
 
                                         <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
-                                <div class="col-12 col-md-12">
-                                    <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS"
-                                        required></div>
-                                </div>
-                            </div>
+                                            <div class="col-12 col-md-12">
+                                                <div class="g-recaptcha"
+                                                    data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required>
+                                                </div>
+                                            </div>
+                                        </div>
                                         <div class="form-group">
                                             <div class="buttons-box">
                                                 <button type="submit" name="submit" class="theme-btn btn-style-one">

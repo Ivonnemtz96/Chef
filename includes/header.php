@@ -88,6 +88,7 @@
                                  </li>
                                  <li><a href="/#services">Servicios</a></li>
                                  <li><a href="/#paquetes">Paquetes</a></li>
+                                 <li><a href="/gallery">Galería</a></li>
                                  <li><a href="/#menu">Menú</a></li>
                                  <li><a href="/#contact">Contactar</a></li>
                              </ul>

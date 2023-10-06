@@ -18,7 +18,7 @@
                     <div class="image">
                         <img src="/images/gallery/18.jpg?=1" alt="" />
                         <div class="overlay-box">
-                            <a href="/images/gallery/18.jpg?=1" class="lightbox-image plus flaticon-plus"></a>
+                            <a href="/images/gallery/18.jpg?=1" class="lightbox-image plus flaticon-eye-1"></a>
                         </div>
                     </div>
                 </div>
@@ -30,7 +30,7 @@
                     <div class="image">
                         <img src="/images/gallery/19.jpg?=1" alt="" />
                         <div class="overlay-box">
-                            <a href="/images/gallery/19.jpg?=1" class="lightbox-image plus flaticon-plus"></a>
+                            <a href="/images/gallery/19.jpg?=1" class="lightbox-image plus flaticon-eye-1"></a>
                         </div>
                     </div>
                 </div>
@@ -42,7 +42,7 @@
                     <div class="image">
                         <img src="/images/gallery/21.jpg?=1" alt="" />
                         <div class="overlay-box">
-                            <a href="/images/gallery/21.jpg?=1" class="lightbox-image plus flaticon-plus"></a>
+                            <a href="/images/gallery/21.jpg?=1" class="lightbox-image plus flaticon-eye-1"></a>
                         </div>
                     </div>
                 </div>
@@ -54,7 +54,7 @@
                     <div class="image">
                         <img src="/images/gallery/22.jpg?=1" alt="" />
                         <div class="overlay-box">
-                            <a href="/images/gallery/22.jpg?=1" class="lightbox-image plus flaticon-plus"></a>
+                            <a href="/images/gallery/22.jpg?=1" class="lightbox-image plus flaticon-eye-1"></a>
                         </div>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                     <div class="image">
                         <img src="/images/gallery/23.jpg?=1" alt="" />
                         <div class="overlay-box">
-                            <a href="/images/gallery/23.jpg?=1" class="lightbox-image plus flaticon-plus"></a>
+                            <a href="/images/gallery/23.jpg?=1" class="lightbox-image plus flaticon-eye-1"></a>
                         </div>
                     </div>
                 </div>
@@ -78,7 +78,7 @@
                     <div class="image">
                         <img src="/images/gallery/24.jpg?=1" alt="" />
                         <div class="overlay-box">
-                            <a href="/images/gallery/24.jpg?=1" class="lightbox-image plus flaticon-plus"></a>
+                            <a href="/images/gallery/24.jpg?=1" class="lightbox-image plus flaticon-eye-1"></a>
                         </div>
                     </div>
                 </div>
@@ -90,7 +90,7 @@
                     <div class="image">
                         <img src="/images/gallery/25.jpg?=1" alt="" />
                         <div class="overlay-box">
-                            <a href="/images/gallery/25.jpg?=1" class="lightbox-image plus flaticon-plus"></a>
+                            <a href="/images/gallery/25.jpg?=1" class="lightbox-image plus flaticon-eye-1"></a>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                     <div class="image">
                         <img src="/images/gallery/26.jpg?=1" alt="" />
                         <div class="overlay-box">
-                            <a href="/images/gallery/26.jpg?=1" class="lightbox-image plus flaticon-plus"></a>
+                            <a href="/images/gallery/26.jpg?=1" class="lightbox-image plus flaticon-eye-1"></a>
                         </div>
                     </div>
                 </div>

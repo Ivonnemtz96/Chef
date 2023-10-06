@@ -690,27 +690,33 @@
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="animated-thumbnails-gallery">
                                         <a href="images/menu/men05.jpg">
-                                            <img src="images/menu/men05.jpg" alt="" class="menu-gallery" style="width: 25rem;">
+                                            <img src="images/menu/men05.jpg" alt="" class="menu-gallery"
+                                                style="width: 25rem;">
                                         </a>
 
                                         <a href="images/menu/men06.jpg">
-                                            <img src="images/menu/men06.jpg" class="menu-gallery" alt="" style="width: 25rem;">
+                                            <img src="images/menu/men06.jpg" class="menu-gallery" alt=""
+                                                style="width: 25rem;">
                                         </a>
 
                                         <a href="images/menu/men07.jpg">
-                                            <img src="images/menu/men07.jpg" class="menu-gallery" alt="" style="width: 25rem;">
+                                            <img src="images/menu/men07.jpg" class="menu-gallery" alt=""
+                                                style="width: 25rem;">
                                         </a>
 
                                         <a href="images/menu/men08.jpg">
-                                            <img src="images/menu/men08.jpg" class="menu-gallery" alt="" style="width: 25rem;">
+                                            <img src="images/menu/men08.jpg" class="menu-gallery" alt=""
+                                                style="width: 25rem;">
                                         </a>
 
                                         <a href="images/menu/men09.jpg">
-                                            <img src="images/menu/men09.jpg" class="menu-gallery" alt="" style="width: 25rem;">
+                                            <img src="images/menu/men09.jpg" class="menu-gallery" alt=""
+                                                style="width: 25rem;">
                                         </a>
 
                                         <a href="images/menu/men10.jpg">
-                                            <img src="images/menu/men10.jpg" class="menu-gallery" alt="" style="width: 25rem;">
+                                            <img src="images/menu/men10.jpg" class="menu-gallery" alt=""
+                                                style="width: 25rem;">
                                         </a>
                                     </div>
                                 </div>
@@ -762,39 +768,39 @@
                         <div class="inner-column">
                             <!-- Reservation Form -->
                             <div class="reservation-form">
-                                <form method="post" action="">
+                                <form method="post" action="/php/contact.php">
                                     <div class="row">
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Nombre</label>
                                             <div class="form-group">
-                                                <input type="text" name="username" placeholder="Nombre" required="">
+                                                <input type="text" name="nombre" placeholder="Nombre" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Apellido</label>
                                             <div class="form-group">
-                                                <input type="text" name="username" placeholder="Apellido" required="">
+                                                <input type="text" name="apellido" placeholder="Apellido" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Correo</label>
                                             <div class="form-group">
-                                                <input type="text" name="username" placeholder="Correo" required="">
+                                                <input type="text" name="mail" placeholder="Correo" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Teléfono</label>
                                             <div class="form-group">
-                                                <input type="text" name="username" placeholder="Teléfono" required="">
+                                                <input type="text" name="tel" placeholder="Teléfono" required="">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Dirección</label>
                                             <div class="form-group">
-                                                <input type="text" name="direccion" placeholder="Dirección" required="">
+                                                <input type="text" name="dir" placeholder="Dirección" required="">
                                             </div>
                                         </div>
 
@@ -814,13 +820,13 @@
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Servicio a cotizar</label>
                                             <div class="form-group">
-                                                <select name="currency" class="custom-select-box">
-                                                    <option>Chef Privado</option>
-                                                    <option>Mayordomo</option>
-                                                    <option>Compras</option>
-                                                    <option>Renta de Yates</option>
-                                                    <option>Repostería</option>
-                                                    <option>Transportación</option>
+                                                <select name="servicio" class="custom-select-box">
+                                                    <option value="Chef Privado">Chef Privado</option>
+                                                    <option value="Mayordomo">Mayordomo</option>
+                                                    <option value="Compras">Compras</option>
+                                                    <option value="Renta de Yates">Renta de Yates</option>
+                                                    <option value="Repostería">Repostería</option>
+                                                    <option value="Transportación">Transportación</option>
                                                 </select>
                                             </div>
                                         </div>
@@ -828,13 +834,20 @@
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Fecha del evento</label>
                                             <span class="icon flaticon-calendar"></span>
-                                            <input class="datepicker" type="text" name="departure"
+                                            <input class="datepicker" type="text" name="fecha"
                                                 placeholder="Seleccione fecha" required="">
                                         </div>
 
+                                        <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
+                                            <div class="col-12 col-md-12">
+                                                <div class="g-recaptcha"
+                                                    data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required>
+                                                </div>
+                                            </div>
+                                        </div>
                                         <div class="form-group">
                                             <div class="buttons-box">
-                                                <button class="theme-btn btn-style-one">
+                                                <button type="submit" name="submit" class="theme-btn btn-style-one">
                                                     <span class="txt">Enviar</span>
                                                 </button>
                                             </div>

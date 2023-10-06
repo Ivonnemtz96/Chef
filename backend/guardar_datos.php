@@ -29,9 +29,9 @@ VALUES('$mail','$nombre','$apellido','$tel','$fechaEnvio')";
     // Ejecutar la consulta
     if ($conn->query($sql) === true) {
 
-     header('location: /prueba?msj='. $codigo_de_error);
+     header('location: /?msj='. $codigo_de_error);
     } else {
-        header('location: /prueba?msj=2');
+        header('location: /?msj=2');
     }
 }else {
     // Hubo un error 
