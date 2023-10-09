@@ -20,11 +20,16 @@ $mail = $_POST['mail'];
 $nombre = $_POST['nombre'];
 $apellido = $_POST['apellido'];
 $tel = $_POST['tel'];
+$direccion = $_POST['dir'];
+$menu = $_POST['menu'];
+$alergias = $_POST['alergias'];
+$servicio = $_POST['servicio'];
+$fecha = $_POST['fecha'];
 $fechaEnvio = date('Y-m-d H:i:s');
 
 if($codigo_de_error == "0"){
-$sql= "INSERT INTO usuarios(correo,nombre, apellido, tel,fechaEnvio)
-VALUES('$mail','$nombre','$apellido','$tel','$fechaEnvio')";
+$sql= "INSERT INTO usuarios(correo,nombre, apellido, tel,direccion,menu,alergias,servicio,fecha,fechaEnvio)
+VALUES('$mail','$nombre','$apellido','$tel','$direccion','$menu','$alergias','$servicio','$fecha','$fechaEnvio')";
 
     // Ejecutar la consulta
     if ($conn->query($sql) === true) {

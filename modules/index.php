@@ -6,7 +6,7 @@
 
     <div id="text" class="text-center">
         <img src="images/jobeal.png" alt="">
-        <h2 style="font-size: 1.2rem;">Discover a new level of vacation in Cabo.</h2>
+        <h2 style="font-size: 1.2rem;">Discover a uniques experience of vacations in Cabo</h2>
     </div>
 
 </section>
@@ -26,7 +26,8 @@
                         <div class="text" style="text-align: justify;">
                             Como <strong>Chef en Los Cabos</strong> siempre me esfuerzo por crear una experiencia
                             culinaria
-                            individualizada que sea a la vez de vanguardia e inesperada para que mis clientes disfruten con
+                            individualizada que sea a la vez de vanguardia e inesperada para que mis clientes disfruten
+                            con
                             sus invitados. <br>
                             Somos conocidos en el mercado de Los Cabos por utilizar siempre productos orgánicos y
                             frescos de temporada de Los Cabos en nuestra cocina, dichos productos son siempre a la
@@ -56,7 +57,7 @@
                         </div>
                     </div>
                     <div class="image-two d-none d-md-block">
-                        <img  src="images/resource/hotel-2.jpg?=2" alt="" />
+                        <img src="images/resource/hotel-2.jpg?=2" alt="" />
                         <div class="overlay-box">
                             <div class="title">Con más de </div>
                             <div class="counter">
@@ -109,6 +110,15 @@
                         <h2>
                             Disfruta de la mejor experiencia
                         </h2>
+                        <p>
+                            En <strong>Chef In Cabo</strong>, hacemos que cada ocasión sea especial. Ofrecemos una
+                            amplia gama de
+                            servicios, desde chef privado hasta transporte de lujo, alta repostería, mayordomo, mesero,
+                            bartender, alquiler de mobiliario, y yates de lujo con chef a
+                            bordo para experiencias únicas y compras de supermercado
+                            personalizadas. Tu evento perfecto comienza con nosotros.
+                        </p>
+
                     </div>
                     <div class="row clearfix">
                         <!-- Column -->
@@ -130,13 +140,15 @@
                             <ul class="check-list">
                                 <li>Alta repostería y las últimas tendencias de moda.</li>
                                 <li>Alquiler de yates con chef abordo</li>
-                                <li>Mayordomo, bartender, camarero y más</li>
+                                <li>Mayordomo, bartender, mesero y más</li>
                             </ul>
                             <div class="image wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                                 <img src="images/resource/hotel-4.jpg?=1" alt="" />
                             </div>
                         </div>
+
                     </div>
+
                 </div>
             </div>
         </div>
@@ -145,8 +157,32 @@
 <!-- End Hospitality Section -->
 
 
+<!-- Beach Section -->
+<section class="beach-section" style="background-image: url(images/background/7.jpg)">
+    <div class="auto-container">
+        <div class="inner-container">
+            <!-- Sec Title -->
+            <div class="sec-title light">
+                <h2>En Chef In Cabo creamos <br>experiencias únicas</h2>
+                <div class="text">¡Ven y disfruta con tu familia!</div>
+            </div>
+            <!-- Button Box -->
+            <div class="button-box">
+                <a href="reservation.html" class="theme-btn btn-style-three"><span class="txt"><i
+                            class="flaticon-calendar-2"></i> Reservar</span></a>
+            </div>
+            <div class="voucher-box">
+                <h5>Márcanos</h5>
+                <a href="tel:6241131604" target="_blank" class="theme-btn voucher-btn">624 113 1604</a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Beach Section -->
+
+
 <!-- Resource Section -->
-<section class="resource-section" id="services" style="padding: 100px 0px 205px;">
+<section hidden class="resource-section" id="services" style="padding: 100px 0px 205px;">
     <div class="auto-container">
         <!-- Sec Title Two -->
         <div class="sec-title">
@@ -360,7 +396,7 @@
                     <!-- Tab -->
                     <div class="tab" id="prod-destination">
                         <div class="row">
-                            <div class="col-md-6 col-12 mt-3 mb-3" >
+                            <div class="col-md-6 col-12 mt-3 mb-3">
                                 <div class="content-box">
                                     <!-- Content -->
                                     <div class="content">
@@ -483,8 +519,8 @@
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
-            <div class="title">La mejor experiencia</div>
-            <h2>Experiencia gastronómica exclusiva <br> <strong>en Los Cabos</strong></h2>
+            <div class="title"><strong>Chef In Cabo</strong></div>
+            <h2>Experiencia gastronómica de lujo <br> <strong>en Los Cabos</strong></h2>
             <div class="text">
                 Todos los paquetes de bienvenida vienen con margaritas.
             </div>
@@ -603,7 +639,7 @@
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
-            <div class="title">Una experiencia única </div>
+            <div class="title">El lujo de una cena gourmet te espera</div>
             <h2>Conoce nuestro menú</h2>
             <!-- <div class="text">
                 Todos los paquetes de bienvenida son por <b>$30 cada persona</b>, también todos los paquetes de
@@ -757,7 +793,7 @@
 <!-- Sec Title -->
 <div class="sec-title centered mt-5" id="contact">
     <div class="title">¿Buscas un toque gourmet en tu próxima celebración? </div>
-    <h2>Reserva Ahora</h2>
+    <h2>Reserva Ahora en Chef In Cabo</h2>
 
 </div>
 <section class="reservation-section" style="margin-bottom: 4rem;">
