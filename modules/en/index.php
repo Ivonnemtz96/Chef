@@ -143,7 +143,7 @@
 
 
 <!-- Resource Section -->
-<section class="resource-section" id="services" style="padding: 100px 0px 205px;">
+<section hidden class="resource-section" id="services" style="padding: 100px 0px 205px;">
     <div class="auto-container">
         <!-- Sec Title Two -->
         <div class="sec-title">
@@ -767,47 +767,47 @@
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Name</label>
                                             <div class="form-group">
-                                                <input type="text" name="nombre" placeholder="Nombre" required="">
+                                                <input type="text" name="nombre" placeholder="Name" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Last Name</label>
                                             <div class="form-group">
-                                                <input type="text" name="apellido" placeholder="Apellido" required="">
+                                                <input type="text" name="apellido" placeholder="Last Name" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Email</label>
                                             <div class="form-group">
-                                                <input type="text" name="mail" placeholder="Correo" required="">
+                                                <input type="text" name="mail" placeholder="Email" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Phone number</label>
                                             <div class="form-group">
-                                                <input type="text" name="tel" placeholder="Teléfono" required="">
+                                                <input type="text" name="tel" placeholder="Phone number" required="">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Address</label>
                                             <div class="form-group">
-                                                <input type="text" name="dir" placeholder="Dirección" required="">
+                                                <input type="text" name="dir" placeholder="Address" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Menu</label>
                                             <div class="form-group">
-                                                <input type="text" name="menu" placeholder="Menú" required="">
+                                                <input type="text" name="menu" placeholder="Menu" required="">
                                             </div>
                                         </div>
                                         <div class="col-lg-12 col-md-12 col-sm-12 form-group">
                                             <label>Allergies</label>
                                             <div class="form-group">
-                                                <input type="text" name="alergias" placeholder="Alergias" required="">
+                                                <input type="text" name="alergias" placeholder="allergies" required="">
                                             </div>
                                         </div>
 
@@ -829,7 +829,7 @@
                                             <label>Date</label>
                                             <span class="icon flaticon-calendar"></span>
                                             <input class="datepicker" type="text" name="fecha"
-                                                placeholder="Seleccione fecha" required="">
+                                                placeholder="Date" required="">
                                         </div>
 
                                         <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
@@ -859,7 +859,7 @@
                     <div class="col-md-4">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.5273766786563!2d-109.9102207!3d22.893911100000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4bcfc40cfde5%3A0xb8bdfd60d1c5a1e7!2sJobeal%20Catering!5e0!3m2!1sen!2smx!4v1692989565231!5m2!1sen!2smx"
-                            width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+                            width="500" height="650" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
 
                     </div>

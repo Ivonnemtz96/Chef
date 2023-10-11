@@ -1,3 +1,6 @@
+<?php 
+  include('backend/indexcontroller.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <?php
@@ -17,9 +20,9 @@ if (isset($_GET)) {
     <div class="page-wrapper">
         <?php
             include('includes/preloader.php');
-            include('includes/header.php');
-            include('modules/index.php');
-            include('includes/footer.php');
+            include('modules/'.$lenguaje.'/header.php');
+            include('modules/'.$lenguaje.'/index.php');
+            include('modules/'.$lenguaje.'/footer.php');
             
         ?>
     </div>
