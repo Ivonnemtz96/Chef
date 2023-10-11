@@ -6,7 +6,7 @@
 
     <div id="text" class="text-center">
         <img src="images/jobeal.png" alt="">
-        <h2 style="font-size: 1.2rem;">Discover a new level of vacation in Cabo.</h2>
+        <h2 style="font-size: 1.2rem;">Discover a uniques experience of vacations in Cabo</h2>
     </div>
 
 </section>
@@ -26,28 +26,19 @@
                         <div class="text" style="text-align: justify;">
                             Como <strong>Chef en Los Cabos</strong> siempre me esfuerzo por crear una experiencia
                             culinaria
-                            individualizada que sea a la vez refinada e inesperada para que mis clientes disfruten con
+                            individualizada que sea a la vez de vanguardia e inesperada para que mis clientes disfruten
+                            con
                             sus invitados. <br>
                             Somos conocidos en el mercado de Los Cabos por utilizar siempre productos orgánicos y
                             frescos de temporada de Los Cabos en nuestra cocina, dichos productos son siempre a la
                             perfección, de esa manera nos aseguramos, que siempre podemos contar con los mejores y más
                             altos productos de calidad de Los Cabos. <br>
-                            Chef en cabo estamos en constante evolucion y cambio, mi cocina esta inspirada en mis
-                            continuos viajes asi como en mis raices nativas mexicanas y en la formacion tradicional
-                            italiana, asiatica y francesa. <br>
+                            Chef in cabo estamos en constante evolucion y cambio, mi cocina esta inspirada en mis
+                            continuos viajes así como en mis raíces nativas mexicanas y en la formación tradicional
+                            italiana, asiática y francesa. <br>
                             Mi cocina destaca lo mejor de los productos locales de temporada de Los Cabos, con gran
                             énfasis en las técnicas adecuadas, sabores audaces y delicadeza.
 
-                        </div>
-                    </div>
-                    <!-- Author Box -->
-                    <div hidden class="author-box">
-                        <div class="box-inner">
-                            <span class="author-image">
-                                <img src="images/resource/author-1.jpg" alt="" />
-                            </span>
-                            Jessica Puente
-                            <span class="designation">Director and Chief Operations Officer</span>
                         </div>
                     </div>
                 </div>
@@ -66,7 +57,7 @@
                         </div>
                     </div>
                     <div class="image-two d-none d-md-block">
-                        <img  src="images/resource/hotel-2.jpg?=2" alt="" />
+                        <img src="images/resource/hotel-2.jpg?=2" alt="" />
                         <div class="overlay-box">
                             <div class="title">Con más de </div>
                             <div class="counter">
@@ -84,7 +75,7 @@
 <!-- End Hotel Section -->
 
 <!-- Hospitality Section -->
-<section class="hospitality-section">
+<section class="hospitality-section" id="services">
     <div class="auto-container">
         <div class="row clearfix">
             <!-- Video Column -->
@@ -119,6 +110,15 @@
                         <h2>
                             Disfruta de la mejor experiencia
                         </h2>
+                        <p>
+                            En <strong>Chef In Cabo</strong>, hacemos que cada ocasión sea especial. Ofrecemos una
+                            amplia gama de
+                            servicios, desde chef privado hasta transporte de lujo, alta repostería, mayordomo, mesero,
+                            bartender, alquiler de mobiliario, y yates de lujo con chef a
+                            bordo para experiencias únicas y compras de supermercado
+                            personalizadas. Tu evento perfecto comienza con nosotros.
+                        </p>
+
                     </div>
                     <div class="row clearfix">
                         <!-- Column -->
@@ -140,13 +140,15 @@
                             <ul class="check-list">
                                 <li>Alta repostería y las últimas tendencias de moda.</li>
                                 <li>Alquiler de yates con chef abordo</li>
-                                <li>Mayordomo, bartender, camarero y más</li>
+                                <li>Mayordomo, bartender, mesero y más</li>
                             </ul>
                             <div class="image wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
                                 <img src="images/resource/hotel-4.jpg?=1" alt="" />
                             </div>
                         </div>
+
                     </div>
+
                 </div>
             </div>
         </div>
@@ -155,8 +157,32 @@
 <!-- End Hospitality Section -->
 
 
+<!-- Beach Section -->
+<section class="beach-section" style="background-image: url(images/background/7.jpg)">
+    <div class="auto-container">
+        <div class="inner-container">
+            <!-- Sec Title -->
+            <div class="sec-title light">
+                <h2>En Chef In Cabo creamos <br>experiencias únicas</h2>
+                <div class="text">¡Ven y disfruta con tu familia!</div>
+            </div>
+            <!-- Button Box -->
+            <div class="button-box">
+                <a href="reservation.html" class="theme-btn btn-style-three"><span class="txt"><i
+                            class="flaticon-calendar-2"></i> Reservar</span></a>
+            </div>
+            <div class="voucher-box">
+                <h5>Márcanos</h5>
+                <a href="tel:6241131604" target="_blank" class="theme-btn voucher-btn">624 113 1604</a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Beach Section -->
+
+
 <!-- Resource Section -->
-<section class="resource-section" id="services" style="padding: 100px 0px 205px;">
+<section hidden class="resource-section" id="services" style="padding: 100px 0px 205px;">
     <div class="auto-container">
         <!-- Sec Title Two -->
         <div class="sec-title">
@@ -370,7 +396,7 @@
                     <!-- Tab -->
                     <div class="tab" id="prod-destination">
                         <div class="row">
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-12 mt-3 mb-3">
                                 <div class="content-box">
                                     <!-- Content -->
                                     <div class="content">
@@ -400,7 +426,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-6 col-12 mt-3 mb-3">
                                 <div class="fotorama" data-width="700" data-height="500">
                                     <img src="images/resource/10.jpg" alt="">
                                     <img src="images/resource/9.jpg" alt="">
@@ -493,8 +519,8 @@
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
-            <div class="title">La mejor experiencia</div>
-            <h2>Experiencia gastronómica exclusiva <br> <strong>en Los Cabos</strong></h2>
+            <div class="title"><strong>Chef In Cabo</strong></div>
+            <h2>Experiencia de lujo <br> <strong>en Los Cabos</strong></h2>
             <div class="text">
                 Todos los paquetes de bienvenida vienen con margaritas.
             </div>
@@ -613,7 +639,7 @@
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
-            <div class="title">Una experiencia única </div>
+            <div class="title">Deleita tu paladar</div>
             <h2>Conoce nuestro menú</h2>
             <!-- <div class="text">
                 Todos los paquetes de bienvenida son por <b>$30 cada persona</b>, también todos los paquetes de
@@ -625,7 +651,6 @@
         <div class="reservation-info-tabs">
             <!-- Reservation Tabs -->
             <div class="reservation-tabs tabs-box">
-
                 <!-- Tab Btns -->
                 <ul class="tab-btns tab-buttons clearfix">
                     <li data-tab="#prod-room" class="tab-btn active-btn">Desayunos</li>
@@ -642,10 +667,13 @@
                         <div class="content">
                             <div class="row clearfix justify-content-center">
                                 <!-- Form Column -->
-                                <div class="form-column col-lg-8 col-md-12 col-sm-12">
+                                <div class="form-column col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery5">
-                                        <a href="images/menu/men01.jpg">
-                                            <img src="images/menu/men01.jpg" alt="">
+                                        <a href="images/menu/esp/01.jpg">
+                                            <img style="width: 40rem;" src="images/menu/esp/01.jpg" alt="">
+                                        </a>
+                                        <a href="images/menu/esp/13.jpg">
+                                            <img style="width: 25rem;" src="images/menu/esp/13.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -658,10 +686,13 @@
                         <div class="content">
                             <div class="row clearfix justify-content-center">
                                 <!-- Form Column -->
-                                <div class="form-column col-lg-8 col-md-12 col-sm-12">
+                                <div class="form-column col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery2">
-                                        <a href="images/menu/men02.jpg">
-                                            <img src="images/menu/men02.jpg" alt="">
+                                        <a href="images/menu/esp/02.jpg">
+                                            <img style="width: 35rem;" src="images/menu/esp/02.jpg" alt="">
+                                        </a>
+                                        <a href="images/menu/esp/03.jpg">
+                                            <img style="width: 35rem;" src="images/menu/esp/03.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -676,11 +707,11 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery3">
-                                        <a href="images/menu/men03.jpg">
-                                            <img src="images/menu/men03.jpg" alt="" style="width: 30rem;">
+                                        <a href="images/menu/esp/04.jpg">
+                                            <img src="images/menu/esp/04.jpg" alt="" style="width: 30rem;">
                                         </a>
-                                        <a href="images/menu/men04.jpg">
-                                            <img src="images/menu/men04.jpg" alt="" style="width: 30rem;">
+                                        <a href="images/menu/esp/05.jpg">
+                                            <img src="images/menu/esp/05.jpg" alt="" style="width: 30rem;">
                                         </a>
                                     </div>
                                 </div>
@@ -696,35 +727,36 @@
                                 <!-- Form Column -->
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="animated-thumbnails-gallery">
-                                        <a href="images/menu/men05.jpg">
-                                            <img src="images/menu/men05.jpg" alt="" class="menu-gallery"
+                                        <a href="images/menu/esp/06.jpg">
+                                            <img src="images/menu/esp/06.jpg" alt="" class="menu-gallery"
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/men06.jpg">
-                                            <img src="images/menu/men06.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/07.jpg">
+                                            <img src="images/menu/esp/07.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/men07.jpg">
-                                            <img src="images/menu/men07.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/08.jpg">
+                                            <img src="images/menu/esp/08.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/men08.jpg">
-                                            <img src="images/menu/men08.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/09.jpg">
+                                            <img src="images/menu/esp/09.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/men09.jpg">
-                                            <img src="images/menu/men09.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/10.jpg">
+                                            <img src="images/menu/esp/10.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/men10.jpg">
-                                            <img src="images/menu/men10.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/11.jpg">
+                                            <img src="images/menu/esp/11.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
+
                                     </div>
                                 </div>
                             </div>
@@ -738,8 +770,8 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery5">
-                                        <a href="images/menu/men11.jpg">
-                                            <img src="images/menu/men11.jpg" alt="">
+                                        <a href="images/menu/esp/12.jpg">
+                                            <img src="images/menu/esp/12.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -759,8 +791,8 @@
 
 <!-- Sec Title -->
 <div class="sec-title centered mt-5" id="contact">
-    <div class="title">¿Buscas un toque gourmet en tu próxima celebración? </div>
-    <h2>Reserva Ahora</h2>
+    <div class="title">¿Buscas una cena de lujo en tu próxima celebración? </div>
+    <h2>Reserva Ahora en Chef In Cabo</h2>
 
 </div>
 <section class="reservation-section" style="margin-bottom: 4rem;">
@@ -771,7 +803,7 @@
 
                 <div class="row clearfix">
                     <!-- Form Column -->
-                    <div class="form-column col-lg-8 col-md-8 col-sm-12">
+                    <div class="form-column col-lg-8 col-md-8 col-sm-12 mb-3">
                         <div class="inner-column">
                             <!-- Reservation Form -->
                             <div class="reservation-form">
@@ -854,7 +886,7 @@
                                         </div>
                                         <div class="form-group">
                                             <div class="buttons-box">
-                                                <button type="submit" name="submit" class="theme-btn btn-style-one">
+                                                <button type="submit" name="submit" class="theme-btn btn-style-one formulario">
                                                     <span class="txt">Enviar</span>
                                                 </button>
                                             </div>
@@ -869,15 +901,13 @@
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-md-4 mt-3">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3675.5273766786563!2d-109.9102207!3d22.893911100000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4bcfc40cfde5%3A0xb8bdfd60d1c5a1e7!2sJobeal%20Catering!5e0!3m2!1sen!2smx!4v1692989565231!5m2!1sen!2smx"
-                            width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
+                            width="500" height="650" style="border:0;" allowfullscreen="" loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
 
                     </div>
-
-                    <!-- Image Column -->
 
                 </div>
             </div>

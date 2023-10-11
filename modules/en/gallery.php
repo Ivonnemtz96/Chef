@@ -1,8 +1,8 @@
 <!-- Page Title -->
 <section class="page-title" style="background-image: url(/images/background/7.jpg)">
     <div class="auto-container">
-        <h1>Galería</h1>
-        <div class="text">Atrévete a descubrir lo mejor de Los Cabos hasta tu casa</div>
+        <h1>Gallery</h1>
+        <div class="text">Dare to discover the best of Los Cabos right at your home</div>
     </div>
 </section>
 <!--End Page Title-->

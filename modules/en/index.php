@@ -6,7 +6,7 @@
 
     <div id="text" class="text-center">
         <img src="images/jobeal.png" alt="">
-        <h2 style="font-size: 1.2rem;">Discover a new level of vacation in Cabo.</h2>
+        <h2 style="font-size: 1.2rem;">Discover a uniques experience of vacations in Cabo</h2>
     </div>
 
 </section>
@@ -480,10 +480,10 @@
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
-            <div class="title">La mejor experiencia</div>
-            <h2>Experiencia gastronómica exclusiva <br> <strong>en Los Cabos</strong></h2>
+            <div class="title"><strong>Chef In Cabo</strong></div>
+            <h2>Luxury experience <br> <strong>in Los Cabos</strong></h2>
             <div class="text">
-                Todos los paquetes de bienvenida vienen con margaritas.
+            All welcome packages come with margaritas.
             </div>
         </div>
         <div class="offer-carousel owl-carousel owl-theme">
@@ -496,14 +496,14 @@
                     </div>
                     <div class="lower-content">
                         <!-- <div class="price">$135 <span>/ night</span></div> -->
-                        <h3><a href="#">Paquete Mariscos #1</a></h3>
+                        <h3><a href="#">Seafood Pack #1</a></h3>
                         <div class="text">
-                            * Ceviche de pescado con mango <br>
-                            * Cocktel de camarón <br>
-                            * Quesadillas de pescado <br>
-                            * Aguachile de camarón <br>
-                            * Salsa tatemada <br>
-                            * Totopos
+                            * Fish ceviche with mango <br>
+                            * Shrimp cocktail <br>
+                            * Fish Quesadillas <br>
+                            * Shrimp Aguachile <br>
+                            * Tatemada Sauce <br>
+                            * Chips
                         </div>
                     </div>
                 </div>
@@ -517,14 +517,14 @@
                     </div>
                     <div class="lower-content">
                         <!-- <div class="price">$135 <span>/ night</span></div> -->
-                        <h3><a href="#">Paquete Italiano #2</a></h3>
+                        <h3><a href="#">Italian Package #2</a></h3>
                         <div class="text">
                             * Bruschetta <br>
-                            * Tabla de Quesos <br>
-                            * Pan <br>
-                            * Galletas <br>
+                            * Cheese Board <br>
+                            * Bread <br>
+                            * Cookies <br>
                             * Bruschetta Capresse <br>
-                            * Macaroni & queso
+                            * Macaroni & cheese
                         </div>
                     </div>
                 </div>
@@ -538,13 +538,13 @@
                     </div>
                     <div class="lower-content">
                         <!-- <div class="price">$135 <span>/ night</span></div> -->
-                        <h3><a href="#">Paquete Mexicano #3</a></h3>
+                        <h3><a href="#">Mexican Package #3</a></h3>
                         <div class="text">
-                            * Tostadas de tinga de pollo <br>
+                            * Chicken tinga tostadas <br>
                             * Sope de chorizo <br>
-                            * Tacos de pollo <br>
+                            * Chicken tacos <br>
                             * Guacamole <br>
-                            * Pico de gallo y totopos
+                            * Pico de gallo and chips
                         </div>
                     </div>
                 </div>
@@ -558,11 +558,11 @@
                     </div>
                     <div class="lower-content">
                         <!-- <div class="price">$135 <span>/ night</span></div> -->
-                        <h3><a href="#">Paquete Mexicano #4</a></h3>
+                        <h3><a href="#">Mexican Package #4</a></h3>
                         <div class="text">
-                            * Empanadas Carne o queso <br>
-                            * Nachos de carne o pollo con frijoles, pico de gallo, guacamole crema y jalapeños <br>
-                            * Alitas de pollo de tamarindo, mango habanero o jamaica <br>
+                            * Beef or cheese Empanadas <br>
+                            * Beef or chicken nachos with beans, pico de gallo, guacamole, sour cream and jalapeños <br>
+                            * Tamarind, mango habanero or hibiscus chicken wings <br>
                         </div>
                     </div>
                 </div>
@@ -577,11 +577,11 @@
                     </div>
                     <div class="lower-content">
                         <!-- <div class="price">$135 <span>/ night</span></div> -->
-                        <h3><a href="#">Paquete Asiático #5</a></h3>
+                        <h3><a href="#">Asian Package #5</a></h3>
                         <div class="text">
-                            * Sashimi Serranito <br>
-                            * Gyozas de carne <br>
-                            * Nigiris de atún y salmón <br>
+                            * Serranito Sashimi <br>
+                            * Beef gyozas <br>
+                            * Tuna and salmon nigiris <br>
                         </div>
                     </div>
                 </div>
@@ -600,8 +600,8 @@
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
-            <div class="title">Una experiencia única </div>
-            <h2>Conoce nuestro menú</h2>
+            <div class="title">Delight your palate</div>
+            <h2>See our menu</h2>
             <!-- <div class="text">
                 Todos los paquetes de bienvenida son por <b>$30 cada persona</b>, también todos los paquetes de
                 bienvenida
@@ -615,11 +615,11 @@
 
                 <!-- Tab Btns -->
                 <ul class="tab-btns tab-buttons clearfix">
-                    <li data-tab="#prod-room" class="tab-btn active-btn">Desayunos</li>
-                    <li data-tab="#prod-dining" class="tab-btn">Comida</li>
-                    <li data-tab="#prod-treatment" class="tab-btn">Cena</li>
-                    <li data-tab="#postres" class="tab-btn">Postres</li>
-                    <li data-tab="#premium" class="tab-btn">Otras opciones</li>
+                    <li data-tab="#prod-room" class="tab-btn active-btn">Breakfast</li>
+                    <li data-tab="#prod-dining" class="tab-btn">Lunch</li>
+                    <li data-tab="#prod-treatment" class="tab-btn">Dinner</li>
+                    <li data-tab="#postres" class="tab-btn">Desert</li>
+                    <li data-tab="#premium" class="tab-btn">Other options</li>
                 </ul>
 
                 <!-- Tabs Container -->
@@ -746,8 +746,8 @@
 
 <!-- Sec Title -->
 <div class="sec-title centered mt-5" id="contact">
-    <div class="title">¿Buscas una cena de lujo en tu próxima celebración? </div>
-    <h2>Reserva Ahora</h2>
+    <div class="title">Looking for a luxury dinner at your next celebration? </div>
+    <h2>Book Now at Chef In Cabo</h2>
 
 </div>
 <section class="reservation-section" style="margin-bottom: 4rem;">
@@ -765,68 +765,68 @@
                                 <form method="post" action="/php/contact.php">
                                     <div class="row">
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                            <label>Nombre</label>
+                                            <label>Name</label>
                                             <div class="form-group">
                                                 <input type="text" name="nombre" placeholder="Nombre" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                            <label>Apellido</label>
+                                            <label>Last Name</label>
                                             <div class="form-group">
                                                 <input type="text" name="apellido" placeholder="Apellido" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                            <label>Correo</label>
+                                            <label>Email</label>
                                             <div class="form-group">
                                                 <input type="text" name="mail" placeholder="Correo" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                            <label>Teléfono</label>
+                                            <label>Phone number</label>
                                             <div class="form-group">
                                                 <input type="text" name="tel" placeholder="Teléfono" required="">
                                             </div>
                                         </div>
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                            <label>Dirección</label>
+                                            <label>Address</label>
                                             <div class="form-group">
                                                 <input type="text" name="dir" placeholder="Dirección" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                            <label>Menú</label>
+                                            <label>Menu</label>
                                             <div class="form-group">
                                                 <input type="text" name="menu" placeholder="Menú" required="">
                                             </div>
                                         </div>
                                         <div class="col-lg-12 col-md-12 col-sm-12 form-group">
-                                            <label>Alergias</label>
+                                            <label>Allergies</label>
                                             <div class="form-group">
                                                 <input type="text" name="alergias" placeholder="Alergias" required="">
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                            <label>Servicio a cotizar</label>
+                                            <label>Service to be quoted</label>
                                             <div class="form-group">
                                                 <select name="servicio" class="custom-select-box">
-                                                    <option value="Chef Privado">Chef Privado</option>
-                                                    <option value="Mayordomo">Mayordomo</option>
-                                                    <option value="Compras">Compras</option>
-                                                    <option value="Renta de Yates">Renta de Yates</option>
-                                                    <option value="Repostería">Repostería</option>
-                                                    <option value="Transportación">Transportación</option>
+                                                    <option value="Chef Privado">Private Chef</option>
+                                                    <option value="Mayordomo">Buttler</option>
+                                                    <option value="Compras">Grocery Shopping</option>
+                                                    <option value="Renta de Yates">Yacht Rentals</option>
+                                                    <option value="Repostería">Wedding Cakes</option>
+                                                    <option value="Transportación">Transportations</option>
                                                 </select>
                                             </div>
                                         </div>
 
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
-                                            <label>Fecha del evento</label>
+                                            <label>Date</label>
                                             <span class="icon flaticon-calendar"></span>
                                             <input class="datepicker" type="text" name="fecha"
                                                 placeholder="Seleccione fecha" required="">
@@ -842,7 +842,7 @@
                                         <div class="form-group">
                                             <div class="buttons-box">
                                                 <button type="submit" name="submit" class="theme-btn btn-style-one">
-                                                    <span class="txt">Enviar</span>
+                                                    <span class="txt">send</span>
                                                 </button>
                                             </div>
                                         </div>
@@ -883,10 +883,10 @@
                 <div class="inner-column">
                     <!-- Sec Title / Light -->
                     <div class="sec-title light">
-                        <div class="title">Opiniones</div>
+                        <div class="title">Reviews</div>
                         <h2>
-                            ¿Qué Dicen <br />
-                            Nuestros Clientes?
+                            What our <br />
+                            customers say?
                         </h2>
                     </div>
                     <div class="icon">
