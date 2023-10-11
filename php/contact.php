@@ -32,6 +32,7 @@ if (!validarVariable($nombre) || !validarVariable($apellido) || !validarVariable
 }
 
 $correo_nuevo = new Correo("chefbenitorosas@chefincabo.com,sales@chefincabo.com", $nombre.' ha enviado un nuevo mensaje');
+// $correo_nuevo = new Correo("ivonne.mtz.manzo@gmail.com", $nombre.' ha enviado un nuevo mensaje');
 $correo_nuevo->agregarCampos("Nombre: ", $nombre);
 $correo_nuevo->agregarCampos("Apellido: ", $apellido);
 $correo_nuevo->agregarCampos("Email: ", $mail);

@@ -75,7 +75,7 @@
 <!-- End Hotel Section -->
 
 <!-- Hospitality Section -->
-<section class="hospitality-section">
+<section class="hospitality-section" id="services">
     <div class="auto-container">
         <div class="row clearfix">
             <!-- Video Column -->
@@ -520,7 +520,7 @@
         <!-- Sec Title -->
         <div class="sec-title centered">
             <div class="title"><strong>Chef In Cabo</strong></div>
-            <h2>Experiencia gastronómica de lujo <br> <strong>en Los Cabos</strong></h2>
+            <h2>Experiencia de lujo <br> <strong>en Los Cabos</strong></h2>
             <div class="text">
                 Todos los paquetes de bienvenida vienen con margaritas.
             </div>
@@ -639,7 +639,7 @@
     <div class="auto-container">
         <!-- Sec Title -->
         <div class="sec-title centered">
-            <div class="title">El lujo de una cena gourmet te espera</div>
+            <div class="title">Deleita tu paladar</div>
             <h2>Conoce nuestro menú</h2>
             <!-- <div class="text">
                 Todos los paquetes de bienvenida son por <b>$30 cada persona</b>, también todos los paquetes de
@@ -792,7 +792,7 @@
 
 <!-- Sec Title -->
 <div class="sec-title centered mt-5" id="contact">
-    <div class="title">¿Buscas un toque gourmet en tu próxima celebración? </div>
+    <div class="title">¿Buscas una cena de lujo en tu próxima celebración? </div>
     <h2>Reserva Ahora en Chef In Cabo</h2>
 
 </div>
@@ -887,7 +887,7 @@
                                         </div>
                                         <div class="form-group">
                                             <div class="buttons-box">
-                                                <button type="submit" name="submit" class="theme-btn btn-style-one">
+                                                <button type="submit" name="submit" class="theme-btn btn-style-one formulario">
                                                     <span class="txt">Enviar</span>
                                                 </button>
                                             </div>

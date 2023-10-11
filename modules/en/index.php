@@ -746,7 +746,7 @@
 
 <!-- Sec Title -->
 <div class="sec-title centered mt-5" id="contact">
-    <div class="title">¿Buscas un toque gourmet en tu próxima celebración? </div>
+    <div class="title">¿Buscas una cena de lujo en tu próxima celebración? </div>
     <h2>Reserva Ahora</h2>
 
 </div>
