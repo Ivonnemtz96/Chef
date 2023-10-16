@@ -14,7 +14,7 @@ if (isset($_POST['register'])) {
         // Verificar si el correo electrónico ya está registrado
         
         // Verificar si el correo electrónico ya está registrado
-        $sql = "SELECT * FROM users WHERE user_mail = '$user_mail'";
+        $sql = "SELECT * FROM user WHERE user_mail = '$user_mail'";
         $result = $conn->query($sql);
 
         if ($result->num_rows > 0) {
