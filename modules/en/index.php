@@ -24,18 +24,18 @@
                         <div class="title">Chef in Cabo By Jobeal Catering</div>
                         <h2>Chef Benito Rosas</h2>
                         <div class="text" style="text-align: justify;">
-                            As <strong>Chef In Cabo</strong> I always strive to create an individualized culinary
-                            experience that is both
-                            cutting edge and unexpected for my clients to enjoy with their guests. <br>
-                            We are known in the Los Cabos
-                            market for always using organic and fresh seasonal products from Los Cabos in our kitchen,
-                            these products are always to perfection, that way we make sure, that we can always count on
-                            the best and highest quality products from Los Cabos. <br> Chef in Cabo we are constantly
-                            evolving and changing, my cuisine is inspired by my continuous travels as well as my native
-                            Mexican roots and traditional Italian, Asian and French training. <br> My cuisine highlights
-                            the
-                            best of Los Cabos' seasonal local produce, with great emphasis on proper techniques, bold
-                            flavors and finesse.
+                            As <strong>Chef In Cabo,</strong> I always strive to create a personalized culinary
+                            experience that is both cutting-edge and unexpected, allowing my clients to enjoy with their
+                            guests. <br>
+                            We are renowned in the Los Cabos market for consistently utilizing organic,
+                            seasonal, and fresh produce from the region in our kitchen, ensuring that these ingredients
+                            are always of the highest quality. <br>
+                            Chef in Cabo is in a constant state of evolution and
+                            change. My cuisine is inspired by my continuous travels, as well as my native Mexican roots
+                            and traditional training in Italian, Asian, and French culinary arts. <br>
+                            My kitchen showcases
+                            the best of the local, seasonal produce of Los Cabos, with a strong emphasis on proper
+                            techniques, bold flavors, and finesse.
                         </div>
                     </div>
                 </div>
@@ -90,8 +90,7 @@
                     <div class="quote-box">
                         <span class="quote"><img src="images/icons/quote.png" alt="" /></span>
                         <div class="text">
-                            Ready for an avant-garde gastronomic experience at home? Book our private chef and surprise
-                            your guests.
+                        Ready for a cutting-edge culinary experience at home? Book our private chef and impress your guests.
                         </div>
                     </div>
                 </div>
@@ -104,7 +103,7 @@
                     <div class="sec-title">
                         <div class="title">Exclusively for you</div>
                         <h2>
-                            Enjoy the best experience
+                        Enjoy the finest experience.
                         </h2>
                     </div>
                     <div class="row clearfix">
@@ -141,339 +140,28 @@
 </section>
 <!-- End Hospitality Section -->
 
-
-<!-- Resource Section -->
-<section hidden class="resource-section" id="services" style="padding: 100px 0px 205px;">
+<!-- Beach Section -->
+<section class="beach-section" style="background-image: url(images/background/7.jpg)">
     <div class="auto-container">
-        <!-- Sec Title Two -->
-        <div class="sec-title">
-            <div class="d-flex justify-content-between align-items-center flex-wrap">
-                <div>
-                    <div class="title alternate">Enjoy a Unique Experience </div>
-                    <h2>
-                        Chef In Cabo <br />
-                    </h2>
-                    <h6>Our services</h6>
-                </div>
-                <!-- Phone Box -->
-                <div class="phone-box">
-                    <div class="box-inner">
-                        <span class="icon flaticon-telephone"></span>
-                        Contact Us: <br />
-                        <a target="_blank"
-                            href="https://api.whatsapp.com/send/?phone=5216241131604&text&type=phone_number&app_absent=0">+52
-                            624 113 1604</a>
-                    </div>
-                </div>
+        <div class="inner-container">
+            <!-- Sec Title -->
+            <div class="sec-title light">
+                <h2>At Chef In Cabo, <br>we create unique experiences.</h2>
+                <div class="text">Come and enjoy with your family!</div>
             </div>
-        </div>
-
-        <!-- Hotel Info Tabs -->
-        <div class="hotel-info-tabs">
-            <!-- Hotel Tabs -->
-            <div class="hotel-tabs tabs-box">
-                <!-- Tab Btns -->
-                <ul class="tab-btns tab-buttons clearfix">
-                    <li data-tab="#prod-spa" class="tab-btn active-btn">
-                        <span>01</span> Private chef
-                    </li>
-                    <li data-tab="#prod-rooms" class="tab-btn">
-                        <span>02</span> Grocery Shopping
-                    </li>
-                    <li data-tab="#prod-cuisine" class="tab-btn">
-                        <span>03</span>Event Rental & Event Design
-                    </li>
-                    <li data-tab="#prod-meeting" class="tab-btn">
-                        <span>04</span> Haute patisserie and the latest fashion trends.
-                    </li>
-                    <li data-tab="#prod-destination" class="tab-btn">
-                        <span>05</span> Yacht charter with chef on board
-                    </li>
-                    <li data-tab="#transportacion" class="tab-btn">
-                        <span>06</span> Transportation
-                    </li>
-                    <li data-tab="#more" class="tab-btn">
-                        <span>07</span> Butler, bartender, waiter and more
-                    </li>
-                </ul>
-
-                <!-- Tabs Container -->
-                <div class="tabs-content">
-                    <!-- Tab / Active Tab -->
-                    <div class="tab active-tab" id="prod-spa">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="content-box">
-                                    <!-- Content -->
-                                    <div class="content">
-                                        <div class="number">01</div>
-                                        <h4>
-                                            <a href="#">Private Chef</a>
-                                            <p style="color: #fff; font-size: .8rem;">
-                                                Siempre me esfuerzo por crear una experiencia gastronómica
-                                                individualizada que
-                                                sea de vanguardia e inesperada a la vez para que mis clientes la
-                                                disfruten
-                                                con sus
-                                                invitados. En constante evolución y cambio, mi cocina está inspirada en
-                                                mis
-                                                continuos viajes, así como por mis raíces mexicanas nativas y la
-                                                formación
-                                                tradicional italiana, asiática y francesa. Mi cocina destaca lo mejor de
-                                                los
-                                                productos locales de temporada de Los Cabos, con gran énfasis en las
-                                                técnicas
-                                                adecuadas, sabores audaces y delicadeza.
-                                            </p>
-                                            <a class="more" href="#contact">Contactar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="fotorama" data-width="700" data-height="500" data-autoplay="true"
-                                    data-autoplay="3000">
-                                    <img src="images/resource/06.jpg?=1" alt="">
-                                    <img src="images/resource/01.jpg?=1" alt="">
-                                    <img src="images/resource/02.jpg?=1" alt="">
-                                    <img src="images/resource/05.jpg?=1" alt="">
-                                    <img src="images/resource/03.jpg?=1" alt="">
-                                    <img src="images/resource/04.jpg?=1" alt="">
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Tab -->
-                    <div class="tab" id="prod-rooms">
-                        <div class="row">
-                            <div class="col-12 col-md-6">
-                                <div class="content-box">
-                                    <!-- Content -->
-                                    <div class="content">
-                                        <div class="number">02</div>
-                                        <h4>
-                                            <a href="#">Compras de Comestibles</a>
-                                        </h4>
-                                        <p style="color: #fff; font-size: .8rem;">
-                                            Sería agradable llegar a su villa en Cabo después de viajar y encontrar la
-                                            cocina ya
-                                            abastecida con su elección de comestibles. <br>
-
-                                            Obtenga sus comestibles entregados por los profesionales y no pierda ni un
-                                            minuto de
-                                            su
-                                            tiempo de vacaciones. Usted está en buenas manos con el servicio de entrega
-                                            de
-                                            Jobeal
-                                            Catering.
-                                        </p>
-
-                                        <a class="more" href="#contact">Contactar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-6">
-                                <div class="fotorama" data-width="700" data-height="500" data-autoplay="true"
-                                    data-autoplay="3000">
-                                    <img src="images/resource/5.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Tab -->
-                    <div class="tab" id="prod-cuisine">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="content-box">
-                                    <!-- Content -->
-                                    <div class="content">
-                                        <div class="number">03</div>
-                                        <h4>
-                                            <a href="#">Renta de mobiliario para bodas, fiestas y eventos
-                                                especiales.</a>
-                                        </h4>
-                                        <p style="color: #fff; font-size: .8rem;">
-                                            Creando bodas y eventos inolvidables a través de inspiraciones y no sólo
-                                            inventario.
-                                            Con
-                                            una amplia colección de alquileres y diseños florales para completar la
-                                            experiencia
-                                            de
-                                            su evento.
-                                        </p>
-                                        <a class="more" href="#contact">Contactar</a>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="col-6">
-                                <div class="fotorama" data-width="700" data-height="500">
-                                    <img src="images/resource/6.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Tab -->
-                    <div class="tab" id="prod-meeting">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="content-box">
-                                    <!-- Content -->
-                                    <div class="content">
-                                        <div class="number">04</div>
-                                        <h4>
-                                            <a href="#">Alta repostería y las últimas tendencias de moda.</a>
-                                        </h4>
-                                        <p style="color: #fff; font-size: .8rem;">
-                                            Siempre me esfuerzo por crear una experiencia gastronómica individualizada
-                                            que sea
-                                            refinada e inesperada a la vez para que mis clientes la disfruten con sus
-                                            invitados.
-                                            En constante evolución y cambio, mi cocina está inspirada en mis continuos
-                                            viajes,
-                                            así como por mis raíces mexicanas nativas y la formación tradicional
-                                            italiana,
-                                            asiática y francesa. <br>
-
-                                            Mi cocina destaca lo mejor de los productos locales de temporada de Los
-                                            Cabos, con
-                                            gran énfasis en las técnicas adecuadas, sabores audaces y delicadeza.
-                                        </p>
-                                        <a class="more" href="#contact">Contactar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="fotorama" data-width="700" data-height="500">
-                                    <img src="images/resource/7.jpg" alt="">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Tab -->
-                    <div class="tab" id="prod-destination">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="content-box">
-                                    <!-- Content -->
-                                    <div class="content">
-                                        <div class="number">05</div>
-                                        <h4>
-                                            <a href="#">Alquiler de Yates</a>
-                                        </h4>
-                                        <p style="color: #fff; font-size: .8rem;">
-                                            Nuestros servicios Premium están dirigidos a todos aquellos que aman el
-                                            estilo de
-                                            vida de los yates y desean deleitarse en las extraordinarias aguas de Los
-                                            Cabos.
-                                            Ofrecemos una excelente calidad de productos y atención al cliente para
-                                            nuestros
-                                            clientes exclusivos; ya sea para un crucero casual, bodas, fiestas o eventos
-                                            corporativos.
-                                            <br>
-                                            Oferta de Verano:
-                                            8 Invitados <br>
-                                            3 horas de paseo <br>
-                                            1 Chef Cocinando a bordo <br>
-                                            Todo lo que puedas beber <br>
-                                            $900 US <br>
-                                            <b> Los impuestos no están incluidos</b>
-                                        </p>
-                                        <a class="more" href="#contact">Contactar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="fotorama" data-width="700" data-height="500">
-                                    <img src="images/resource/10.jpg" alt="">
-                                    <img src="images/resource/9.jpg" alt="">
-                                    <img src="images/resource/11.jpg" alt="">
-                                    <img src="images/resource/8.jpg" alt="">
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <!-- Tab -->
-                    <div class="tab" id="transportacion">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="content-box">
-                                    <!-- Content -->
-                                    <div class="content">
-                                        <div class="number">07</div>
-                                        <h4>
-                                            <a href="#"> Transportación. </a>
-                                        </h4>
-                                        <p style="color: #fff; font-size: .8rem;">
-                                            Imagina un viaje sin preocupaciones, donde la comodidad y la privacidad son
-                                            primordiales. Nuestro servicio de transportación privada está diseñado para
-                                            brindarte exactamente eso y mucho más. Ya sea que estés viajando por
-                                            negocios o placer, nuestros conductores profesionales y vehículos de lujo te
-                                            esperan para llevarte a tu destino con elegancia y eficiencia.
-                                        </p>
-                                        <a class="more" href="#contact">Contactar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="fotorama" data-width="700" data-height="500">
-                                    <img src="images/resource/19.jpg" alt="">
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <!-- Tab -->
-                    <div class="tab" id="more">
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="content-box">
-                                    <!-- Content -->
-                                    <div class="content">
-                                        <div class="number">07</div>
-                                        <h4>
-                                            <a href="#"> Mayordomo, bartender y Más... </a>
-                                        </h4>
-                                        <p style="color: #fff; font-size: .8rem;">
-                                            Descubre la excelencia en cada detalle con nuestro exclusivo servicio de
-                                            eventos.
-                                            Mayordomos, meseros, bartenders y más, dedicados a hacer tu ocasión
-                                            inolvidable.
-                                            Profesionalismo y pasión en cada momento. Confía en nosotros para crear
-                                            recuerdos
-                                            memorables.
-                                        </p>
-                                        <a class="more" href="#contact">Contactar</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="fotorama" data-width="700" data-height="500">
-                                    <img src="images/resource/team-3.jpg" alt="">
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
+            <!-- Button Box -->
+            <div class="button-box">
+                <a href="reservation.html" class="theme-btn btn-style-three"><span class="txt"><i
+                            class="flaticon-calendar-2"></i> Book</span></a>
+            </div>
+            <div class="voucher-box">
+                <h5>Call Us</h5>
+                <a href="tel:6241131604" target="_blank" class="theme-btn voucher-btn">624 113 1604</a>
             </div>
         </div>
     </div>
 </section>
-<!-- End Resource Section -->
-
-
+<!-- End Beach Section -->
 
 <!-- Offers Section Two -->
 <section class="offer-section-two" id="paquetes">
@@ -483,7 +171,7 @@
             <div class="title"><strong>Chef In Cabo</strong></div>
             <h2>Luxury experience <br> <strong>in Los Cabos</strong></h2>
             <div class="text">
-            All welcome packages come with margaritas.
+                All welcome packages come with margaritas.
             </div>
         </div>
         <div class="offer-carousel owl-carousel owl-theme">
@@ -746,7 +434,7 @@
 
 <!-- Sec Title -->
 <div class="sec-title centered mt-5" id="contact">
-    <div class="title">Looking for a luxury dinner at your next celebration? </div>
+    <div class="title">Looking for a luxury dinner at your next celebration?</div>
     <h2>Book Now at Chef In Cabo</h2>
 
 </div>
@@ -828,8 +516,8 @@
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Date</label>
                                             <span class="icon flaticon-calendar"></span>
-                                            <input class="datepicker" type="text" name="fecha"
-                                                placeholder="Date" required="">
+                                            <input class="datepicker" type="text" name="fecha" placeholder="Date"
+                                                required="">
                                         </div>
 
                                         <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">

@@ -118,7 +118,7 @@
                 <!-- Column -->
                 <div class="column col-lg-6 col-md-12 col-sm-12">
                     <div class="copyright">
-                        &copy; 2023 Chef In Cabo. Todos los derecehos reservados. Diseñado por
+                        &copy; 2023 Chef In Cabo. Todos los derechos reservados. Diseñado por
                         <a href="https://bananagroup.mx">Banana Group Marketing</a>
                     </div>
                 </div>

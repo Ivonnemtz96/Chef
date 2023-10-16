@@ -33,7 +33,7 @@
                             frescos de temporada de Los Cabos en nuestra cocina, dichos productos son siempre a la
                             perfección, de esa manera nos aseguramos, que siempre podemos contar con los mejores y más
                             altos productos de calidad de Los Cabos. <br>
-                            Chef in cabo estamos en constante evolucion y cambio, mi cocina esta inspirada en mis
+                            Chef in cabo estamos en constante evolución y cambio, mi cocina esta inspirada en mis
                             continuos viajes así como en mis raíces nativas mexicanas y en la formación tradicional
                             italiana, asiática y francesa. <br>
                             Mi cocina destaca lo mejor de los productos locales de temporada de Los Cabos, con gran
