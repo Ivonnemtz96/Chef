@@ -5,7 +5,7 @@
                     <a href="/admin/perfil/"><img src="../assets/images/user.png" alt="User" /></a>
                 </div>
                 <div class="detail mt-3">
-                    <h5 class="mb-0"><? echo $_SESSION['user_nom'];?></h5>
+                    <h5 class="mb-0"><? echo $_SESSION['user_nombre'];?></h5>
                     <small>Admin</small>
                 </div>
                 <div class="social">

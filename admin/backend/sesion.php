@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
     // Consultar en la base de datos si el usuario existe
-    $sql = "SELECT user_id, user_nom, user_pass FROM users WHERE user_mail = '$user_mail'";
+    $sql = "SELECT user_id, user_nombre, user_pass FROM user WHERE user_mail = '$user_mail'";
     $result = $conn->query($sql);
     
     
@@ -31,7 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         
         if (password_verify($user_pass, $stored_hash)) {
             $_SESSION['user_id'] = $row['user_id'];
-            $_SESSION['user_nom'] = $row['user_nom'];
+            $_SESSION['user_nombre'] = $row['user_nombre'];
             // $response = array("response" => "Ok");
             // echo(json_encode($response));
             // echo "OK";
