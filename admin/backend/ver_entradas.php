@@ -65,6 +65,9 @@
         </div>
         ';
     }
+
+
+
     // Cerrar conexión a la base de datos
     mysqli_close($conn);
 ?>

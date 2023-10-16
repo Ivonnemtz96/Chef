@@ -42,13 +42,6 @@
                                         <input type="text" name="blog_lugar" class="form-control" required />
                                     </div>
                                 </div>
-
-                                <!-- <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <label>Fecha</label>
-                                        <input type="date" name="blog_fecha" class="form-control" required />
-                                    </div>
-                                </div> -->
                                 <div class="col-lg-6">
                                     <div class="form-group">
                                         <!-- El input para seleccionar los archivos, fíjate en su id -->

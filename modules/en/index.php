@@ -6,7 +6,7 @@
 
     <div id="text" class="text-center">
         <img src="images/jobeal.png" alt="">
-        <h2 style="font-size: 1.2rem;">Discover a uniques experience of vacations in Cabo</h2>
+        <h2 style="font-size: 1.2rem;">Discover a unique vacation experience in Los Cabos</h2>
     </div>
 
 </section>
@@ -573,7 +573,7 @@
                     <div class="sec-title light">
                         <div class="title">Reviews</div>
                         <h2>
-                            What our <br />
+                            What do our <br />
                             customers say?
                         </h2>
                     </div>

@@ -6,7 +6,7 @@
 
     <div id="text" class="text-center">
         <img src="images/jobeal.png" alt="">
-        <h2 style="font-size: 1.2rem;">Discover a uniques experience of vacations in Cabo</h2>
+        <h2 style="font-size: 1.2rem;">Discover a unique vacation experience in Los Cabos</h2>
     </div>
 
 </section>
@@ -886,7 +886,8 @@
                                         </div>
                                         <div class="form-group">
                                             <div class="buttons-box">
-                                                <button type="submit" name="submit" class="theme-btn btn-style-one formulario">
+                                                <button type="submit" name="submit"
+                                                    class="theme-btn btn-style-one formulario">
                                                     <span class="txt">Enviar</span>
                                                 </button>
                                             </div>
@@ -1025,3 +1026,93 @@
     </div>
 </section>
 <!-- End Testimonial Section -->
+
+<!-- News Section Three -->
+<section hidden class="news-section-three">
+    <div class="auto-container" style="margin-top: 2rem;">
+        <!-- Sec Title -->
+        <div class="sec-title centered">
+            <div class="title">Stay in the loop</div>
+            <h2>news & update</h2>
+        </div>
+        <div class="row clearfix">
+
+            <!-- News Block Five -->
+            <div class="news-block-five col-lg-4 col-md-4 col-sm-12">
+                <div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <div class="image">
+                        <a href="#"><img src="images/resource/news-4.jpg" alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <div class="content">
+                            <div class="post-date">
+                                11
+                                <span>dec <br> 2022</span>
+                            </div>
+                            <ul class="post-info">
+                                <li><a href="blog-detail.html">Inspiration</a></li>
+                            </ul>
+                            <h4><a href="blog-detail.html">24 hour cancellation on flexible bookings</a></h4>
+                            <div class="text">Nisl quam nestibulum ac quam necod io elemen the aucan ligula Nisl quam
+                                nestibulum ac quam.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- News Block Five -->
+            <div class="news-block-five col-lg-4 col-md-4 col-sm-12">
+                <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <div class="image">
+                        <a href="#"><img src="images/resource/news-5.jpg" alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <div class="content">
+                            <div class="post-date">
+                                11
+                                <span>dec <br> 2022</span>
+                            </div>
+                            <ul class="post-info">
+                                <li><a href="blog-detail.html">Inspiration</a></li>
+                            </ul>
+                            <h4><a href="blog-detail.html">24 hour cancellation on flexible bookings</a></h4>
+                            <div class="text">Nisl quam nestibulum ac quam necod io elemen the aucan ligula Nisl quam
+                                nestibulum ac quam.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- News Block Five -->
+            <div class="news-block-five col-lg-4 col-md-4 col-sm-12">
+                <div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                    <div class="image">
+                        <a href="#"><img src="images/resource/news-5.jpg" alt="" /></a>
+                    </div>
+                    <div class="lower-content">
+                        <div class="content">
+                            <div class="post-date">
+                                11
+                                <span>dec <br> 2022</span>
+                            </div>
+                            <ul class="post-info">
+                                <li><a href="blog-detail.html">Inspiration</a></li>
+                            </ul>
+                            <h4><a href="blog-detail.html">24 hour cancellation on flexible bookings</a></h4>
+                            <div class="text">Nisl quam nestibulum ac quam necod io elemen the aucan ligula Nisl quam
+                                nestibulum ac quam.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+        <!-- Button Box -->
+        <div class="button-box text-center">
+            <a href="blog.html" class="theme-btn btn-style-one"><span class="txt">View All News</span></a>
+        </div>
+
+    </div>
+</section>
+<!-- End News Section Three -->
