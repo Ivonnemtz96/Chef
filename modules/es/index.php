@@ -68,6 +68,10 @@
                     </div>
                 </div>
             </div>
+             <div class="button-box">
+                <a href="/#contact" class="theme-btn btn-style-three"><span class="txt"><i
+                            class="flaticon-calendar-2"></i> Reservar</span></a>
+            </div>
         </div>
 
     </div>
@@ -168,7 +172,7 @@
             </div>
             <!-- Button Box -->
             <div class="button-box">
-                <a href="reservation.html" class="theme-btn btn-style-three"><span class="txt"><i
+                <a href="/#contact" class="theme-btn btn-style-three"><span class="txt"><i
                             class="flaticon-calendar-2"></i> Reservar</span></a>
             </div>
             <div class="voucher-box">
@@ -807,7 +811,7 @@
                         <div class="inner-column">
                             <!-- Reservation Form -->
                             <div class="reservation-form">
-                                <form method="post" action="/php/contact.php">
+                                <form method="post" action="/php/contactEsp.php">
                                     <div class="row">
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Nombre</label>

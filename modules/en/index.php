@@ -65,6 +65,10 @@
                     </div>
                 </div>
             </div>
+             <div class="button-box">
+                <a href="/#contact" class="theme-btn btn-style-three"><span class="txt"><i
+                            class="flaticon-calendar-2"></i>Book Now!</span></a>
+            </div>
         </div>
 
     </div>
@@ -151,7 +155,7 @@
             </div>
             <!-- Button Box -->
             <div class="button-box">
-                <a href="reservation.html" class="theme-btn btn-style-three"><span class="txt"><i
+                <a href="/#contact" class="theme-btn btn-style-three"><span class="txt"><i
                             class="flaticon-calendar-2"></i> Book</span></a>
             </div>
             <div class="voucher-box">
