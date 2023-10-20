@@ -65,7 +65,7 @@
                     </div>
                 </div>
             </div>
-             <div class="button-box">
+            <div class="button-box">
                 <a href="/#contact" class="theme-btn btn-style-three"><span class="txt"><i
                             class="flaticon-calendar-2"></i>Book Now!</span></a>
             </div>
@@ -94,7 +94,8 @@
                     <div class="quote-box">
                         <span class="quote"><img src="images/icons/quote.png" alt="" /></span>
                         <div class="text">
-                        Ready for a cutting-edge culinary experience at home? Book our private chef and impress your guests.
+                            Ready for a cutting-edge culinary experience at home? Book our private chef and impress your
+                            guests.
                         </div>
                     </div>
                 </div>
@@ -107,7 +108,7 @@
                     <div class="sec-title">
                         <div class="title">Exclusively for you</div>
                         <h2>
-                        Enjoy the finest experience.
+                            Enjoy the finest experience.
                         </h2>
                     </div>
                     <div class="row clearfix">
@@ -604,6 +605,69 @@
             <div class="carousel-column col-lg-7 col-md-12 col-sm-12">
                 <div class="inner-column">
                     <div class="single-item-carousel owl-carousel owl-theme">
+                        <!-- Testimonial Block -->
+                        <div class="testimonial-block">
+                            <div class="inner-box">
+                                <div class="rating">
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                </div>
+                                <div class="text">
+                                    We came to Los Cabos to celebrate a birthday, and we chose Chef in Cabo as our top
+                                    option. We entrusted everything to Benito Rosas to surprise
+                                    us, and we were absolutely delighted. The BEST CAKE we have ever tasted! It had all
+                                    the details we had provided, and not a single one of our
+                                    requests was missed. Highly recommended, and we will be returning very soon for the
+                                    private chef service.
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Testimonial Block -->
+                        <div class="testimonial-block">
+                            <div class="inner-box">
+                                <div class="rating">
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                </div>
+                                <div class="text">
+                                    We wanted to enjoy the wonderful sunset here in Los Cabos, so we decided to rent a
+                                    private chef yacht through Chef In Cabo's website, and it was
+                                    undoubtedly the best decision! Not only did we get to savor the best views, but the
+                                    food was delicious, everything prepared with
+                                    professionalism, and the drinks were superb as well. Thank you, Chef Benito Rosas,
+                                    for allowing us to make the most of our vacation!
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <!-- Testimonial Block -->
+                        <div class="testimonial-block">
+                            <div class="inner-box">
+                                <div class="rating">
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                    <span class="fa fa-star"></span>
+                                </div>
+                                <div class="text">
+                                    Chef in Cabo not only delivered but exceeded our expectations! Never having been in
+                                    Los Cabos, and not having a car, shopping with them was
+                                    the absolute best choice we made! They were able to satisfy our special request,
+                                    delivery was quick, and the shrimp was sublime! Thank you,
+                                    Benito Rosas! We will definitely use you again in the future!
+                                </div>
+                            </div>
+                        </div>
+
                         <!-- Testimonial Block -->
                         <div class="testimonial-block">
                             <div class="inner-box">
