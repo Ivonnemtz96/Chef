@@ -30,7 +30,7 @@
                  <ul class="info">
                      <li>
                          <span class="icon flaticon-email-2"></span>Correo:
-                         <a target="_blank" href="mailto:info@chefincabo.com">info@chefincabo.com</a>
+                         <a target="_blank" href="mailto:chefbenitorosas@chefincabo.com">chefbenitorosas@chefincabo.com</a>
                      </li>
                  </ul>
 
