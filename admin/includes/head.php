@@ -4,7 +4,7 @@
     <meta name="description" content="" />
     <meta name="author" content="Webpixels" />
     <link rel="icon" href="../assets/images/favicon.ico" type="image/x-icon" />
-    <title>:: BigBucket :: Home</title>
+    <title>Admin - Chef in Cabo</title>
 
     <link rel="stylesheet" href="../assets/vendor/themify-icons/themify-icons.css" />
     <link rel="stylesheet" href="../assets/vendor/fontawesome/css/font-awesome.min.css" />
