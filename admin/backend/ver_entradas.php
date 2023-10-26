@@ -29,26 +29,9 @@
         echo'
         <div class="col-lg-4">
             <div class="card">
-                <div class="card-header py-4">
-                    <div class="d-flex align-items-center">
-                        <span class="avatar avatar-sm bg-purple">BM</span>
-                        <div class="avatar-content">
-                            <h5 class="h6 mb-0">Bettie Mavis</h5>
-                            <small class="d-block text-muted">New York, US</small>
-                        </div>
-                    </div>
-                </div>
                 <div class="card-image" style="background-image:url(/upload/portada/'.date('Y/m', strtotime($row['blog_fecha'])).'/'.$row['blog_portada'].'.jpg); heigth:7rem; height: 18rem;background-size: cover;background-position: center;">
-
                 </div>
                 <div class="card-body">
-                    <div class="row mb-1">
-                        <div class="col">
-                            <div class="card-icon-actions card-icon-actions-lg text-right">
-                                <a href="javascript:void(0);"><i class="fa fa-bookmark"></i></a>
-                            </div>
-                        </div>
-                    </div>
                     <h6 class="heading h6 mb-3">'.$row['blog_nom'].'</h6>
                     <p class="card-text">'.$row['blog_desc'].'</p>
                 </div>
