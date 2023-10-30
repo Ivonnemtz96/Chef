@@ -645,6 +645,7 @@
         <div class="sec-title centered">
             <div class="title">Deleita tu paladar</div>
             <h2>Conoce nuestro menú</h2>
+            <span style="color: #a1a1a1;">Impuestos y propinas no incluidos</span>
             <!-- <div class="text">
                 Todos los paquetes de bienvenida son por <b>$30 cada persona</b>, también todos los paquetes de
                 bienvenida
@@ -673,11 +674,11 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery5">
-                                        <a href="images/menu/es/01.jpg">
-                                            <img style="width: 40rem;" src="images/menu/es/01.jpg" alt="">
+                                        <a href="images/menu/esp/01.jpg">
+                                            <img style="width: 40rem;" src="images/menu/esp/01.jpg" alt="">
                                         </a>
-                                        <a href="images/menu/es/13.jpg">
-                                            <img style="width: 25rem;" src="images/menu/es/13.jpg" alt="">
+                                        <a href="images/menu/esp/13.jpg">
+                                            <img style="width: 25rem;" src="images/menu/esp/13.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -692,11 +693,11 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery2">
-                                        <a href="images/menu/es/02.jpg">
-                                            <img style="width: 35rem;" src="images/menu/es/02.jpg" alt="">
+                                        <a href="images/menu/esp/02.jpg">
+                                            <img style="width: 35rem;" src="images/menu/esp/02.jpg" alt="">
                                         </a>
-                                        <a href="images/menu/es/03.jpg">
-                                            <img style="width: 35rem;" src="images/menu/es/03.jpg" alt="">
+                                        <a href="images/menu/esp/03.jpg">
+                                            <img style="width: 35rem;" src="images/menu/esp/03.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -711,11 +712,11 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery3">
-                                        <a href="images/menu/es/04.jpg">
-                                            <img src="images/menu/es/04.jpg" alt="" style="width: 30rem;">
+                                        <a href="images/menu/esp/04.jpg">
+                                            <img src="images/menu/esp/04.jpg" alt="" style="width: 30rem;">
                                         </a>
-                                        <a href="images/menu/es/05.jpg">
-                                            <img src="images/menu/es/05.jpg" alt="" style="width: 30rem;">
+                                        <a href="images/menu/esp/05.jpg">
+                                            <img src="images/menu/esp/05.jpg" alt="" style="width: 30rem;">
                                         </a>
                                     </div>
                                 </div>
@@ -731,33 +732,33 @@
                                 <!-- Form Column -->
                                 <div class="col-lg-12 col-md-12 col-sm-12">
                                     <div class="inner-column" id="animated-thumbnails-gallery">
-                                        <a href="images/menu/es/06.jpg">
-                                            <img src="images/menu/es/06.jpg" alt="" class="menu-gallery"
+                                        <a href="images/menu/esp/06.jpg">
+                                            <img src="images/menu/esp/06.jpg" alt="" class="menu-gallery"
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/es/07.jpg">
-                                            <img src="images/menu/es/07.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/07.jpg">
+                                            <img src="images/menu/esp/07.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/es/08.jpg">
-                                            <img src="images/menu/es/08.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/08.jpg">
+                                            <img src="images/menu/esp/08.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/es/09.jpg">
-                                            <img src="images/menu/es/09.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/09.jpg">
+                                            <img src="images/menu/esp/09.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/es/10.jpg">
-                                            <img src="images/menu/es/10.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/10.jpg">
+                                            <img src="images/menu/esp/10.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
-                                        <a href="images/menu/es/11.jpg">
-                                            <img src="images/menu/es/11.jpg" class="menu-gallery" alt=""
+                                        <a href="images/menu/esp/11.jpg">
+                                            <img src="images/menu/esp/11.jpg" class="menu-gallery" alt=""
                                                 style="width: 25rem;">
                                         </a>
 
@@ -774,8 +775,8 @@
                                 <!-- Form Column -->
                                 <div class="form-column col-lg-8 col-md-12 col-sm-12">
                                     <div class="inner-column" id="gallery5 animated-thumbnails-gallery">
-                                        <a href="images/menu/es/12.jpg">
-                                            <img src="images/menu/es/12.jpg" alt="">
+                                        <a href="images/menu/esp/12.jpg">
+                                            <img src="images/menu/esp/12.jpg" alt="">
                                         </a>
                                     </div>
                                 </div>
@@ -785,6 +786,7 @@
 
                 </div>
             </div>
+            
         </div>
 
     </div>
