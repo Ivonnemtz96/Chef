@@ -30,8 +30,7 @@ if (!validarVariable($nombre) || !validarVariable($apellido) || !validarVariable
   mandarError("1");
 
 }
-// $correo_nuevo = new Correo("chefbenitorosas@chefincabo.com", $nombre.' ha enviado un nuevo mensaje');
-$correo_nuevo = new Correo("ivonne.mtz.manzo@gmail.com", $nombre.' ha enviado un nuevo mensaje');
+$correo_nuevo = new Correo("chefbenitorosas@chefincabo.com", $nombre.' ha enviado un nuevo mensaje');
 $correo_nuevo->agregarCampos("Nombre: ", $nombre);
 $correo_nuevo->agregarCampos("Apellido: ", $apellido);
 $correo_nuevo->agregarCampos("Email: ", $mail);
@@ -47,7 +46,6 @@ $enviado = $correo_nuevo->enviarEmail();
 
 if ($enviado) {
   mandarError("0");
-
   
   //echo json_encode(array('success' => 1));
 } else {
@@ -60,7 +58,7 @@ function mandarError($codigo_de_error)
   if ($GLOBALS["tipo_de_procesamiento"] == 0) {
 
     if($codigo_de_error == "0"){
-      require_once($_SERVER["DOCUMENT_ROOT"]."/backend/guardar_datos.php");
+      require_once($_SERVER["DOCUMENT_ROOT"]."/admin/backend/guardardatosEng.php");
       exit;
     
     }

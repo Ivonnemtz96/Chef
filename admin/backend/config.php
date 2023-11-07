@@ -2,9 +2,9 @@
 //include(backend/Database.php");
  // Realizar la conexión a la base de datos
  $servername = "localhost";
- $username = "arketll6_chefincabo";
+ $username = "banana_chefincabo";
  $password = "XM9jPrEo24";
- $dbname = "arketll6_chefincabo";
+ $dbname = "banana_chefincabo";
 
  $conn = new mysqli($servername, $username, $password, $dbname);
 

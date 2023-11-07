@@ -77,8 +77,8 @@ if (isset($_POST["submit"])) {
             // La imagen se ha movido correctamente, puedes guardar la ruta en la base de datos
             // Preparar la consulta SQL con marcadores de posición
 
-            $sql =  "INSERT INTO blog (blog_nom, blog_nomEng, blog_autor, blog_cat, blog_lugar, blog_fecha, blog_portada, blog_desc, blog_descEng) 
-            VALUES ('$blog_nom', '$blog_nomEng', '$blog_autor', '$blog_cat', '$blog_lugar', '$blog_fecha', '$codigo', '$blog_desc', '$blog_descEng')";
+            $sql = "INSERT INTO blog (blog_autor, blog_desc, blog_descEng, blog_cat,blog_lugar, blog_fecha,  blog_nom,  blog_nomEng,blog_portada) 
+                      VALUES ('$blog_autor','$blog_desc', '$blog_descEng','$blog_cat','$blog_lugar','$blog_fecha','$blog_nom', '$blog_nomEng',  '$codigo', )";
 
             
             // Ejecutar la consulta

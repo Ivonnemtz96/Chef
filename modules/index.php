@@ -808,7 +808,7 @@
                         <div class="inner-column">
                             <!-- Reservation Form -->
                             <div class="reservation-form">
-                                <form method="post" action="/php/contact.php">
+                                <form method="post" action="/php2/contactEsp.php">
                                     <div class="row">
                                         <div class="col-lg-6 col-md-6 col-sm-12 form-group">
                                             <label>Nombre</label>
